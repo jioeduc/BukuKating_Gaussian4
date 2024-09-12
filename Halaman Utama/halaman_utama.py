@@ -145,7 +145,7 @@ elif menu == "About Us":
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1VhC_WL_PMJsJ92_HDe0Urlj2UNxSjJoO",
             "https://drive.google.com/uc?export=view&id=1S1_KVbHA1S_dX4t82rwQ2yyxXUoDb0e0ss",
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
         ]
@@ -221,11 +221,11 @@ elif menu == "About Us":
                 "motto_hidup": "jalanin dulu keles",
             },
              {
-                "nama": "E",
+                "nama": "Ali Aristo Muthahhari Parisi",
                 "sebagai": "Anggota",
-                "nim": "122450100",
-                "fun_fact": "nyemilin es bata, kiko",
-                "motto_hidup": "jalanin dulu keles",
+                "nim": "122450088",
+                "fun_fact": "tim bubur gk diaduk",
+                "motto_hidup": "Kalo rencana A gagal, santai masih ada sisa 25 huruf lagi",
             },
              {
                 "nama": "Arienta Khusnul Ananda",
