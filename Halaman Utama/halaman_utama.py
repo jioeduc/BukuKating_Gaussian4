@@ -159,11 +159,11 @@ elif menu == "About Us":
                 "motto_hidup": "Alhamdulillah masih hidup",
             },
             {
-                "nama": "C",
+                "nama": "Afifah Fauziah",
                 "sebagai": "Anggota",
-                "nim": "122450000",
-                "fun_fact": "nyemilin es bata",
-                "motto_hidup": "jalanin dulu aja",
+                "nim": "123450002",
+                "fun_fact": "suka cowo 2D",
+                "motto_hidup": "kalo error tinggal trial lagi aja",
             },
             {
                 "nama": "D",
