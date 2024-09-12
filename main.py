@@ -9,8 +9,8 @@ Homepage = st.Page("Halaman Utama/halaman_utama.py",
     default=True)
 
 Mahasiswa1 = st.Page(
-    "Buku Kating/016_Kemas Veriandra Ramadhan.py",
-    title="016 - Kemas Veriandra Ramadhan",
+    "Buku Kating/063_Arya Muda Siregar.py",
+    title="063 - Arya Muda Siregar",
     icon=":material/person:",
 )
 Mahasiswa2 = st.Page(
@@ -19,37 +19,37 @@ Mahasiswa2 = st.Page(
     icon=":material/person:",
 )
 Mahasiswa3 = st.Page(
-    "Buku Kating/072_Fathinah Nur Azizah.py",
-    title="072 - Fathinah Nur Azizah",
+    "Buku Kating/002_Afifah Fauziah.py",
+    title="002 - Afifah Fauziah",
     icon=":material/person:",
 )
 Mahasiswa4 = st.Page(
-    "Buku Kating/117_Anwar Muslim.py",
+    "Buku Kating/117_Anwar Muslim copy 3.py",
     title="117 - Anwar Muslim",
     icon=":material/person:",
 )
 Mahasiswa5 = st.Page(
-    "Buku Kating/014_Deva Anjani Khayyuninafsyah.py",
+    "Buku Kating/117_Anwar Muslim copy 4.py",
     title="014 - Deva Anjani Khayyuninafsyah",
     icon=":material/person:",
 )
 Mahasiswa6 = st.Page(
-    "Buku Kating/103_Rut Junita Sari Siburian.py",
+    "Buku Kating/117_Anwar Muslim copy 5.py",
     title="103 - Rut Junita Sari Siburian",
     icon=":material/person:",
 )
 Mahasiswa7 = st.Page(
-    "Buku Kating/016_Kemas Veriandra Ramadhan.py",
+    "Buku Kating/117_Anwar Muslim copy.py",
     title="016 - Kemas Veriandra Ramadhan",
     icon=":material/person:",
 )
 Mahasiswa8 = st.Page(
-    "Buku Kating/016_Kemas Veriandra Ramadhan.py",
+    "Buku Kating/020_Try Yani Rizki Nur Rohmah.py",
     title="016 - Kemas Veriandra Ramadhan",
     icon=":material/person:",
 )
 Mahasiswa9 = st.Page(
-    "Buku Kating/016_Kemas Veriandra Ramadhan.py",
+    "Buku Kating/000.py",
     title="016 - Kemas Veriandra Ramadhan",
     icon=":material/person:",
 )
@@ -69,7 +69,7 @@ Mahasiswa12 = st.Page(
     icon=":material/person:",
 )
 Mahasiswa13 = st.Page(
-    "Buku Kating/016_Kemas Veriandra Ramadhan.py",
+    "Buku Kating/103_Rut Junita Sari Siburian.py",
     title="016 - Kemas Veriandra Ramadhan",
     icon=":material/person:",
 )
