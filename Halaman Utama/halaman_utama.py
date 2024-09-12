@@ -81,9 +81,9 @@ def streamlit_menu():
                 "font-size": "15px",
                 "text-align": "left",
                 "margin": "0px",
-                "--hover-color": "#eee",
+                "--hover-color": "#83B4FF",
             },
-            "nav-link-selected": {"background-color": "#3FBAD8"},
+            "nav-link-selected": {"background-color": "#FDFFE2"},
         },
     )
     return selected
@@ -102,24 +102,14 @@ if menu == "Home":
             "<h1 class='centered-title'>Deskripsi Kelompok</h1>", unsafe_allow_html=True
         )
         st.markdown(
-            """<div style="text-align: justify;">Lorem ipsum dolor sit amet, consectetur adipiscing elit, 
-                    sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-                    quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-                    uis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. 
-                    Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est 
-                    laborum.</div>""",
+            """<div style="text-align: justify;">Kelompok kami memilih nama Gaussian yang diambil dari perangkat lunak kimia komputasi yang dibuat oleh Sir John A. Pople, serta dari penggunaan orbital Gaussian sebagai basis perhitungan. Gaussian Distribution, konsep statistik yang penting, menjadi dasar bagi para Data Analyst. Nama ini dipilih untuk memotivasi anggota kelompok agar mendalami distribusi Gaussian, memperkaya keterampilan, dan meningkatkan kualitas sebagai Data Analyst di masa depan.</div>""",
             unsafe_allow_html=True,
         )
         st.write(""" """)
-        foto_kelompok = "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_"
+        foto_kelompok = "https://drive.google.com/uc?export=view&id=10u1MqDbyUUgbYnIB5T82VI_9WbnDA1XG"
         layout(foto_kelompok)
         st.markdown(
-            """<div style="text-align: justify;">Lorem ipsum dolor sit amet, consectetur adipiscing elit, 
-                    sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-                    quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-                    uis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. 
-                    Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est 
-                    laborum.</div>""",
+            """<div style="text-align: justify;">Kelompok kami memilih nama Gaussian yang diambil dari perangkat lunak kimia komputasi yang dibuat oleh Sir John A. Pople, serta dari penggunaan orbital Gaussian sebagai basis perhitungan. Gaussian Distribution, konsep statistik yang penting, menjadi dasar bagi para Data Analyst. Nama ini dipilih untuk memotivasi anggota kelompok agar mendalami distribusi Gaussian, memperkaya keterampilan, dan meningkatkan kualitas sebagai Data Analyst di masa depan.</div>""",
             unsafe_allow_html=True,
         )
         st.write(""" """)
@@ -136,7 +126,7 @@ elif menu == "About Us":
         st.markdown("<h1 class='centered-title'>About Us</h1>", unsafe_allow_html=True)
         gambar_urls = [
             "https://drive.google.com/uc?export=view&id=1paZWnSpICzOJGlVPsu19Hi_k_FTHanO5",
-            "https://drive.google.com/uc?export=view&id=1Fd6MLsRFAEuRldHBeiuhgt3oj85qNh1q",
+            "https://drive.google.com/uc?export=view&id=1oG4GBAQoowRpnY3K2vL_TBDDJbChGdyg",
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
@@ -158,11 +148,11 @@ elif menu == "About Us":
                 "motto_hidup": "jangan panik",
             },
             {
-                "nama": "B",
+                "nama": "Fathinah Nur Azizah",
                 "sebagai": "Bu Lurah",
-                "nim": "122450000",
-                "fun_fact": "nyemilin es bata",
-                "motto_hidup": "Ya apa ya",
+                "nim": "123450072",
+                "fun_fact": "aku carat",
+                "motto_hidup": "Alhamdulillah masih hidup",
             },
             {
                 "nama": "C",
