@@ -137,10 +137,10 @@ elif menu == "About Us":
             "https://drive.google.com/uc?export=view&id=1Fd6MLsRFAEuRldHBeiuhgt3oj85qNh1q",
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=11fcnxJJYyNo6TCm07e31kTH0swgoWT1QQ",
-            "https://drive.google.com/uc?export=view&id=1S1_KVbHA1S_dX4t82rwQ2yyxXUoDb0e0ss",
+            "https://drive.google.com/uc?export=view&id=1mFjQ2PaaTEwTwFQIgfe6mBMoBrOfflbC",
+            "https://drive.google.com/uc?export=view&id=1fcnxJJYyNo6TCm07e31kTH0swgoWT1QQ",
+            "https://drive.google.com/uc?export=view&id=1VhC_WL_PMJsJ92_HDe0Urlj2UNxSjJoO",
+            "https://drive.google.com/uc?export=view&id=1S1_KVbHA1S_dX4t82rwQ2yyxXUoDb0e0",
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
         ]
         data_list = [
@@ -201,11 +201,11 @@ elif menu == "About Us":
                 "motto_hidup": "jalanin dulu keles",
             },
              {
-                "nama": "E",
+                "nama": "Giofani Aristyo",
                 "sebagai": "Anggota",
-                "nim": "122450100",
-                "fun_fact": "nyemilin es bata, kiko",
-                "motto_hidup": "jalanin dulu keles",
+                "nim": "123450065",
+                "fun_fact": "ga suka manis",
+                "motto_hidup": "gali ilmu sebanyak-banyaknya",
             },
              {
                 "nama": "iqfina Haula Halika",
