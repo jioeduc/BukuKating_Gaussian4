@@ -129,7 +129,7 @@ elif menu == "About Us":
         )
         st.markdown("<h1 class='centered-title'>About Us</h1>", unsafe_allow_html=True)
         gambar_urls = [
-            "https://drive.google.com/uc?export=view&id=1paZWnSpICzOJGlVPsu19Hi_k_FTHanO5",
+            "https://drive.google.com/uc?export=view&id=1rAqlB9o13AETipMjJ9rOk4ce3oGOFmnn",
             "https://drive.google.com/uc?export=view&id=1oG4GBAQoowRpnY3K2vL_TBDDJbChGdyg",
             "https://drive.google.com/uc?export=view&id=1Fd6MLsRFAEuRldHBeiuhgt3oj85qNh1q",
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
@@ -141,7 +141,7 @@ elif menu == "About Us":
             "https://drive.google.com/uc?export=view&id=1fcnxJJYyNo6TCm07e31kTH0swgoWT1QQ",
             "https://drive.google.com/uc?export=view&id=1VhC_WL_PMJsJ92_HDe0Urlj2UNxSjJoO",
             "https://drive.google.com/uc?export=view&id=1S1_KVbHA1S_dX4t82rwQ2yyxXUoDb0e0",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1pUXEmfJ02wRPhJkabxM3i4rBcxrxlQYZ",
         ]
         data_list = [
             {
@@ -229,11 +229,11 @@ elif menu == "About Us":
                 "motto_hidup": "jalanin aja dulu",
             },
              {
-                "nama": "E",
+                "nama": "Melinza Nabila",
                 "sebagai": "Anggota",
-                "nim": "122450100",
-                "fun_fact": "nyemilin es bata, kiko",
-                "motto_hidup": "jalanin dulu keles",
+                "nim": "123450122",
+                "fun_fact": "selalu makan permen karet",
+                "motto_hidup": "challange your limits",
             },
         ]
         display_images_with_data(gambar_urls, data_list)
