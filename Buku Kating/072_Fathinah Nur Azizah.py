@@ -99,12 +99,12 @@ menu = streamlit_menu()
 if menu == "Kesekjenan":
     def kesekjenan():
         gambar_urls = [
-            "https://drive.google.com/uc?export=view&id=1BJtmp3FopONZXAlLXqUWbJM8RygCHZG0",
-            "https://drive.google.com/uc?export=view&id=1BLY5LuYAWIMn5v1oQ60_alGMNBHDrYHy",
-            "https://drive.google.com/uc?export=view&id=1BLg_0PZHDue1fC2zyOEE0s3pknGgKc03",
-            "https://drive.google.com/uc?export=view&id=1BKI6c6rxD1gD0NbPPQjV5AiopL8i9FM6",
-            "https://drive.google.com/uc?export=view&id=1BMdrAVJVweDCJHsyl1dQ5efoM9xIaKVP",
-            "https://drive.google.com/uc?export=view&id=1BJFSl3pCj43G6wT9inb5gl3UIvhYW5pR",
+            "https://drive.google.com/uc?export=view&id=1yMLx11UAxx27_x75XPe4gAibWXdH0794",
+            "https://drive.google.com/uc?export=view&id=1yMCQ2fbkKt_zR4XIhACwCexAw6H5rA2i",
+            "https://drive.google.com/uc?export=view&id=1yLbraM-Bxij8JsfA7YWS7Fgp7QtGKQO5",
+            "https://drive.google.com/uc?export=view&id=1yWZ1qaB16uOCuMOGOYinkm2VnfTsLEQp",
+            "https://drive.google.com/uc?export=view&id=1yKoYwdq5mqIz5dAu79uJ-mjefWJAV3vt",
+            "https://drive.google.com/uc?export=view&id=1yU4eExgpi5q4Ioa4gC4gwb-8NsorpVfa",
         ]
         data_list = [
             {
@@ -115,8 +115,8 @@ if menu == "Kesekjenan":
                 "alamat": "Pulau Damar",
                 "hobbi": "Dengerin musik",
                 "sosmed": "@amsirahk",
-                "kesan": "Abangnya asik di ajak ngobrol",  
-                "pesan":"semangat buat abang semoga bisa lulus tepat waktu"
+                "kesan": "Abangnya inspiratif",  
+                "pesan":"Jangan lupa berdoa dan semangat selalu"
             },
             {
                 "nama": "Pandra Insani Putra Azwar",
@@ -126,8 +126,8 @@ if menu == "Kesekjenan":
                 "alamat": "Sukarame",
                 "hobbi": "Main gitar",
                 "sosmed": "@pndrinsnptr2",
-                "kesan": "Abang ini asik dan seru",  
-                "pesan":"Semangkat kuliah dan TA nya semoga bisa lulus tepat waktu"
+                "kesan": "Abangnya unik dan ngasih pandangan berbeda buat saya, gokil",  
+                "pesan":"Jangan lupa berdoa dan semangat selalu"
             },
             {
                 "nama": "Meliza Wulandari",
@@ -137,8 +137,8 @@ if menu == "Kesekjenan":
                 "alamat": "Kota Baru",
                 "hobbi": "Nonton drakor",
                 "sosmed": "@azilem",
-                "kesan": "Kakak ini asik sekali dan informatif",  
-                "pesan":"Semangkat kuliah dan TA nya semoga bisa lulus tepat waktu"
+                "kesan": "Kakaknya imut banget?! Makasih snacknya kak :)",  
+                "pesan":"Jangan lupa berdoa dan semangat selalu"
             },
             {
                 "nama": "Hartiti Fadilah",
@@ -148,8 +148,8 @@ if menu == "Kesekjenan":
                 "alamat": "Pemda",
                 "hobbi": "Nyanyi",
                 "sosmed": "@hrtfdlh",
-                "kesan": "Kakak ini asik dan seru",  
-                "pesan":"semangat terus kuliahnya kakak, semoga bisa lulus tepat waktu"
+                "kesan": "Kak Titi adalah definisi cewek kalem",  
+                "pesan":"Jangan lupa berdoa dan semangat selalu"
             },
             {
                 "nama": "Putri Maulida Chairani",
@@ -159,8 +159,8 @@ if menu == "Kesekjenan":
                 "alamat": "Nangka 4",
                 "hobbi": "Dengerin Bang Pandra gitaran",
                 "sosmed": "@ptrimaulidaaa_",
-                "kesan": "Kakak ini asik diajak ngobrol",  
-                "pesan":"semangat terus kuliahnya kakak, semoga bisa lulus tepat waktu!"
+                "kesan": "Kakak ini padang abis",  
+                "pesan":"Jangan lupa berdoa dan semangat selalu"
             },
             {
                 "nama": "Nadilla Andhara Putri",
@@ -170,8 +170,8 @@ if menu == "Kesekjenan":
                 "alamat": "Kota Baru",
                 "hobbi": "Kura-kura",
                 "sosmed": "@azilem",
-                "kesan": "Kakak ini seru dan asik",  
-                "pesan":"semangat selalu kak kuliahnya, semoga bisa lulus tepat waktu!"# 1
+                "kesan": "kakak imut banget?!",  
+                "pesan":"Jangan lupa berdoa dan semangat selalu"
             },
         ]
         display_images_with_data(gambar_urls, data_list)
@@ -180,16 +180,16 @@ if menu == "Kesekjenan":
 elif menu == "Baleg":
     def baleg():
         gambar_urls = [
-            "https://drive.google.com/uc?export=view&id=1Pl2TNCB1A7dm6yvzMFjfZRQOdgKM8I8g",
-            "https://drive.google.com/uc?export=view&id=1PgZKsqSTM4uMfzCCbpApj-GW0eDlfMom",
-            "https://drive.google.com/uc?export=view&id=1PZscObTUTsiLAceFyRLNziAzw74N3MBJ",
-            "https://drive.google.com/uc?export=view&id=1PcUUGiw7UjeHY0qY5Wxb4I6RO--UoJnX",
-            "https://drive.google.com/uc?export=view&id=1Rf8UysKxY5AT1HsjkpuqoI0rj1UHBx7u",
-            "https://drive.google.com/uc?export=view&id=1Plc12ULmjbIEtxoq7YG95Cx8po3_CtuE",
-            "https://drive.google.com/uc?export=view&id=1PhuhWyVXKvi3ly-OiMLV75hGNBoSJLum",
-            "https://drive.google.com/uc?export=view&id=1P_2Vv90edsVs3LRB0XwgWGVAo5j7MwhB",
-            "https://drive.google.com/uc?export=view&id=1PdTF8CPHteCyeYCFPAZ_214-Qc28RJOf",
-            "https://drive.google.com/uc?export=view&id=1PhwK1pYlstZ3YhUgGiFB1tB0i_u0xsC3",
+            "https://drive.google.com/uc?export=view&id=12BDuruq1tkSrnzEbd2s8dbCxD0xbFQTA",
+            "https://drive.google.com/uc?export=view&id=10xyNNUkNYKAIHXQnQHwYOrGKeI4qFsYj",
+            "https://drive.google.com/uc?export=view&id=1pWTVBjk7Inaig08twQCIg_xDG4Qg-zs2",
+            "https://drive.google.com/uc?export=view&id=1jkoqot8gpPZ4I2WoL5n-nnfRk_xGJ_DL",
+            "https://drive.google.com/uc?export=view&id=1aIi0Flb1TQKMQokz4gvcdpTmorxvHj1b",
+            "https://drive.google.com/uc?export=view&id=1j7nxSMJS_g9T8if97b_RbYXeVmUp0taT",
+            "https://drive.google.com/uc?export=view&id=1cgwTtmOYlEsQpegKVXmS-nAZC7WVEMmv",
+            "https://drive.google.com/uc?export=view&id=14wwuSZ4wMGihPNq8HRAo1wJ2ONdD8zwz",
+            "https://drive.google.com/uc?export=view&id=1qD_KPxnKw7lT6iAcNS0CkvUQzF-8XhcU",
+            "https://drive.google.com/uc?export=view&id=1fbp2s1xQeUnNWJni14iEQuNAvvHZDuZd",
         ]
         data_list = [
             {
@@ -200,8 +200,8 @@ elif menu == "Baleg":
                 "alamat": "Raden Saleh",
                 "hobbi": "Searching di perplexity",
                 "sosmed": "@trimurniaa_",
-                "kesan": "Kakak ini asik sekali dan membuat suasana menjadi asik",  
-                "pesan":"semangat terus kuliahnya kakak, semoga dapat lulus tepat waktu"
+                "kesan": "Kak, kakak tuh ramah banget tau gak???",  
+                "pesan":"Jangan lupa berdoa dan semangat selalu"
             },
             {
                 "nama": "Claudhea Angeliani",
@@ -211,8 +211,8 @@ elif menu == "Baleg":
                 "alamat": "Lampung Timur",
                 "hobbi": "Baca Journal",
                 "sosmed": "@dylebee",
-                "kesan": "Kakak ini baik sekali dan asik",  
-                "pesan":"semangat terus kuliahnya kak"
+                "kesan": "Kak Claud adalah definisi cewek aestehetic pinterest",  
+                "pesan":"Jangan lupa berdoa dan semangat selalu"
             },
             {
                 "nama": "Dhea Amelia Putri",
@@ -222,8 +222,8 @@ elif menu == "Baleg":
                 "alamat": "Natar",
                 "hobbi": "Bercocok tanam",
                 "sosmed": "@_.dheamelia",
-                "kesan": "Kakaknya seru dan enak diajak ngobrol",  
-                "pesan":"semangat terus kuliahnya kak"
+                "kesan": "Kakak aesthetic bgt vibesnya?",  
+                "pesan":"Jangan lupa berdoa dan semangat selalu"
             },
             {
                 "nama": "Jeremia Susanto",
@@ -234,7 +234,7 @@ elif menu == "Baleg":
                 "hobbi": "Gangguin orang",
                 "sosmed": "@jeremia_s_",
                 "kesan": "Abang ini asik dan seru diajak ngobrol",  
-                "pesan":"semangat terus bang kuliahnya"# 1
+                "pesan":"Jangan lupa berdoa dan semangat selalu"
             },
             {
                 "nama": "Feryadi Yulius",
@@ -244,8 +244,8 @@ elif menu == "Baleg":
                 "alamat": "Depan khobam",
                 "hobbi": "Baca buku",
                 "sosmed": "@fer_yulius",
-                "kesan": "Abangnya menyenangkan dan asik",  
-                "pesan":"semangat terus kuliahnya abangku"
+                "kesan": "Abangnya ramah banget?!",  
+                "pesan":"Jangan lupa berdoa dan semangat selalu"
             },
             {
                 "nama": "Mirzan Yusuf Rabbani",
@@ -255,8 +255,8 @@ elif menu == "Baleg":
                 "alamat": "Kopri",
                 "hobbi": "Main kucing",
                 "sosmed": "@myrrinn",
-                "kesan": "Abang ini enak diajak ngobrol",  
-                "pesan":"semangat terus bang kuliahnya"
+                "kesan": "bang Mirzan kalem sekali",  
+                "pesan":"Jangan lupa berdoa dan semangat selalu"
             },
             {
                 "nama": "Muhammad Fahrul Aditya",
@@ -266,8 +266,8 @@ elif menu == "Baleg":
                 "alamat": "Pahomaan",
                 "hobbi": "Ngopi",
                 "sosmed": "@fhrul.pdf",
-                "kesan": "Abangnya menyenangkan dan asik diajak ngobrol",  
-                "pesan":"semangat bwang kuliahnya"
+                "kesan": "Kece bgt",  
+                "pesan":"Jangan lupa berdoa dan semangat selalu"
             },
             {
                 "nama": "Annisa Cahyani Surya",
@@ -277,8 +277,8 @@ elif menu == "Baleg":
                 "alamat": "Jatimulyo",
                 "hobbi": "Baca dan Nonton",
                 "sosmed": "@annisacahyanisurya",
-                "kesan": "Kakak ini asik saya suka ngobrol dengan dia",  
-                "pesan":"semangat terus kuliahnya kakak"
+                "kesan": "Kakak aesthetic bgt vibesnya?",  
+                "pesan":"Kakak aesthetic bgt vibesnya?"
             },
             {
                 "nama": "Berliana Enda Putri",
@@ -288,8 +288,8 @@ elif menu == "Baleg":
                 "alamat": "Teluk",
                 "hobbi": "Ngerjain tugas di dwar.io, suka ngeliat pekerjaan di linked in, puasa senin kamis",
                 "sosmed": "@berlyyanda",
-                "kesan": "Kakak menyenangkan dan asik pembawaannya",  
-                "pesan":"semangat terus kuliahnya kak"
+                "kesan": "Kakak ramah banget sih :D",  
+                "pesan":"Kakak aesthetic bgt vibesnya?"
             },
             {
                 "nama": "Anisa Dini Amalia",
@@ -299,8 +299,8 @@ elif menu == "Baleg":
                 "alamat": "Jati Agung",
                 "hobbi": "Baca Webtoon",
                 "sosmed": "@anisadini10",
-                "kesan": "Kakak ini asik sekali",  
-                "pesan":"semangat terus kuliahnya kakak!"
+                "kesan": "Yeay, ketemu Carat",  
+                "pesan":"Kakak aesthetic bgt vibesnya?"
             },
         ]
         display_images_with_data(gambar_urls, data_list)
