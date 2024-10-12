@@ -138,7 +138,7 @@ if menu == "Kesekjenan":
                 "hobbi": "Nonton drakor",
                 "sosmed": "@azilem",
                 "kesan": "asik kalo ngobrol",  
-                "pesan":"semangkat kak melin buat menyusun TA dan semoga lulus tepat waktu"
+                "pesan":"semangat kak melin buat menyusun TA dan semoga lulus tepat waktu"
             },
             {
                 "nama": "Hartiti Fadilah",
