@@ -141,7 +141,7 @@ if menu == "Kesekjenan":
                 "pesan":"Terima kasih atas segala saran dan arahannya."# 1
             },
             {
-                "nama": "Hartiti Fadhilaj",
+                "nama": "Hartiti Fadhilah",
                 "nim": "12145031",
                 "umur": "21",
                 "asal":"Sumatera Selatan",
@@ -193,7 +193,7 @@ elif menu == "Baleg":
         ]
         data_list = [
             {
-                "nama": "Tri Murnia Ningsih",
+                "nama": "Tri Murniya Ningsih",
                 "nim": "121450038",
                 "umur": "21",
                 "asal":"Bogor",
@@ -204,7 +204,7 @@ elif menu == "Baleg":
                 "pesan":"Terima kasih atas segala saran dan arahannya."
             },
             {
-                "nama": "Claudea Angeliani",
+                "nama": "Claudhea Angeliani",
                 "nim": "121400124",
                 "umur": "21",
                 "asal":"Salatiga",
@@ -216,7 +216,7 @@ elif menu == "Baleg":
             },
             {
                 "nama": "Dhea Amelia Putri",
-                "nim": "Jeremia Susanto",
+                "nim": "122450004",
                 "umur": "20",
                 "asal":"Bandar Lampung",
                 "alamat": "Natar",
@@ -237,7 +237,7 @@ elif menu == "Baleg":
                 "pesan":"Terima kasih atas segala saran dan arahannya."# 1
             },
             {
-                "nama": "Ferdiadi Yulius",
+                "nama": "Feryadi Yulius",
                 "nim": "122450087",
                 "umur": "20",
                 "asal":"Sumatera Selatan",
@@ -259,7 +259,7 @@ elif menu == "Baleg":
                 "pesan":"Terima kasih atas segala saran dan arahannya."# 1
             },
             {
-                "nama": "Muhammad Farul Aditya",
+                "nama": "Muhammad Fahrul Aditya",
                 "nim": "121450156",
                 "umur": "22",
                 "asal":"Sukarakarta, Jawa Tengah",
@@ -281,7 +281,7 @@ elif menu == "Baleg":
                 "pesan":"Terima kasih atas segala saran dan arahannya."# 1
             },
             {
-                "nama": "Berliana Inda Putri",
+                "nama": "Berliana Enda Putri",
                 "nim": "122450065",
                 "umur": "21",
                 "asal":"BSD",
