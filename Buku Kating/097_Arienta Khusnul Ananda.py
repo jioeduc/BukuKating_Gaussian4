@@ -351,7 +351,7 @@ elif menu == "Senator":
         display_images_with_data(gambar_urls, data_list)
     senator()
 
-elif menu == "PSDA":
+elif menu == "Departemen PSDA":
     def PSDA():
         gambar_urls = [
             "https://drive.google.com/uc?export=view&id=1kiWKQ6sLczifjIcbPvrZdN1FMQwLIXaS",
