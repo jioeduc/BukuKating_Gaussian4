@@ -587,4 +587,232 @@ elif menu == "PSDA":
         ]
         display_images_with_data(gambar_urls, data_list)
     PSDA()
+
+elif menu == "MIKFES":
+    def mikfes():
+        gambar_urls = [
+            "1YWJWLcOT5cW-fXb9JXOk1HM9Et7pF52M",
+            "1Py4TFU49qlwCkbg5iPXgGjmRZv2P1rLm",
+            "1R-Dj_ySO9Fa9Do07qCALZzpJto-Feh6h",
+            "1kO-1zj9Qa-3cKWALh-3qYCEmQbk6M6yi",
+            "1FeNXsiVYrmMFJjQcv1oGz9WUMYJkoubU",
+            "170sqDgMgyiiFPgJwRIEGAvaW-uLXJOaj",
+            "1bmjqp5hJXjtWqqQZgXn-9psTY3LJMjq-",
+            "1pbZIO73Ajx-6HQZ9OxM-9qonXNavZCQ6",
+            "14P9JtsIygdxCtv_pPY8zQLBxmt0vo5sR",
+            "1tk-w9nhhsqpz5MdctWzSV9cwNpVJLI_m",
+            "1_tD9kdrENNwrGKRvdPFm6wBUq8VYWnPV",
+            "1OUt2VBDL7ojH2HgHiw5NffgOD4GdSAlR",
+            "1zM_T1xeZmd8RUTsvWECycyeNM2AvzBiB",
+            "15O8NJ3QK2qnWioO8ge8mnGQnVjpCK42H",
+            "1p4RyNuShvQeZ-iMrrH0WC8q3xcyPLjT8",
+            "1vgAf7Gty5GNBqP10B87RiLppetIGCWTP",
+            "1FShuzzzUh07hDC6Ix-3apmVi2rZySUCw",
+        ]
+        data_list = [
+            {
+                "nama": "Rafi Fadhlillah",
+                "nim": "121450143",
+                "umur": "21",
+                "asal":"Lubuklinggau",
+                "alamat": "Jl. nangka 4",
+                "hobbi": "Olahraga",
+                "sosmed": "@rafadhlillahh13",
+                "kesan": "Keliatan tegas :D",  
+                "pesan":"Semangat terus bang"
+            },
+            {
+                "nama": "Annisa Novatika",
+                "nim": "121450005",
+                "umur": "21",
+                "asal":"Lampung Utara",
+                "alamat": "Jl.Pulau Sebesi, Sukarame",
+                "hobbi": "baca novel",
+                "sosmed": "@annovavona",
+                "kesan": "Suka sama namanya, gak deng orangnya juga :D",  
+                "pesan":"Semanat terus kak jangan lupa istirahat"
+            },
+
+            {
+                "nama": "Ahmad Sahidin Akbar",
+                "nim": "122450044",
+                "umur": "20",
+                "asal":"Tulang Bawang",
+                "alamat": "Jl.Permadi Sukarame",
+                "hobbi": "Olahraga",
+                "sosmed": "@sahid22__",
+                "kesan": "Eak Bang Sahid",  
+                "pesan":"Semangat merawat bocah-bocah Gauss bang"
+            },
+
+            {
+                "nama": "Fadhil Fitra Wijaya",
+                "nim": "122450082",
+                "umur": "20",
+                "asal":"Bekasi",
+                "alamat": "Teluk Betung",
+                "hobbi": "Main Game",
+                "sosmed": "@fadhilfwee",
+                "kesan": "Abangnya pendiem kah?",  
+                "pesan":"Semangat terus bang"
+            },
+
+            {
+                "nama": "Muhammad Regi Abdi Putra Amanta",
+                "nim": "122450031",
+                "umur": "19",
+                "asal":"Palembang",
+                "alamat": "Jl.Permadi Sukarame",
+                "hobbi": "Nyanyi",
+                "sosmed": "@mregiiii_",
+                "kesan": "Aura bintangnya ada banget",  
+                "pesan":"Semangat terus bang"
+            },
+
+            {
+                "nama": "Syalaisha Andina Putriansyah",
+                "nim": "122450121",
+                "umur": "21",
+                "asal":"Tanggerang",
+                "alamat": "Gg. Yudistira",
+                "hobbi": "Baca novel",
+                "sosmed": "@dkselsd_31",
+                "kesan": "Awalnya bingung ternyata kembar :D",  
+                "pesan":"Semangat terus kak"
+            },
+
+            {
+                "nama": "Anwar Muslim",
+                "nim": "122450117",
+                "umur": "21",
+                "asal":"Bukittinggi",
+                "alamat": "Kopri",
+                "hobbi": "Scroll tiktok",
+                "sosmed": "@rhmn_adityaa",
+                "kesan": "Abangnya keren banget?!",  
+                "pesan":"Semangat terus bang"
+            },
+
+            {
+                "nama": "Deva Anjani Khayyuninafsyah",
+                "nim": "121450014",
+                "umur": "21",
+                "asal":"Kemiling",
+                "alamat": "Bandar Lampung",
+                "hobbi": "Nonton film",
+                "sosmed": "@anjaniiidev",
+                "kesan": "Suka banget sama kakaknya?!",  
+                "pesan":"Semangat terus kak"
+            },
+
+            {
+                "nama": "Dinda Nababan",
+                "nim": "122450120",
+                "umur": "20",
+                "asal":"Medan",
+                "alamat": "Jl. Lapas",
+                "hobbi": "Belajar",
+                "sosmed": "@dindanababan_",
+                "kesan": "Kakaknya ramah benget?!",  
+                "pesan":"Semangat terus kak"
+            },
+
+            {
+                "nama": "Marleta Cornelia Leander",
+                "nim": "122450092",
+                "umur": "20",
+                "asal":"Depok",
+                "alamat": "Gg. Nangka 3",
+                "hobbi": "Main musik ",
+                "sosmed": "@marletacornelia",
+                "kesan": "Kak Marleta positive vibe banget",  
+                "pesan":"Semangat terus kak"
+            },
+
+            {
+                "nama": "Rut Junita Sari Siburian",
+                "nim": "122450103",
+                "umur": "20",
+                "asal":"Kep. Riau",
+                "alamat": "Gg. Nangka 3",
+                "hobbi": "Membaca",
+                "sosmed": "@junitaa_0406",
+                "kesan": "Suka sama Kak Rut...",  
+                "pesan":"Semangat terus kak"
+            },
+
+            {
+                "nama": "Syahda Puspadari Azhar",
+                "nim": "122450072",
+                "umur": "20",
+                "asal":"Palembang",
+                "alamat": "Belwis",
+                "hobbi": "Resume SG",
+                "sosmed": "@puspadrr",
+                "kesan": "Senangnya bertemu kakak NIM :D",  
+                "pesan":"Semangat terus kak"
+            },
+
+            {
+                "nama": "Aditya Rahman",
+                "nim": "122450113",
+                "umur": "20",
+                "asal":"Metro",
+                "alamat": "Korpri",
+                "hobbi": "Main Game",
+                "sosmed": "@rhmn_adityaa",
+                "kesan": "Abangnya seru abis",  
+                "pesan":"Semangat terus bang"
+            },
+
+            {
+                "nama": "Eggi Satria",
+                "nim": "122450032",
+                "umur": "20",
+                "asal":"Sukabumi",
+                "alamat": "Kopri Jaya",
+                "hobbi": "Lari",
+                "sosmed": "@_egistr",
+                "kesan": "Gokil",  
+                "pesan":"Semangat terus bang"
+            },
+
+            {
+                "nama": "Febiya Jomy Pratiwi",
+                "nim": "122450074",
+                "umur": "20",
+                "asal":"Lampung",
+                "alamat": "Belwis",
+                "hobbi": "Nonton K-Drama",
+                "sosmed": "@pratiwifebiya",
+                "kesan": "Hobinya relate banget",  
+                "pesan":"Semangat terus kak"
+            },
+
+            {
+                "nama": "Happy Syahrul Ramadhan",
+                "nim": "122450013",
+                "umur": "20",
+                "asal":"Lampung Timur",
+                "alamat": "Karang Ayar",
+                "hobbi": "Main Game",
+                "sosmed": "@sudo.syahrulramadhan",
+                "kesan": "Abangnya pendiem kah?",  
+                "pesan":"Semangat terus bang"
+            },
+
+            {
+                "nama": "Randa Andriana Putra",
+                "nim": "122450083",
+                "umur": "21",
+                "asal":"Banten ",
+                "alamat": "Sukarame",
+                "hobbi": "Berkembang dan tidur",
+                "sosmed": "@randaandriana_",
+                "kesan": "Bang Randa keren poll",  
+                "pesan":"Semangat membantu bocah-bocah Gauss"
+            },
+        ]
+        display_images_with_data(gambar_urls, data_list)
+    mikfes()
 # Tambahkan menu lainnya sesuai kebutuhan
