@@ -1018,6 +1018,170 @@ elif menu == "Eksternal":
         display_images_with_data(gambar_urls, data_list)
     eksternal()
 
+elif menu == "Internal":
+    def internal():
+        gambar_urls = [
+            "https://drive.google.com/uc?export=view&id=1DnU6i9cW5zhyFhk03IAuFNMwrXiBjLNm",#1
+            "https://drive.google.com/uc?export=view&id=1DW2_3O-cYTIHtmTVNNGaleavw9-xDbOd",#2
+            "https://drive.google.com/uc?export=view&id=1DrdTUWpYst7OGVXNv_kBdhSiTyx1R7YB",#3
+            "https://drive.google.com/uc?export=view&id=1DMlD_Ae55CnzHNTNgJijgaV9422ffD7r",#4
+            "https://drive.google.com/uc?export=view&id=1DMz7ij4GS-jO0yMA8vfP0mp0uckAykLf",#5
+            "https://drive.google.com/uc?export=view&id=1DTxa58_reMyyLfFFLNPCziAbbyfCC8gA",#6
+            "https://drive.google.com/uc?export=view&id=1DWZNm-WwfxqGnqzlr_C_4IIyk6-j1PUT",#7
+            "https://drive.google.com/uc?export=view&id=1DXOrglhKLVapVzvN2YqRp8gcGbNCSanD",#8
+            "https://drive.google.com/uc?export=view&id=1Df6WT1KYo1kgaTWtRKV8MT4IDV3IFkJ6",#9
+            "https://drive.google.com/uc?export=view&id=1Dlwt-3JB3G9pB18Ti0olnl9_kb5zfgIJ",#10
+            "https://drive.google.com/uc?export=view&id=1DdHP9qED9cUGOpK7W5oe9Bol68hKr0kS",#11
+            "https://drive.google.com/uc?export=view&id=1DKeDqfIXERlHbZXwMvlsCVvJH39CycH8",#12
+            "https://drive.google.com/uc?export=view&id=1DcNewIsJkPLHSLO1Uvl5a42V3Gf1lDcQ",#13
+        ]
+        data_list = [
+            {
+                "nama": "Dimas Rizki Ramadhani",
+                "nim": "121450027",
+                "umur": "20",
+                "asal":"Pamulang, Tangerang Selatan",
+                "alamat": "Way Kandis (Kobam)",
+                "hobbi": "Manjat tower sutet",
+                "sosmed": "@dimzrky_",
+                "kesan": "Abang sangat menginspirasi",  
+                "pesan":"semangat terus kuliahnya bang, semoga lulus tepat waktu!!!"#1
+            },
+            {
+                "nama": "Catherine Firdhasari Maulina Sinaga",
+                "nim": "121450072",
+                "umur": "20",
+                "asal":"Sumatera Utara",
+                "alamat": "Airan",
+                "hobbi": "Baca novel",
+                "sosmed": "@catherine.sinaga",
+                "kesan": "Kakaknya baik,, positive vibes",  
+                "pesan":"semangat terus kuliahnya kak, semoga semua urusannya diperlancar!!"# 2
+            },
+            {
+                "nama": "Ari Sigit",
+                "nim": "121450069",
+                "umur": "23",
+                "asal":"Lampung barat",
+                "alamat": "Labuhan batu",
+                "hobbi": "Olahraga",
+                "sosmed": "@ari.sigit17",
+                "kesan": "Kakak sangat membantu dan mudah diajak bicara.",  
+                "pesan":"Semoga lancar semua urusan Kakak, sukses terus!!"# 3
+            },
+            {
+                "nama": "Azizah Kusumah Putri",
+                "nim": "122450068",
+                "umur": "21",
+                "asal":"Lampung selatan",
+                "alamat": "Natar",
+                "hobbi": "Berkebun",
+                "sosmed": "@azizahksmh15",
+                "kesan": "Kakak sangat ramah.",  
+                "pesan":"Semoga Kakak sukses dalam setiap langkah ke depan!!"# 4
+            },
+            {
+                "nama": "Meira Listyaningrum",
+                "nim": "122450011",
+                "umur": "20",
+                "asal":"Pesawaran",
+                "alamat": "Airan",
+                "hobbi": "Menghalu",
+                "sosmed": "@meiralsty_",
+                "kesan": "Kakak luar biasa dalam membimbing.",  
+                "pesan":"Semoga kebahagiaan selalu menyertai Kakak!!"# 5
+            },
+            {
+                "nama": "Rendi Alexander Hutagalung",
+                "nim": "122450057",
+                "umur": "20",
+                "asal":"Tangerang",
+                "alamat": "Kost Benawang",
+                "hobbi": "Nyanyi",
+                "sosmed": "@lexanderr",
+                "kesan": "Kakak memiliki kepribadian yang ramah dan menyenangkan.",  
+                "pesan":"semangat terus kuliahnya kak !!!"# 6
+            },
+            {
+                "nama": "Josua Panggabean",
+                "nim": "121450061",
+                "umur": "21",
+                "asal":"Pematang siantar",
+                "alamat": "Gia kost Gerbang barat",
+                "hobbi": "Ngawinin cupang",
+                "sosmed": "@josuapanggabean16_",
+                "kesan": "Kakak sangat sabar dalam mengajarkan hal baru kepada kami.",  
+                "pesan":"Semoga Kakak selalu diberi kemudahan dalam setiap usaha!!"# 7
+            },
+            {
+                "nama": "M. Akbar Resdika",
+                "nim": "121450066",
+                "umur": "20",
+                "asal":"Lampung Barat",
+                "alamat": "Labuhan dalam",
+                "hobbi": "Miara Dino",
+                "sosmed": "@akbar.resdika",
+                "kesan": "Kakak selalu berusaha menciptakan suasana yang menyenangkan.",  
+                "pesan":"Semoga semua usaha Kakak membuahkan hasil yang memuaskan!!"# 8
+            },
+            {
+                "nama": "Renta Siahaan",
+                "nim": "122450070",
+                "umur": "21",
+                "asal":"Sumatera Utara",
+                "alamat": "Gerbang Barat",
+                "hobbi": "Mancing",
+                "sosmed": "@renta.shn",
+                "kesan": "Kakak sangat bersahabat dan menyenangkan!",  
+                "pesan":"Semoga Kakak selalu dikelilingi orang-orang baik!!"# 9
+            },
+            {
+                "nama": "Salwa Farhanatussaidah",
+                "nim": "122450055",
+                "umur": "20",
+                "asal":"Pesawaran",
+                "alamat": "Airan",
+                "hobbi": "Lihat cogan",
+                "sosmed": "@slafhn_",
+                "kesan": "Kakak sangat bijaksana dan penuh pengalaman.",  
+                "pesan":"Semoga Kakak selalu berhasil dalam semua yang dilakukan!!"# 10
+            },
+            {
+                "nama": "Rani Puspita sari",
+                "nim": "122450030",
+                "umur": "20",
+                "asal":"Metro",
+                "alamat": "Rajabasa",
+                "hobbi": "Mengaji",
+                "sosmed": "@ranipuu",
+                "kesan": "Kakak sangat bijaksana dan penuh pengalaman.",  
+                "pesan":"Semoga Kakak selalu berhasil dalam semua yang dilakukan!!"# 11
+            },
+            {
+                "nama": "Yosia Letare Banurea",
+                "nim": "121450149",
+                "umur": "21",
+                "asal":"Dairi",
+                "alamat": "Perum Griya Indah",
+                "hobbi": "Bawa motor tapi pake kaki",
+                "sosmed": "@yosiabanurea",
+                "kesan": "Kakak sangat bijaksana dan penuh pengalaman.",  
+                "pesan":"Semoga Kakak selalu berhasil dalam semua yang dilakukan!!"# 12
+            },
+            {
+                "nama": "Rendra Eka Prayoga",
+                "nim": "122450112",
+                "umur": "20",
+                "asal":"Bekasi",
+                "alamat": "Jl. Lapas Raya",
+                "hobbi": "Nulis Lagu",
+                "sosmed": "@rendraepr",
+                "kesan": "Kakak sangat bijaksana dan penuh pengalaman.",  
+                "pesan":"Semoga Kakak selalu berhasil dalam semua yang dilakukan!!"# 13
+            },
+        ]
+        display_images_with_data(gambar_urls, data_list)
+    internal()
 
 
 # Tambahkan menu lainnya sesuai kebutuhan
