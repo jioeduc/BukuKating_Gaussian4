@@ -889,7 +889,7 @@ elif menu == "Departemen Eksternal":
                 "alamat": "Belwis",
                 "hobbi": "Tidur",
                 "sosmed": "@nvliaadinda",
-                "kesan": "kakaknya keren",  
+                "kesan": "kakaknya keren!",  
                 "pesan":"semangat kuliahnya kak"
             },
             {
