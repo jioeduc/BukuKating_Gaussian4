@@ -467,7 +467,7 @@ elif menu == "Departemen PSDA":
                 "nama": " Deyvan Loxefal", 
                 "nim": " 121450148 ", 
                 "umur":  "21", 
-                "Asal":" Duri Riau  ", 
+                "asal":" Duri Riau  ", 
                 "alamat": "Khobam Pulau Damar", 
                 "hobbi": "Belajar", 
                 "sosmed": "@depanlo", 
@@ -1386,18 +1386,18 @@ elif menu == "Departemen Medkraf":
 elif menu == "Departemen SSD":
     def SSD():
         gambar_urls = [
-            "https://drive.google.com/uc?export=view&id=1aIWSsuoH27tLzyXjFyFAaYwaUKAj-M4G",
-            "https://drive.google.com/uc?export=view&id=1alnR1cMoV52cksUfxKz67G6oDv4vq6Rf",
-            "https://drive.google.com/uc?export=view&id=1aUwpSGkX5zFhVIPuriqdjqD36eZhPNKj",
-            "https://drive.google.com/uc?export=view&id=1apNC9YApH1xahNyQ2S12eMNur83h-n_6",
-            "https://drive.google.com/uc?export=view&id=1b9x8KO9fh5qivwhcCBrPd0t45wYJsGpd",
-            "https://drive.google.com/uc?export=view&id=https:1ay3soijv0rgB1aU2sZLHi2GKVITf7MS-",
-            "https://drive.google.com/uc?export=view&id=https:1aa7uwKJZetEcrulDoxuuKI9bSahvM5Fb",
-            "https://drive.google.com/uc?export=view&id=1aacBPqKJcpIpN-1GR0skS7GDtA0d2dEV",
-            "https://drive.google.com/uc?export=view&id=1aATcOHOSrKcZiFcHHfhhimuOKWhqGjWv",
-            "https://drive.google.com/uc?export=view&id=1aOMjWKNOOzgGidkJM0T3sKtFZU4Ksr5n",
-            "https://drive.google.com/uc?export=view&id=1aBclfSgX9U8sJNCO1VtOWK0eJJ-Az5Si",
-        ]
+            "https://drive.google.com/uc?export=view&id=10xyNNUkNYKAIHXQnQHwYOrGKeI4qFsYj",
+            "https://drive.google.com/uc?export=view&id=10xyNNUkNYKAIHXQnQHwYOrGKeI4qFsYj",
+            "https://drive.google.com/uc?export=view&id=1pWTVBjk7Inaig08twQCIg_xDG4Qg-zs2",
+            "https://drive.google.com/uc?export=view&id=1jkoqot8gpPZ4I2WoL5n-nnfRk_xGJ_DL",
+            "https://drive.google.com/uc?export=view&id=1aIi0Flb1TQKMQokz4gvcdpTmorxvHj1b",
+            "https://drive.google.com/uc?export=view&id=1j7nxSMJS_g9T8if97b_RbYXeVmUp0taT",
+            "https://drive.google.com/uc?export=view&id=1cgwTtmOYlEsQpegKVXmS-nAZC7WVEMmv",
+            "https://drive.google.com/uc?export=view&id=14wwuSZ4wMGihPNq8HRAo1wJ2ONdD8zwz",
+            "https://drive.google.com/uc?export=view&id=1qD_KPxnKw7lT6iAcNS0CkvUQzF-8XhcU",
+            "https://drive.google.com/uc?export=view&id=1fbp2s1xQeUnNWJni14iEQuNAvvHZDuZd"
+        ] 
+        
         data_list = [
             {
                 "nama": "Andrian Agustinus Lumban Gaol ",
@@ -1407,8 +1407,8 @@ elif menu == "Departemen SSD":
                 "alamat": "Dekat penjara",
                 "hobbi": "Nyari hobi",
                 "sosmed": "@Andrianelgaol",
-                "kesan": "abang ini baik banget dan asik",  
-                "pesan":"Semangat kak semoga lulus tepat waktu"
+                "kesan": "",  
+                "pesan":""
             },
             {
                 "nama": "Adisty Syawaida Ariyanto ",
@@ -1418,8 +1418,8 @@ elif menu == "Departemen SSD":
                 "alamat": "sukarame",
                 "hobbi": "nonton film",
                 "sosmed": "@Adhistysa_",
-                "kesan": "Kakak ini super ramah",  
-                "pesan":"Bahagia terus ya kakk"
+                "kesan": "",  
+                "pesan":""
             },        
             {
                 "nama": "Nabila azhari ",
@@ -1429,8 +1429,8 @@ elif menu == "Departemen SSD":
                 "alamat": "Airan",
                 "hobbi": "menghitung duit",
                 "sosmed": "@zajung_",
-                "kesan": "kakak ini friendly ",  
-                "pesan":"Semangat belajarnya ya kak"
+                "kesan": "",  
+                "pesan":""
             },  
             {
                 "nama": "Ahmad Rizqi ",
@@ -1439,9 +1439,9 @@ elif menu == "Departemen SSD":
                 "asal":"bukit tinggi",
                 "alamat": "airan",
                 "hobbi": "badminton",
-                "sosmed": "@Ahmad.riz45",
-                "kesan": "abang ini ramah",  
-                "pesan":"semoga bahagia terus ya kak"
+                "sosmed": "@Ahmda.riz45",
+                "kesan": "",  
+                "pesan":""
             },
             {
                 "nama": "Danang hilal kurniawan",
@@ -1451,8 +1451,8 @@ elif menu == "Departemen SSD":
                 "alamat": "Airan",
                 "hobbi": "Jalan-jalan",
                 "sosmed": "@dananghk_",
-                "kesan": "Abang ini baik sekali",  
-                "pesan":"sukses selalu kak"
+                "kesan": "",  
+                "pesan":""
             },
             {
                 "nama": "Farrel Julio Akbar",
@@ -1462,8 +1462,8 @@ elif menu == "Departemen SSD":
                 "alamat": "Bogor",
                 "hobbi": "Jl.lapas",
                 "sosmed": "@farrel__julio",
-                "kesan": "abang ini tipe yang soft spoken",  
-                "pesan":"bahagia terus ya kakk"
+                "kesan": "",  
+                "pesan":""
             },
             {
                 "nama": "Tessa Kania Sagala",
@@ -1473,8 +1473,8 @@ elif menu == "Departemen SSD":
                 "alamat": "Pemda",
                 "hobbi": "Menulis",
                 "sosmed": "@Tesakaniaa",
-                "kesan": "kakaknya lucu sekali",  
-                "pesan":"bahagiaa terus ya kak"
+                "kesan": "",  
+                "pesan":""
             },
             {
                 "nama": "Nabilah Andika Fitriati",
@@ -1484,8 +1484,8 @@ elif menu == "Departemen SSD":
                 "alamat": "Kedaton",
                 "hobbi": "Tidur",
                 "sosmed": "@Nabilahanfir",
-                "kesan": "kakaknya ramah sekali",  
-                "pesan":"sukses selalu ya kak "
+                "kesan": "",  
+                "pesan":""
             },
             {
                 "nama": "Alvia Asrinda Br.Gintng",
@@ -1495,8 +1495,8 @@ elif menu == "Departemen SSD":
                 "alamat": "Korpri",
                 "hobbi": "nonton",
                 "sosmed": "@Alfiagntng",
-                "kesan": "kakanya baikk",  
-                "pesan":"semoga bahagia selalu dengan pilihannya ya kak"
+                "kesan": "",  
+                "pesan":""
             },
             {
                 "nama": "Dhafin Rezaqa Luthhfi",
@@ -1506,8 +1506,8 @@ elif menu == "Departemen SSD":
                 "alamat": "Jl.Nangka sari",
                 "hobbi": "Olahraga",
                 "sosmed": "@dhavinrzqa13",
-                "kesan": "abang ini super baik",  
-                "pesan":"bahagia terus ya kak"
+                "kesan": "",  
+                "pesan":""
             },
             {
                 "nama": "Elia Meylani Simanjuntak ",
@@ -1517,10 +1517,9 @@ elif menu == "Departemen SSD":
                 "alamat": "Korpri",
                 "hobbi": "Nyanyi",
                 "sosmed": "@Meylaniellia",
-                "kesan": "Kak mey ramah banget dan asikk",  
-                "pesan":"sukse dan bahagia terus ya kak"
-            },
+                "kesan": "",  
+                "pesan":""
+            }
         ]
         display_images_with_data(gambar_urls, data_list)
     SSD()
-    

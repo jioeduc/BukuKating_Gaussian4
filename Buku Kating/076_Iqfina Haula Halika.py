@@ -467,7 +467,7 @@ elif menu == "Departemen PSDA":
                 "nama": " Deyvan Loxefal", 
                 "nim": " 121450148 ", 
                 "umur":  "21", 
-                "Asal":" Duri Riau  ", 
+                "asal":" Duri Riau  ", 
                 "alamat": "Khobam Pulau Damar", 
                 "hobbi": "Belajar", 
                 "sosmed": "@depanlo", 
@@ -1384,20 +1384,20 @@ elif menu == "Departemen SSD":
             "https://drive.google.com/uc?export=view&id=1cgwTtmOYlEsQpegKVXmS-nAZC7WVEMmv",
             "https://drive.google.com/uc?export=view&id=14wwuSZ4wMGihPNq8HRAo1wJ2ONdD8zwz",
             "https://drive.google.com/uc?export=view&id=1qD_KPxnKw7lT6iAcNS0CkvUQzF-8XhcU",
-            "https://drive.google.com/uc?export=view&id=1fbp2s1xQeUnNWJni14iEQuNAvvHZDuZd",
-        ]
+            "https://drive.google.com/uc?export=view&id=1fbp2s1xQeUnNWJni14iEQuNAvvHZDuZd"
+        ] 
+        
         data_list = [
             {
                 "nama": "Andrian Agustinus Lumban Gaol ",
                 "nim": "121450090",
                 "umur": "20",
-                "asal":"Sidikalang",
+                "asal":"Cirikalang",
                 "alamat": "Dekat penjara",
                 "hobbi": "Nyari hobi",
                 "sosmed": "@Andrianelgaol",
-                "kesan": "abang asik parah, mantap bang",  
-                "pesan":"Semangat bang semoga lulus tepat waktu, ditunggu gelar barunya"
-
+                "kesan": "",  
+                "pesan":""
             },
             {
                 "nama": "Adisty Syawaida Ariyanto ",
@@ -1407,9 +1407,9 @@ elif menu == "Departemen SSD":
                 "alamat": "sukarame",
                 "hobbi": "nonton film",
                 "sosmed": "@Adhistysa_",
-                "kesan": "Kakak ini super ramah,keren banget kakak",  
-                "pesan":"Bahagia terus ya kakk, semangat selalu"
-            },
+                "kesan": "",  
+                "pesan":""
+            },        
             {
                 "nama": "Nabila azhari ",
                 "nim": "121450029",
@@ -1418,8 +1418,8 @@ elif menu == "Departemen SSD":
                 "alamat": "Airan",
                 "hobbi": "menghitung duit",
                 "sosmed": "@zajung_",
-                "kesan": "kakak humble bangett, lucu kakaknya",  
-                "pesan":"Semangat kuliahnya ya kak, semoga cepet dapet gelar"
+                "kesan": "",  
+                "pesan":""
             },  
             {
                 "nama": "Ahmad Rizqi ",
@@ -1428,20 +1428,20 @@ elif menu == "Departemen SSD":
                 "asal":"bukit tinggi",
                 "alamat": "airan",
                 "hobbi": "badminton",
-                "sosmed": "@Ahmad.riz45",
-                "kesan": "abang ini ramah, keren banget abang",  
-                "pesan":"semoga bahagia terus ya bang, semangat bang"
+                "sosmed": "@Ahmda.riz45",
+                "kesan": "",  
+                "pesan":""
             },
             {
-                "nama": "Danang Hilal Kurniawan",
+                "nama": "Danang hilal kurniawan",
                 "nim": "122450085",
                 "umur": "21",
                 "asal":"Batam",
                 "alamat": "Airan",
                 "hobbi": "Jalan-jalan",
                 "sosmed": "@dananghk_",
-                "kesan":"abang gokil parah, enak buat diajak ngobrol, mantap bang",  
-                "pesan":"semangat menjalani kehidupan bang, sehat-sehat"
+                "kesan": "",  
+                "pesan":""
             },
             {
                 "nama": "Farrel Julio Akbar",
@@ -1451,8 +1451,8 @@ elif menu == "Departemen SSD":
                 "alamat": "Bogor",
                 "hobbi": "Jl.lapas",
                 "sosmed": "@farrel__julio",
-                "kesan":"abang keren, asik parah",  
-                "pesan":"sehat-sehat bang, semangat kuliahnya"
+                "kesan": "",  
+                "pesan":""
             },
             {
                 "nama": "Tessa Kania Sagala",
@@ -1462,8 +1462,8 @@ elif menu == "Departemen SSD":
                 "alamat": "Pemda",
                 "hobbi": "Menulis",
                 "sosmed": "@Tesakaniaa",
-                "kesan":" kakaknya humble parah, baik bangett siii",  
-                "pesan":"sehat sehat kak, semangat kuliahnya"
+                "kesan": "",  
+                "pesan":""
             },
             {
                 "nama": "Nabilah Andika Fitriati",
@@ -1473,8 +1473,8 @@ elif menu == "Departemen SSD":
                 "alamat": "Kedaton",
                 "hobbi": "Tidur",
                 "sosmed": "@Nabilahanfir",
-                "kesan":"keren banget kakak, lucu pliss",  
-                "pesan":"sehat-sehat kakak, semangat kuliahnya kak"
+                "kesan": "",  
+                "pesan":""
             },
             {
                 "nama": "Alvia Asrinda Br.Gintng",
@@ -1484,8 +1484,8 @@ elif menu == "Departemen SSD":
                 "alamat": "Korpri",
                 "hobbi": "nonton",
                 "sosmed": "@Alfiagntng",
-                "kesan":"kakaknyaa motivator bangett,mantap kak ",  
-                "pesan":"semangat kuliahnya kak, sehat-sehat kak"
+                "kesan": "",  
+                "pesan":""
             },
             {
                 "nama": "Dhafin Rezaqa Luthhfi",
@@ -1494,9 +1494,9 @@ elif menu == "Departemen SSD":
                 "asal":"Batam",
                 "alamat": "Jl.Nangka sari",
                 "hobbi": "Olahraga",
-                "sosmed": "@dhafinrzqa13",
-                "kesan": "abangnyaa baik bangett, kalem banget abang",  
-                "pesan":"semangat kuliahnya bang, sukses selalu"
+                "sosmed": "@dhavinrzqa13",
+                "kesan": "",  
+                "pesan":""
             },
             {
                 "nama": "Elia Meylani Simanjuntak ",
@@ -1506,10 +1506,9 @@ elif menu == "Departemen SSD":
                 "alamat": "Korpri",
                 "hobbi": "Nyanyi",
                 "sosmed": "@Meylaniellia",
-                "kesan": "pliss kakaknyaa lucu banget, seru banget kak",  
-                "pesan":"semangat menjalani kehidupan kuliahnya kak, sukses selalu yaa"
+                "kesan": "",  
+                "pesan":""
             }
         ]
         display_images_with_data(gambar_urls, data_list)
     SSD()
-    

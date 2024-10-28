@@ -467,7 +467,7 @@ elif menu == "Departemen PSDA":
                 "nama": " Deyvan Loxefal", 
                 "nim": " 121450148 ", 
                 "umur":  "21", 
-                "Asal":" Duri Riau  ", 
+                "asal":" Duri Riau  ", 
                 "alamat": "Khobam Pulau Damar", 
                 "hobbi": "Belajar", 
                 "sosmed": "@depanlo", 
@@ -1386,20 +1386,65 @@ elif menu == "Departemen Medkraf":
 elif menu == "Departemen SSD":
     def SSD():
         gambar_urls = [
-            "https://drive.google.com/uc?export=view&id=1Hp-oRcxSDvFePAWlqGSCPGl2Si-b9_mX",
-            "https://drive.google.com/uc?export=view&id=1Htfx_nBdHAeqOIJVa3LGMYzxTSY0TnwG",
-            "https://drive.google.com/uc?export=view&id=1HxvA9Ze-4-Uc0UaxGIalAvaZ3qPqUgSV",
-            "https://drive.google.com/uc?export=view&id=1I1o2MPH0qFde73J3nN_OnaW0F89YhZL3",
-            "https://drive.google.com/uc?export=view&id=1I4jqMNdRyirSaNyqBg3x758ywTmmXhTr",
-            "https://drive.google.com/uc?export=view&id=1I26MgOh2GszQmZE647WKTE_rPMdsBQuc",
-            "https://drive.google.com/uc?export=view&id=1I9OvV7KanWtYqdqHA5E-Uk3BaDw9hG8I",
+            "https://drive.google.com/uc?export=view&id=10xyNNUkNYKAIHXQnQHwYOrGKeI4qFsYj",
+            "https://drive.google.com/uc?export=view&id=10xyNNUkNYKAIHXQnQHwYOrGKeI4qFsYj",
+            "https://drive.google.com/uc?export=view&id=1pWTVBjk7Inaig08twQCIg_xDG4Qg-zs2",
+            "https://drive.google.com/uc?export=view&id=1jkoqot8gpPZ4I2WoL5n-nnfRk_xGJ_DL",
+            "https://drive.google.com/uc?export=view&id=1aIi0Flb1TQKMQokz4gvcdpTmorxvHj1b",
+            "https://drive.google.com/uc?export=view&id=1j7nxSMJS_g9T8if97b_RbYXeVmUp0taT",
+            "https://drive.google.com/uc?export=view&id=1cgwTtmOYlEsQpegKVXmS-nAZC7WVEMmv",
             "https://drive.google.com/uc?export=view&id=14wwuSZ4wMGihPNq8HRAo1wJ2ONdD8zwz",
             "https://drive.google.com/uc?export=view&id=1qD_KPxnKw7lT6iAcNS0CkvUQzF-8XhcU",
-            "https://drive.google.com/uc?export=view&id=1fbp2s1xQeUnNWJni14iEQuNAvvHZDuZd",
-        ]
+            "https://drive.google.com/uc?export=view&id=1fbp2s1xQeUnNWJni14iEQuNAvvHZDuZd"
+        ] 
+        
         data_list = [
             {
-                "nama": "Danang Hilal Kurniawan",
+                "nama": "Andrian Agustinus Lumban Gaol ",
+                "nim": "121450090",
+                "umur": "20",
+                "asal":"Cirikalang",
+                "alamat": "Dekat penjara",
+                "hobbi": "Nyari hobi",
+                "sosmed": "@Andrianelgaol",
+                "kesan": "",  
+                "pesan":""
+            },
+            {
+                "nama": "Adisty Syawaida Ariyanto ",
+                "nim": "121450136",
+                "umur": "22",
+                "asal":"Metro",
+                "alamat": "sukarame",
+                "hobbi": "nonton film",
+                "sosmed": "@Adhistysa_",
+                "kesan": "",  
+                "pesan":""
+            },        
+            {
+                "nama": "Nabila azhari ",
+                "nim": "121450029",
+                "umur": "20",
+                "asal":"Simalumun",
+                "alamat": "Airan",
+                "hobbi": "menghitung duit",
+                "sosmed": "@zajung_",
+                "kesan": "",  
+                "pesan":""
+            },  
+            {
+                "nama": "Ahmad Rizqi ",
+                "nim": "122450138",
+                "umur": "20",
+                "asal":"bukit tinggi",
+                "alamat": "airan",
+                "hobbi": "badminton",
+                "sosmed": "@Ahmda.riz45",
+                "kesan": "",  
+                "pesan":""
+            },
+            {
+                "nama": "Danang hilal kurniawan",
                 "nim": "122450085",
                 "umur": "21",
                 "asal":"Batam",
