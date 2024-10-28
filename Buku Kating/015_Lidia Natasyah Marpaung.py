@@ -314,27 +314,27 @@ elif menu == "Senator":
         ]
         data_list = [
             {
-                "nama": "Anissa Luthfi",
+                "nama": "Anissa Luthfi Alifia",
                 "nim": "121450093",
                 "umur": "20",
                 "asal":"Lampung Tengah",
                 "alamat": "Kos Putri Rahyu",
                 "hobbi": "Bernyanyi",
                 "sosmed": "@anissaluthfia_",
-                "kesan": "kakaknya inspiratif",  
+                "kesan": "Abangnya inspiratif",  
                 "pesan":"Jangan lupa berdoa dan semangat selalu"
             },
             {
-                "nama": "Ryan Bintang Wijaya ",
+                "nama": "Rian Bintang Wijaya",
                 "nim": "122450094",
                 "umur": "20",
                 "asal":"Palembang",
                 "alamat": "Kotabaru",
                 "hobbi": "Tidur",
                 "sosmed": "@Bintangtwinkle",
-                "kesan": "abangnya baik banget",  
+                "kesan": "Percaya gak percaya, Bang Bintang super supportif orangnya",  
                 "pesan":"Tetep jadi orang baik bang"
-            },
+            }
         ]
         display_images_with_data(gambar_urls, data_list)
     senator()
@@ -365,7 +365,7 @@ elif menu == "Departemen PSDA":
         ]
         data_list = [
             {
-                "nama": "Ericson Chandra Sihombing", #1
+                "nama": "Ericson Chandra Sihombing",
                 "nim": "121450026",
                 "umur": "21",
                 "asal":"Bekasi",
@@ -376,7 +376,7 @@ elif menu == "Departemen PSDA":
                 "pesan":"Semangat terus kuliahnya Kak dan semoga bisa lulus tepat waktu dan sukses dalam kariernya nanti."
             },
             {
-                "nama": "Elisabeth Claudia Simanjuntak",#2
+                "nama": "Elisabeth Claudia Simanjuntak",
                 "nim": "122450123",
                 "umur": "18",
                 "asal":"Tangerang",
@@ -387,7 +387,7 @@ elif menu == "Departemen PSDA":
                 "pesan":"Terus semangat kuliahnya Kak dan semoga berhasil dan sukses meraih cita-cita."
             },
             {
-                "nama": "Nisrina Nur Afifah", #3
+                "nama": "Nisrina Nur Afifah",
                 "nim": "122450052",
                 "umur": "19",
                 "asal":"Jawa Barat",
@@ -398,7 +398,7 @@ elif menu == "Departemen PSDA":
                 "pesan":"Terus semangat kuliahnya Kak dan semoga berhasil dan sukses meraih cita-cita."
             },
             {
-                "nama": "Allya Nurul Islami Pasha", #4
+                "nama": "Allya Nurul Islami Pasha",
                 "nim": "122450033",
                 "umur": "20",
                 "asal":"Sumatera Barat",
@@ -409,7 +409,7 @@ elif menu == "Departemen PSDA":
                 "pesan":"semangat terus Bang kuliahnya dan sukses mencapai apa yang diinginkan."# 1
             },
             {
-                "nama": "Eksanty Febriana Sukma Islamiaty", #5
+                "nama": "Eksanty Febriana Sukma Islamiaty",
                 "nim": "122450001",
                 "umur": "20",
                 "asal":"Lubuk Linggau",
@@ -420,7 +420,7 @@ elif menu == "Departemen PSDA":
                 "pesan":"Semangat terus kuliahnya Bang dan semoga sukses dalam segala hal yang diusahakan."
             },
             {
-                "nama": "Farahanum Afifah Ardiansyah", #6
+                "nama": "Farahanum Afifah Ardiansyah",
                 "nim": "122450056",
                 "umur": "20",
                 "asal":"Padang",
@@ -431,8 +431,8 @@ elif menu == "Departemen PSDA":
                 "pesan":"Semangat terus kuliahnya Bang dan semoga sukses mengejar impian."
             },
             {
-                "nama": "Ferdy Kevin Naibaho", #7
-                "nim": "121450107",
+                "nama": "Ferdy Kevin Naibaho",
+                "nim": "122450107",
                 "umur": "20",
                 "asal":"Medan",
                 "alamat": "Senopati Raya",
@@ -442,8 +442,8 @@ elif menu == "Departemen PSDA":
                 "pesan":"Semangat Bang kuliahnya dan sukses mengejar impian."
             },
             {
-                "nama": "M. Deriansyah Okutra", #8
-                "nim": "121450101",
+                "nama": "M. Deriansyah Okutra",
+                "nim": "122450101",
                 "umur": "19",
                 "asal":"Kayu Agung",
                 "alamat": "Jl. Pagar Alam Kedaton",
@@ -453,7 +453,7 @@ elif menu == "Departemen PSDA":
                 "pesan":"Semangat terus kuliahnya Kak dan sukses mengejar cita-citanya."
             },
             {
-                "nama": "Oktavia Nurwenda Puspita Sari", #9
+                "nama": "Oktavia Nurwenda Puspita Sari",
                 "nim": "122450041",
                 "umur": "20",
                 "asal":"Lampung Timur",
@@ -464,7 +464,7 @@ elif menu == "Departemen PSDA":
                 "pesan":"Semangat terus Kak kuliahnya dan sukses mengejar impiannya."
             },
             { 
-                "nama": " Deyvan Loxefall",  #10
+                "nama": " Deyvan Loxefal", 
                 "nim": " 121450148 ", 
                 "umur":  "21", 
                 "asal":" Duri Riau  ", 
@@ -474,8 +474,8 @@ elif menu == "Departemen PSDA":
                 "kesan": "Kakaknya asik dan seru.",   
                 "pesan":"Semangat terus Kak kuliahnya dan semoga semua cita-citanya tercapai." 
             },
-{ 
-                "nama": "Presilia", #11
+            { 
+                "nama": "Presilia", 
                 "nim": "122450081", 
                 "umur": "20", 
                 "asal":"Bekasi", 
@@ -485,8 +485,8 @@ elif menu == "Departemen PSDA":
                 "kesan": "Kakaknya asik dan seru.",   
                 "pesan":"Semangat terus Kak kuliahnya dan semoga semua cita-citanya tercapai." 
             },
-{ 
-                "nama": "Johannes Krisjon Silitonga", #12
+            { 
+                "nama": "Johannes Krisjon Silitonga", 
                 "nim": "122450043", 
                 "umur": "19", 
                 "asal":"Tangerang", 
@@ -496,8 +496,8 @@ elif menu == "Departemen PSDA":
                 "kesan": "Kakaknya asik dan seru.",   
                 "pesan":"Semangat terus Kak kuliahnya dan semoga semua cita-citanya tercapai." 
             },
-{ 
-                "nama": "Kemas Veriandra Ramadhan", #13
+            { 
+                "nama": "Kemas Veriandra Ramadhan", 
                 "nim": "122450016", 
                 "umur": "19", 
                 "asal":"Bekasi", 
@@ -507,8 +507,8 @@ elif menu == "Departemen PSDA":
                 "kesan": "Kakaknya asik dan seru.",   
                 "pesan":"Semangat terus Kak kuliahnya dan semoga semua cita-citanya tercapai." 
             },
-{ 
-                "nama": "Sahid Maulana", #14
+            { 
+                "nama": "Sahid Maulana", 
                 "nim": "122450109", 
                 "umur": "21", 
                 "asal":"Depok, Jabar", 
@@ -518,8 +518,8 @@ elif menu == "Departemen PSDA":
                 "kesan": "Kakaknya asik dan seru.",   
                 "pesan":"Semangat terus Kak kuliahnya dan semoga semua cita-citanya tercapai." 
             },
-{ 
-                "nama": "Rafa Aqilla Jungjunan", #15
+            { 
+                "nama": "Rafa Aqilla Jungjunan", 
                 "nim": "122450142", 
                 "umur": "20", 
                 "asal":"Pekanbaru", 
@@ -530,7 +530,7 @@ elif menu == "Departemen PSDA":
                 "pesan":"Semangat terus Kak kuliahnya dan semoga semua cita-citanya tercapai." 
             },
             {
-                "nama": "M. Farhan Athaulloh", #16
+                "nama": "M. Farhan Athaulloh",
                 "nim": "121450117",
                 "umur": "21",
                 "asal":"Lampung",
@@ -541,7 +541,7 @@ elif menu == "Departemen PSDA":
                 "pesan":"Semangat terus Kak kuliahnya dan semoga semua cita-citanya tercapai."
             },
             {
-                "nama": "Gede Moana", #17
+                "nama": "Gede Moana",
                 "nim": "121450014",
                 "umur": "21",
                 "asal":"Bekasi",
@@ -552,8 +552,8 @@ elif menu == "Departemen PSDA":
                 "pesan":"Semangat terus Kak kuliahnya dan semoga semua cita-citanya tercapai."
             },
             {
-                "nama": "Jaclin Alcavella", #18
-                "nim": "121450015",
+                "nama": "Jaclin Alcavella",
+                "nim": "122450015",
                 "umur": "19",
                 "asal":"Sumatera Selatan",
                 "alamat": "Korpri",
@@ -563,7 +563,7 @@ elif menu == "Departemen PSDA":
                 "pesan":"Semangat terus Kak kuliahnya dan semoga semua cita-citanya tercapai."
             },
             {
-                "nama": "Rafly Prabu Darmawan", #19
+                "nama": "Rafly Prabu Darmawan",
                 "nim": "122450140",
                 "umur": "20",
                 "asal":"Bangka Belitung",
@@ -574,7 +574,7 @@ elif menu == "Departemen PSDA":
                 "pesan":"Semangat terus Kak kuliahnya dan semoga semua cita-citanya tercapai."
             },
             {
-                "nama": "Syalaisha Andini Putriansyah", #20
+                "nama": "Syalaisha Andini Putriansyah",
                 "nim": "122450111",
                 "umur": "21",
                 "asal":"Tangerang",
@@ -583,7 +583,7 @@ elif menu == "Departemen PSDA":
                 "sosmed": "@syalaisha.i__",
                 "kesan": "abangnya asik dan seru.",  
                 "pesan":"Semangat terus Kak kuliahnya dan semoga semua cita-citanya tercapai."
-            },
+            }
         ]
         display_images_with_data(gambar_urls, data_list)
     PSDA()
@@ -741,7 +741,7 @@ elif menu == "Departemen MIKFES":
             },
 
             {
-                "nama": "Syahda Puspadari Azhar",
+                "nama": "Syahdza Puspadari Azhar",
                 "nim": "122450072",
                 "umur": "20",
                 "asal":"Palembang",
@@ -789,6 +789,18 @@ elif menu == "Departemen MIKFES":
             },
 
             {
+                "nama": "Happy Syahrul Ramadhan",
+                "nim": "122450013",
+                "umur": "20",
+                "asal":"Lampung Timur",
+                "alamat": "Karang Ayar",
+                "hobbi": "Main Game",
+                "sosmed": "@sudo.syahrulramadhan",
+                "kesan": "Abangnya pendiem kah?",  
+                "pesan":"Semangat terus bang"
+            },
+
+            {
                 "nama": "Randa Andriana Putra",
                 "nim": "122450083",
                 "umur": "21",
@@ -798,7 +810,7 @@ elif menu == "Departemen MIKFES":
                 "sosmed": "@randaandriana_",
                 "kesan": "Bang Randa keren poll",  
                 "pesan":"Semangat membantu bocah-bocah Gauss"
-            },
+            }
         ]
         display_images_with_data(gambar_urls, data_list)
     mikfes()
@@ -826,7 +838,7 @@ elif menu == "Departemen Eksternal":
         ]
         data_list = [
             {
-                "nama": "Yogy Sae Tama", #1
+                "nama": "Yogy Sae Tama",
                 "nim": "121450041",
                 "umur": "21",
                 "asal":"Tanggerang",
@@ -837,7 +849,7 @@ elif menu == "Departemen Eksternal":
                 "pesan":"Semangat Kuliahnya kakak"
             },
             {
-                "nama": "Ramadhita Atifa Hendri", #2
+                "nama": "Ramadhita Atifa Hendri",
                 "nim": "121400131",
                 "umur": "21",
                 "asal":"Bandar Lampung",
@@ -859,7 +871,7 @@ elif menu == "Departemen Eksternal":
                 "pesan":"semangat kuliahnya kakak"
             },
             {
-                "nama": "Dea Mustia Risani",
+                "nama": "Dea Mutia Risani",
                 "nim": "122450099",
                 "umur": "20",
                 "asal":"Sumatera Barat",
@@ -867,7 +879,7 @@ elif menu == "Departemen Eksternal":
                 "hobbi": "Nerbitin Jurnal",
                 "sosmed": "@deaa.rsn",
                 "kesan": "kakak ini asik",  
-                "pesan":"semangat kuliahnya kak"# 1
+                "pesan":"semangat kuliahnya kak"
             },
             {
                 "nama": "Novelia Adinda",
@@ -947,7 +959,7 @@ elif menu == "Departemen Eksternal":
                 "pesan":"semangat kuliahnya bang"
             },
             {
-                "nama": "Triayunanni",
+                "nama": "Tria Yunanni",
                 "nim": "122450062",
                 "umur": "17",
                 "asal":"Bogor",
@@ -958,7 +970,7 @@ elif menu == "Departemen Eksternal":
                 "pesan":"semangat kuliahnya kakak"
             },
             {
-                "nama": "Khalisah Zuhrah Alyaa Vannefi",
+                "nama": "Khaalishah Zuhrah Alyaa Vanefi",
                 "nim": "122450034",
                 "umur": "20",
                 "asal":"Lampung",
@@ -969,7 +981,7 @@ elif menu == "Departemen Eksternal":
                 "pesan":"semangat kuliahnya kakak"
             },
             {
-                "nama": "Assa Doa Uyi",
+                "nama": "Asa Do'a Uyi",
                 "nim": "122450005",
                 "umur": "20",
                 "asal":"Muara Ening",
@@ -1000,7 +1012,7 @@ elif menu == "Departemen Eksternal":
                 "sosmed": "@@izzalutfiaa",
                 "kesan": "Kakak asik dan menyenangkan",  
                 "pesan":"semangat kuliahnya kakak"
-            },
+            }
         ]
         display_images_with_data(gambar_urls, data_list)
     eksternal()
@@ -1024,7 +1036,7 @@ elif menu == "Departemen Internal":
         ]
         data_list = [
             {
-                "nama": "Dimas Rizki Ramadhani",
+                "nama": "Dimas Rizky Ramadhani",
                 "nim": "121450027",
                 "umur": "20",
                 "asal":"Pamulang, Tangerang Selatan",
@@ -1165,7 +1177,7 @@ elif menu == "Departemen Internal":
                 "sosmed": "@rendraepr",
                 "kesan": "Kakak sangat bijaksana dan penuh pengalaman.",  
                 "pesan":"Semoga Kakak selalu berhasil dalam semua yang dilakukan!!"# 13
-            },
+            }
         ]
         display_images_with_data(gambar_urls, data_list)
     internal()
