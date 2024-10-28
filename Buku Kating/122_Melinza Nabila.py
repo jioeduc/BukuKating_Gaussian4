@@ -455,7 +455,7 @@ elif menu == "Departemen PSDA":
                 "nama": " Deyvan Loxefal", 
                 "nim": " 121450148 ", 
                 "umur":  "21", 
-                "Asal":" Duri Riau  ", 
+                "asal":" Duri Riau  ", 
                 "alamat": "Khobam Pulau Damar", 
                 "hobbi": "Belajar", 
                 "sosmed": "@depanlo", 
