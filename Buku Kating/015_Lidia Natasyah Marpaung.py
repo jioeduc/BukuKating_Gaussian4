@@ -339,7 +339,7 @@ elif menu == "Senator":
         display_images_with_data(gambar_urls, data_list)
     senator()
 
-elif menu == "PSDA":
+elif menu == "Departemen PSDA":
     def PSDA():
         gambar_urls = [
             "https://drive.google.com/uc?export=view&id=12aE8NC1dhhKScb3q9OnBVa_ipabM2Oz0", #1
@@ -804,7 +804,7 @@ elif menu == "Departemen MIKFES":
     mikfes()
 
 
-elif menu == "Eksternal":
+elif menu == "Departemen Eksternal":
     def eksternal():
         gambar_urls = [
             "https://drive.google.com/uc?export=view&id=16ROnYVGzSCKSY_Tx3ZxlJncImc5z8dAt",#1
@@ -1005,7 +1005,7 @@ elif menu == "Eksternal":
         display_images_with_data(gambar_urls, data_list)
     eksternal()
 
-elif menu == "Internal":
+elif menu == "Departemen Internal":
     def internal():
         gambar_urls = [
             "https://drive.google.com/uc?export=view&id=1DnU6i9cW5zhyFhk03IAuFNMwrXiBjLNm",#1
