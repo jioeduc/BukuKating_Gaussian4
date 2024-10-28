@@ -588,7 +588,7 @@ elif menu == "PSDA":
         display_images_with_data(gambar_urls, data_list)
     PSDA()
 
-elif menu == "MIKFES":
+elif menu == "Departemen MIKFES":
     def mikfes():
         gambar_urls = [
             "https://drive.google.com/uc?export=view&id=19P1KmV5dIZ9EsrmUgUikGv4N_2BFPZcQ", #1
