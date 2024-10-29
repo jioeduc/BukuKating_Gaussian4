@@ -821,7 +821,7 @@ elif menu == "Departemen Eksternal":
             "https://drive.google.com/uc?export=view&id=1nBGqqyljZ4yPtxs4_WyzD4m9aGU24FBd",
             "https://drive.google.com/uc?export=view&id=1GDMvPYGG6Yi1Pg_G9gUJ7EgN0pkkcDxH",  
             "https://drive.google.com/uc?export=view&id=1GHj-RELGy5R_EYqa75YRQt0pHVYEBLPF",
-            "https://drive.google.com/uc?export=view&id=1G54ECHJuHANRWLL5gCZXcPw6Uh2AffE",
+            "https://drive.google.com/uc?export=view&id=1G54ECHJuHANRWLL5gCZXcPw6Uh2AFfEJ",
             "https://drive.google.com/uc?export=view&id=1G7Ry4iFHoBsrfGAfeR78wlZEOLkh5CKL",
             "https://drive.google.com/uc?export=view&id=1G87omxqcNW7Bc15QDtgSAOhdYYX1Orjr",
             "https://drive.google.com/uc?export=view&id=1G-Eb68QXZ2FGAhsANmoeWG1osg3MqWKs",
@@ -1186,7 +1186,7 @@ elif menu == "Departemen Medkraf":
         gambar_urls = [
             "https://drive.google.com/uc?export=view&id=1F4-S5anIL9xixuuZZ2SEHVV75M-ndyp8",
             "https://drive.google.com/uc?export=view&id=1F318Rn1oyX8KQUtC7sqq5K5Lq1SP5wX7",
-            "https://drive.google.com/uc?export=view&id=1F1bDc5EjB4460VhCgrIjXKb77nSRXjlr",
+            "https://drive.google.com/uc?export=view&id= 1F1bDc5EjB4460VhCgrIjXKb77nSRXjlr",
             "https://drive.google.com/uc?export=view&id=1FAEC6y43C1zm1XSBcAl81SN2vo96arn",
             "https://drive.google.com/uc?export=view&id=1F7McohV9pixREUlcCbEVSKZ9eeua61rl",
             "https://drive.google.com/uc?export=view&id=1F6XAKTl2S8TZlWQEdWZfAYFcknOQMsxE",
