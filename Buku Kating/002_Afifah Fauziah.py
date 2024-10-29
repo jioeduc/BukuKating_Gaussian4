@@ -170,7 +170,7 @@ elif menu == "Baleg":
         gambar_urls = [
             "https://drive.google.com/uc?export=view&id=18H9RoOq_Cx73ePKwGXgjJy7iR48n3N5K",
             "https://drive.google.com/uc?export=view&id=18WjxfUd_qKIIJfTtAdysthVT0PYJlZI2",
-            "https://drive.google.com/uc?export=view&id=18WjxfUd_qKIIJfTtAdysthVT0PYJlZI2",
+            "https://drive.google.com/uc?export=view&id=18WP2ZezxZEKDkCKxf4VVT4lHoZ92-yO5",
             "https://drive.google.com/uc?export=view&id=18gGL5qqEh7B_5eJeSuUYYtRyo6GfGsvy",
             "https://drive.google.com/uc?export=view&id=183FhdLvGW4xTiDyzDzerdWPH1ytzI4p2",
             "https://drive.google.com/uc?export=view&id=18dAEr-Zj6NLulTETarvcsThUSSn-gwkX",
@@ -188,8 +188,8 @@ elif menu == "Baleg":
                 "alamat": "Raden Saleh",
                 "hobbi": "Searching di perplexity",
                 "sosmed": "@trimurniaa_",
-                "kesan": "Kakak ini asik sekali dan membuat suasana menjadi asik",  
-                "pesan":"semangat kuliahnya kk, moga sukses"
+                "kesan": "Kakak tri positive vibe terus asik bgt diajak ngobrol",  
+                "pesan":"semangat kakaaa loveyouu"
             },
             {
                 "nama": "Claudhea Angeliani",
@@ -199,8 +199,8 @@ elif menu == "Baleg":
                 "alamat": "Lampung Timur",
                 "hobbi": "Baca Journal",
                 "sosmed": "@dylebee",
-                "kesan": "Kakak ini baik sekali dan asik",  
-                "pesan":"semangat menjali kesehariannya kak"
+                "kesan": "Kakak kece bgtt",  
+                "pesan":"tetap jadi orang baik kaka"
             },
             {
                 "nama": "Dhea Amelia Putri",
@@ -210,8 +210,8 @@ elif menu == "Baleg":
                 "alamat": "Natar",
                 "hobbi": "Bercocok tanam",
                 "sosmed": "@_.dheamelia",
-                "kesan": "Kakaknya seru dan enak diajak ngobrol",  
-                "pesan":"semangat terus kuliahnya kak"
+                "kesan": "mantap betull seru kakaknya",  
+                "pesan":"semangat menjalani kuliahnya kakak"
             },
             {
                 "nama": "Jeremia Susanto",
@@ -221,8 +221,8 @@ elif menu == "Baleg":
                 "alamat": "Bandar Lampung",
                 "hobbi": "Gangguin orang",
                 "sosmed": "@jeremia_s_",
-                "kesan": "Abang ini asik dan seru diajak ngobrol",  
-                "pesan":"semangat terus bang kuliahnya"# 1
+                "kesan": "Abang nya chill bgt, asik",  
+                "pesan":"semangat bang kbuat panit dan uliahnya"
             },
             {
                 "nama": "Feryadi Yulius",
@@ -232,7 +232,7 @@ elif menu == "Baleg":
                 "alamat": "Depan khobam",
                 "hobbi": "Baca buku",
                 "sosmed": "@fer_yulius",
-                "kesan": "Abangnya menyenangkan dan asik",  
+                "kesan": "Abangnya keren betulls",  
                 "pesan":"semangat terus kuliahnya abangku"
             },
             {
@@ -243,8 +243,8 @@ elif menu == "Baleg":
                 "alamat": "Kopri",
                 "hobbi": "Main kucing",
                 "sosmed": "@myrrinn",
-                "kesan": "Abang ini enak diajak ngobrol",  
-                "pesan":"semangat terus bang kuliahnya"
+                "kesan": "Paling kece dan ganteng bgt hshshs",  
+                "pesan":"banyakin senyum yaa bang"
             },
             {
                 "nama": "Muhammad Fahrul Aditya",
@@ -265,7 +265,7 @@ elif menu == "Baleg":
                 "alamat": "Jatimulyo",
                 "hobbi": "Baca dan Nonton",
                 "sosmed": "@annisacahyanisurya",
-                "kesan": "Kakak ini asik saya suka ngobrol dengan dia",  
+                "kesan": "Kak Nisa kece parrrah",  
                 "pesan":"semangat terus kuliahnya kakak"
             },
             {
@@ -276,8 +276,8 @@ elif menu == "Baleg":
                 "alamat": "Teluk",
                 "hobbi": "Ngerjain tugas di dwar.io, suka ngeliat pekerjaan di linked in, puasa senin kamis",
                 "sosmed": "@berlyyanda",
-                "kesan": "Kakak menyenangkan dan asik pembawaannya",  
-                "pesan":"semangat terus kuliahnya kak"
+                "kesan": "Kakaknya seru uy dan asik pembawaannya",  
+                "pesan":"semangat menjalani hari harinya kaka"
             },
             {
                 "nama": "Anisa Dini Amalia",
@@ -570,8 +570,6 @@ elif menu == "Departemen MIKFES":
     def mikfes():
         gambar_urls = [
           "https://drive.google.com/uc?export=view&id=1Jsjkm7IXksjrZQt9U7wT3BXs8mW6mVye",
-          "Annisa Novantika sekdep",
-          "Mujadid Choirus Surya_club & komunitas kadiv",
           "https://drive.google.com/uc?export=view&id=1J_GbzVgoHB1OZ-vvLPCf6O6cOEoc7gTy",
           "https://drive.google.com/uc?export=view&id=1Kgxb-zeQ0oFVQp_HGVGckMwJXV4C-ETm",
           "Muhammad Regi Abdi Putra Amanta",
@@ -789,22 +787,20 @@ elif menu == "Departemen MIKFES":
 elif menu == "Departemen Eksternal":
     def eksternal():
         gambar_urls = [
-            "https://drive.google.com/uc?export=view&id=1npTbdo78Gq-JGS6NJUsdyAy2f7uQ4R9s",
-            "https://drive.google.com/uc?export=view&id=1npsahfnVGJH3b44_NNOO8iReimMXDn_R",  
-            "https://drive.google.com/uc?export=view&id=1o-jRfe5I0Sx3o5o2Q0DgJeGM2BM2QTzW",
-            "https://drive.google.com/uc?export=view&id=1oC87ckkP6RBOm3y5T5z33BurAtQCyxzi",
-            "https://drive.google.com/uc?export=view&id=1o9tzxL-vTLQTIpY2FBtkxOaf_R7dITxp",
-            "https://drive.google.com/uc?export=view&id=1oA5IOAGV0uo7P6PKHdu71bqvZYhK2e0y",
-            "https://drive.google.com/uc?export=view&id=1oRwK7rkQu36tONZbNfPZtJ2mAXnODOWX",
-            "https://drive.google.com/uc?export=view&id=1p9_hmippF-Lqw6hrjCZ1d92PeoXoFThg",
-            "https://drive.google.com/uc?export=view&id=1nzUXNaL1HGuZhDrL0UwliyCJSGcK_Zqo",
-            "https://drive.google.com/uc?export=view&id=1ozv1FQWYzUcNBrmkC5BNoZKyh9EFJVyD",
-            "https://drive.google.com/uc?export=view&id=1oIObDjcXMljpMIl-oXP0-zMWuuOKFjVb",
-            "https://drive.google.com/uc?export=view&id=1oDQKrxRgKGN-4sX3uR6-ag6lqsCdGXYR",
-            "https://drive.google.com/uc?export=view&id=1oQJvGRKrAlcGJw0w6OqgqfHW0ZgDpyct",
-            "https://drive.google.com/uc?export=view&id=1p5R2-Tf1LpfkBWHCeE6rAoiFHgI2e_8i",
-            "https://drive.google.com/uc?export=view&id=1o3kUksnEhKiCa1-RS4yKiYy9Ijdx4c3A",
-            "https://drive.google.com/uc?export=view&id=1pGCLP4NWzk15v1dJDPrDIEC-YV2caNe0",
+          "https://drive.google.com/uc?export=view&id=1KQkLaFLVOYIZN8jCPK88DtijjIIxWmjz",
+          "https://drive.google.com/uc?export=view&id=1J-qFwN9EvDlTD2aoQth-o2toc11X7vJN",
+          "https://drive.google.com/uc?export=view&id=1KUEpIrLSvDAfdTKh9esqjRcd94fzBiO7",
+          "https://drive.google.com/uc?export=view&id=1KURW_QSBC-u8uAZYfwALc5VSwXZDR5F1",
+          "https://drive.google.com/uc?export=view&id=19bcgHJ_g6WilL76NblpcypJUH2tmIRGO",
+          "https://drive.google.com/uc?export=view&id=19V6RfXZj1hOC2SB17IuO3vOsSl4Prz-N",
+          "https://drive.google.com/uc?export=view&id=19V2dz0CGvKMvhABoSZwcXTjJzL2t4kQO",
+          "https://drive.google.com/uc?export=view&id=1KRh5kkrF_UP-3VAcQ5mppWPZRRZEVNvn",
+          "https://drive.google.com/uc?export=view&id=19XfsajWqB1HM83ne08Lb8or44RNdDY4k",
+          "https://drive.google.com/uc?export=view&id=19_dImQRLldo0IkKMScMUpJnP6MCrMbos",
+          "https://drive.google.com/uc?export=view&id=19YSUGzbS4SsYp9EaoHwRmXl7zVWVmUzH",
+          "https://drive.google.com/uc?export=view&id=19Y3EFKruV8KkvUnmUfHmPLfMOB-jWq_Z",
+          "https://drive.google.com/uc?export=view&id=19WgQ4NNFOdWBQAlvh0NCKOssKr158Cx6",
+          "https://drive.google.com/uc?export=view&id=1J3OKvHP0BfJfIdCQ9b1OuRINxoEJiEKH",
         ]
         data_list = [
             {
@@ -839,18 +835,7 @@ elif menu == "Departemen Eksternal":
                 "sosmed": "@yo_anamnk",
                 "kesan": "Kakaknya kalem dan lucu",  
                 "pesan":"semangat kuliahnya kakak"
-            },
-            {
-                "nama": "Dea Mutia Risani",
-                "nim": "122450099",
-                "umur": "20",
-                "asal":"Sumatera Barat",
-                "alamat": "Korpri",
-                "hobbi": "Nerbitin Jurnal",
-                "sosmed": "@deaa.rsn",
-                "kesan": "kakak ini asik",  
-                "pesan":"semangat kuliahnya kak"
-            },
+            }, 
             {
                 "nama": "Novelia Adinda",
                 "nim": "122450104",
@@ -972,17 +957,6 @@ elif menu == "Departemen Eksternal":
                 "kesan": "Kakak ini asik, dan sangat menyenangkan",  
                 "pesan":"semangat kuliahnya kakak"
             },
-            {
-                "nama": "Izza Lutfia",
-                "nim": "122450090",
-                "umur": "20",
-                "asal":"Bandar Lampung",
-                "alamat": "Teluk",
-                "hobbi": "Main Volly",
-                "sosmed": "@@izzalutfiaa",
-                "kesan": "Kakak asik dan menyenangkan",  
-                "pesan":"semangat kuliahnya kakak"
-            }
         ]
         display_images_with_data(gambar_urls, data_list)
     eksternal()
