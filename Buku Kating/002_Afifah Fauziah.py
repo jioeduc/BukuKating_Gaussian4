@@ -361,7 +361,7 @@ elif menu == "Departemen PSDA":
                 "alamat": "Khobam",
                 "hobbi": "Travelling",
                 "sosmed": "@ericsonchandra99",
-                "kesan": "Kakaknya menyenangkan dan asik.",  
+                "kesan": "abangnya oke si.",  
                 "pesan":"Semangat terus kuliahnya Kak dan semoga bisa lulus tepat waktu dan sukses dalam kariernya nanti."
             },
             {
@@ -372,7 +372,7 @@ elif menu == "Departemen PSDA":
                 "alamat": "Kemiling",
                 "hobbi": "Bernafas",
                 "sosmed": "@celisabethh_",
-                "kesan": "Kakaknya seru dan asik.",  
+                "kesan": "Kakaknya asik.",  
                 "pesan":"Terus semangat kuliahnya Kak dan semoga berhasil dan sukses meraih cita-cita."
             },
             {
@@ -383,7 +383,7 @@ elif menu == "Departemen PSDA":
                 "alamat": "Sukarame",
                 "hobbi": "Jail",
                 "sosmed": "@afifahhnsrn",
-                "kesan": "Kakaknya seru dan asik.",  
+                "kesan": "Kakaknya seru.",  
                 "pesan":"Terus semangat kuliahnya Kak dan semoga berhasil dan sukses meraih cita-cita."
             },
             {
@@ -394,7 +394,7 @@ elif menu == "Departemen PSDA":
                 "alamat": "Belwis",
                 "hobbi": "Ngukur lampu",
                 "sosmed": "@allyaislami",
-                "kesan": "kakak ini asik dan seru diajak ngobrol.",  
+                "kesan": "kakak asik diajak ngobrol.",  
                 "pesan":"semangat terus Bang kuliahnya dan sukses mencapai apa yang diinginkan."# 1
             },
             {
@@ -405,7 +405,7 @@ elif menu == "Departemen PSDA":
                 "alamat": "Rajabasa",
                 "hobbi": "Nitip sholat",
                 "sosmed": "@eksantyfebriana",
-                "kesan": "kakanya menyenangkan dan asik.",  
+                "kesan": "kakanya menyenangkan.",  
                 "pesan":"Semangat terus kuliahnya Bang dan semoga sukses dalam segala hal yang diusahakan."
             },
             {
@@ -569,23 +569,26 @@ elif menu == "Departemen PSDA":
 elif menu == "Departemen MIKFES":
     def mikfes():
         gambar_urls = [
-            "https://drive.google.com/uc?export=view&id=14O4qO1l9TYSDk6xs-ZFbiTh0blNp_co-",
-            "https://drive.google.com/uc?export=view&id=14O4qO1l9TYSDk6xs-ZFbiTh0blNp_co-",
-            "https://drive.google.com/uc?export=view&id=14O4qO1l9TYSDk6xs-ZFbiTh0blNp_co-",
-            "https://drive.google.com/uc?export=view&id=14O4qO1l9TYSDk6xs-ZFbiTh0blNp_co-",
-            "https://drive.google.com/uc?export=view&id=14O4qO1l9TYSDk6xs-ZFbiTh0blNp_co-",
-            "https://drive.google.com/uc?export=view&id=14O4qO1l9TYSDk6xs-ZFbiTh0blNp_co-",
-            "https://drive.google.com/uc?export=view&id=14O4qO1l9TYSDk6xs-ZFbiTh0blNp_co-",
-            "https://drive.google.com/uc?export=view&id=14O4qO1l9TYSDk6xs-ZFbiTh0blNp_co-",
-            "https://drive.google.com/uc?export=view&id=14O4qO1l9TYSDk6xs-ZFbiTh0blNp_co-",
-            "https://drive.google.com/uc?export=view&id=14O4qO1l9TYSDk6xs-ZFbiTh0blNp_co-",
-            "https://drive.google.com/uc?export=view&id=14O4qO1l9TYSDk6xs-ZFbiTh0blNp_co-",
-            "https://drive.google.com/uc?export=view&id=14O4qO1l9TYSDk6xs-ZFbiTh0blNp_co-",
-            "https://drive.google.com/uc?export=view&id=14O4qO1l9TYSDk6xs-ZFbiTh0blNp_co-",
-            "https://drive.google.com/uc?export=view&id=14O4qO1l9TYSDk6xs-ZFbiTh0blNp_co-",
-            "https://drive.google.com/uc?export=view&id=14O4qO1l9TYSDk6xs-ZFbiTh0blNp_co-",
-            "https://drive.google.com/uc?export=view&id=14O4qO1l9TYSDk6xs-ZFbiTh0blNp_co-",
-            "https://drive.google.com/uc?export=view&id=14O4qO1l9TYSDk6xs-ZFbiTh0blNp_co-",
+          "https://drive.google.com/uc?export=view&id=1Jsjkm7IXksjrZQt9U7wT3BXs8mW6mVye",
+          "Annisa Novantika sekdep",
+          "Mujadid Choirus Surya_club & komunitas kadiv",
+          "https://drive.google.com/uc?export=view&id=1J_GbzVgoHB1OZ-vvLPCf6O6cOEoc7gTy",
+          "https://drive.google.com/uc?export=view&id=1Kgxb-zeQ0oFVQp_HGVGckMwJXV4C-ETm",
+          "Muhammad Regi Abdi Putra Amanta",
+          "https://drive.google.com/uc?export=view&id=1JzbLZyoP28YAzv2fjX5GV2vFt6jNPyC6",
+          "Natanael Oktavianus Partahan Sihombing",
+          "https://drive.google.com/uc?export=view&id=1Jmdp8SJknDxIuNvRtIMzqwFqjHwcBKms",
+          "https://drive.google.com/uc?export=view&id=1JixtgD39UNJftzt8brzGpf_1lHZF7l78",
+          "https://drive.google.com/uc?export=view&id=1JZ-0LqSLJxCRSbMXtosn6agqFwlnQWy2",
+          "https://drive.google.com/uc?export=view&id=1JuNj2lvXXch7av5Om3LQfnz47841NXaH",
+          "https://drive.google.com/uc?export=view&id=1K-fv4LsgKvMGIZhZNJfVNwLq3tphC_Z5",
+          "https://drive.google.com/uc?export=view&id=1JeODNMy9KfAXEvhX-x_Z39bCgeBiMmPg",
+          "Abdurrahman Al-atsary",
+          "https://drive.google.com/uc?export=view&id=1JdWHUtSzfMMVpI03mXCI7L6QWzkoqQJn",
+          "https://drive.google.com/uc?export=view&id=1JdhFl9GzvFmUx2CeyDLk__K0_TP6QYcE",
+          "https://drive.google.com/uc?export=view&id=1KDT48t6MU-85EgNhRANTlobyFDof6T2C",
+          "https://drive.google.com/uc?export=view&id=1KBeoFSmSrd13M9ITMkZ8hpDnzI7r1pcS",
+          "https://drive.google.com/uc?export=view&id=1Jl7sjt7Qj3yBpCSVhiyntpGordzCMYJC",
         ]
         data_list = [
             {
@@ -598,17 +601,6 @@ elif menu == "Departemen MIKFES":
                 "sosmed": "@rafadhlillahh13",
                 "kesan": "Keliatan tegas :D",  
                 "pesan":"Semangat terus bang"
-            },
-            {
-                "nama": "Annisa Novatika",
-                "nim": "121450005",
-                "umur": "21",
-                "asal":"Lampung Utara",
-                "alamat": "Jl.Pulau Sebesi, Sukarame",
-                "hobbi": "baca novel",
-                "sosmed": "@annovavona",
-                "kesan": "Suka sama namanya, gak deng orangnya juga :D",  
-                "pesan":"Semanat terus kak jangan lupa istirahat"
             },
 
             {
