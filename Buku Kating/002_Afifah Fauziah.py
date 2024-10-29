@@ -456,7 +456,7 @@ elif menu == "Departemen PSDA":
                 "nama": " Deyvan Loxefal", 
                 "nim": " 121450148 ", 
                 "umur":  "21", 
-                "Asal":" Duri Riau  ", 
+                "asal":" Duri Riau  ", 
                 "alamat": "Khobam Pulau Damar", 
                 "hobbi": "Belajar", 
                 "sosmed": "@depanlo", 
@@ -1341,6 +1341,7 @@ elif menu == "Departemen Medkraf":
 elif menu == "Departemen SSD":
     def SSD():
         gambar_urls = [
+
             "https://drive.google.com/uc?export=view&id=1E1BMCcdmV6jhL66dnM8_slLsXtY9DVnX",
             "https://drive.google.com/uc?export=view&id=1fKx4ch7R1P1wa2_z2XjQUbUWvXXQCtG5",
             "https://drive.google.com/uc?export=view&id=18WP2ZezxZEKDkCKxf4VVT4lHoZ92-yO5",
@@ -1354,9 +1355,55 @@ elif menu == "Departemen SSD":
             "https://drive.google.com/uc?export=view&id=1fDMBgj7x_GhHf9cvvaViOKXpVGYo9ulq",
 
         ]
+
+            
         data_list = [
             {
-                "nama": "Danang Hilal Kurniawan",
+                "nama": "Andrian Agustinus Lumban Gaol ",
+                "nim": "121450090",
+                "umur": "20",
+                "asal":"Cirikalang",
+                "alamat": "Dekat penjara",
+                "hobbi": "Nyari hobi",
+                "sosmed": "@Andrianelgaol",
+                "kesan": "",  
+                "pesan":""
+            },
+            {
+                "nama": "Adisty Syawaida Ariyanto ",
+                "nim": "121450136",
+                "umur": "22",
+                "asal":"Metro",
+                "alamat": "sukarame",
+                "hobbi": "nonton film",
+                "sosmed": "@Adhistysa_",
+                "kesan": "",  
+                "pesan":""
+            },        
+            {
+                "nama": "Nabila azhari ",
+                "nim": "121450029",
+                "umur": "20",
+                "asal":"Simalumun",
+                "alamat": "Airan",
+                "hobbi": "menghitung duit",
+                "sosmed": "@zajung_",
+                "kesan": "",  
+                "pesan":""
+            },  
+            {
+                "nama": "Ahmad Rizqi ",
+                "nim": "122450138",
+                "umur": "20",
+                "asal":"bukit tinggi",
+                "alamat": "airan",
+                "hobbi": "badminton",
+                "sosmed": "@Ahmda.riz45",
+                "kesan": "",  
+                "pesan":""
+            },
+            {
+                "nama": "Danang hilal kurniawan",
                 "nim": "122450085",
                 "umur": "21",
                 "asal":"Batam",
