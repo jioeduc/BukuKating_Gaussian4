@@ -688,7 +688,7 @@ elif menu == "Departemen MIKFES":
                 "asal":"Bukittinggi",
                 "alamat": "Kopri",
                 "hobbi": "Scroll tiktok",
-                "sosmed": "@rhmn_adityaa",
+                "sosmed": "@here.am.ai",
                 "kesan": "Abangnya lucuuu banget, humble jugaa",  
                 "pesan":"Semangat terus bang, semoga kuat sampai tamat"
             },
