@@ -468,7 +468,7 @@ elif menu == "Departemen PSDA":
                 "nama": " Deyvan Loxefal", 
                 "nim": " 121450148 ", 
                 "umur":  "21", 
-                "Asal":" Duri Riau  ", 
+                "asal":" Duri Riau  ", 
                 "alamat": "Khobam Pulau Damar", 
                 "hobbi": "Belajar", 
                 "sosmed": "@depanlo", 
@@ -524,7 +524,7 @@ elif menu == "Departemen PSDA":
                 "nim": "122450142", 
                 "umur": "20", 
                 "asal":"Pekanbaru", 
-                "alamat": "JBelwis", 
+                "alamat": "Belwis", 
                 "hobbi": "Baca webtoon", 
                 "sosmed": "@rafaaqilla", 
                 "kesan": "Kakaknya asik dan seru.",   
@@ -659,6 +659,7 @@ elif menu == "Departemen MIKFES":
                 "kesan": "Awalnya bingung ternyata kembar :D",  
                 "pesan":"Semangat terus kak"
             },
+            
             {
                 "nama": "Natanael Oktavianus Partahan Sihombing",
                 "nim": "121450107",
@@ -987,7 +988,7 @@ elif menu == "Departemen Internal":
     def internal():
         gambar_urls = [
             "https://drive.google.com/uc?export=view&id=1OCcFPkVB3QFTFLwb8q1hcEDWiIAK7TBT",
-            "https://drive.google.com/uc?export=view&id=1OF28eAOzYo8gnltSazZOzvlvK3FHQZOD",
+            "https://drive.google.com/uc?export=view&id=1O_-GmReBmNSfZYEzspJwRgJ7phwgb4_L",
             "https://drive.google.com/uc?export=view&id=1OL0aj9CzcEbaNUeP7h-B-samxxg5fYz0",
             "https://drive.google.com/uc?export=view&id=1J7wMq7g-tpVooMI5v3Wmc9yoFqz6Yv9m",
             "https://drive.google.com/uc?export=view&id=1JCi49oiq1EJNX7Sv2NKYjzMT3PTwa7S1",
