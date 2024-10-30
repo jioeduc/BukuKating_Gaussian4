@@ -486,7 +486,7 @@ elif menu == "Departemen PSDA":
                 "kesan": "abangnya kece bangett, gokil!!",   
                 "pesan":"Semangat kuliahnya bangg, semoga lulus tepat waktu!!" 
             },
-{ 
+            { 
                 "nama": "Presilia", #11
                 "nim": "122450081", 
                 "umur": "20", 
@@ -497,7 +497,7 @@ elif menu == "Departemen PSDA":
                 "kesan": "Kakaknya asik parahh!!",   
                 "pesan":"Semangat kakk, semoga lulus tepat waktu!!" 
             },
-{ 
+            { 
                 "nama": "Johannes Krisjon Silitonga", #12
                 "nim": "122450043", 
                 "umur": "19", 
@@ -508,7 +508,7 @@ elif menu == "Departemen PSDA":
                 "kesan": "Abangnya kerenn, gokil parah!!",   
                 "pesan":"Semangat belajarnya bang, sukses teruss!!" 
             },
-{ 
+            { 
                 "nama": "Kemas Veriandra Ramadhan", #13
                 "nim": "122450016", 
                 "umur": "19", 
@@ -519,7 +519,7 @@ elif menu == "Departemen PSDA":
                 "kesan": "abangnya menginspirasi banget, kerenn!!!",   
                 "pesan":"semoga sehat selalu bang, sukses disetiap langkah!" 
             },
-{ 
+            { 
                 "nama": "Sahid Maulana", #14
                 "nim": "122450109", 
                 "umur": "21", 
@@ -530,7 +530,7 @@ elif menu == "Departemen PSDA":
                 "kesan": "abangnya seru diajak ngobrol, keren bang!!",   
                 "pesan":"Semoga kuliahnya lancar bang, tetap semangat!!" 
             },
-{ 
+            { 
                 "nama": "Rafa Aqilla Jungjunan", #15
                 "nim": "122450142", 
                 "umur": "20", 
@@ -1200,7 +1200,7 @@ elif menu == "Departemen Medkraf":
             "https://drive.google.com/uc?export=view&id=1ht8SRQzIOehKTUjKhCExAUAXqduo9QqK", #13
             "https://drive.google.com/uc?export=view&id=1hlTr2ySTgKAkPErpT0tF7ifJRF_KrGXy", #14
             "https://drive.google.com/uc?export=view&id=1htYtg5zR1c8OjwTaLJpTm1pjktBPXURn", #15
-            "https://drive.google.com/uc?export=view&id=1VXAkQfuQSrx3a0luWVHoZeRuNViowbuh", #16
+            "https://drive.google.com/uc?export=view&id=1hKtUWVsg7z45FVJdFS3sfk1_V6k_Ayzb", #16
             
         
         ]
