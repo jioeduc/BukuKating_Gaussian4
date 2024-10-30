@@ -166,7 +166,7 @@ elif menu == "About Us":
                 "motto_hidup": "kalo error tinggal trial lagi aja",
             },
             {
-                "nama": "Lidia Natasyah marpaung",
+                "nama": "Lidia Natasyah Marpaung",
                 "sebagai": "Anggota",
                 "nim": "123450015",
                 "fun_fact": "Ga bisa nonton film horor, tapi kalau thriller bolehh",
