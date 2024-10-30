@@ -188,8 +188,8 @@ elif menu == "Baleg":
             "https://drive.google.com/uc?export=view&id=1PGkmSM77Nl_JDo-xrKATgCRcmAiakU5t",
             "https://drive.google.com/uc?export=view&id=1y9RRg3fCIZlS2Y4ERe_EFpev1vEiv1hN",
             "https://drive.google.com/uc?export=view&id=1a5ImtsHbYFD13jJwve5d9pBpM2vagPkn",
-            "https://drive.google.com/uc?export=view&id=1xFoFv3a9JT6ysXJ35JL_fNyNL9f3C0yI",
-             "https://drive.google.com/uc?export=view&id=1TNgVvFP16kJvn0N1Vdx5ncbOU4QlD-xF",
+            "https://drive.google.com/uc?export=view&id=1TNgVvFP16kJvn0N1Vdx5ncbOU4QlD-xF",
+             "https://drive.google.com/uc?export=view&id=1xFoFv3a9JT6ysXJ35JL_fNyNL9f3C0yI", 
         ]
         data_list = [
             {
@@ -478,7 +478,7 @@ elif menu == "Departemen PSDA":
                 "nama": " Deyvan Loxefal", 
                 "nim": " 121450148 ", 
                 "umur":  "21", 
-                "Asal":" Duri Riau  ", 
+                "asal":" Duri Riau  ", 
                 "alamat": "Khobam Pulau Damar", 
                 "hobbi": "Belajar", 
                 "sosmed": "@depanlo", 
@@ -602,12 +602,11 @@ elif menu == "Departemen PSDA":
 elif menu == "Departemen MIKFES":
     def mikfes():
         gambar_urls = [
-            "https://drive.google.com/uc?export=view&id=1_zhOQ8HRcJMiccmgfA8u4bgsPFzpB3A5",
+            "https://drive.google.com/uc?export=view&id=1_zhOQ8HRcJMiccmgfA8u4bgsPFzpB3A5",,
             "https://drive.google.com/uc?export=view&id=1_ahmPfb5V4Toi2YETeeiAYbQ7fjzVWSH",
             "https://drive.google.com/uc?export=view&id=1_UnYjB62XcWD4A1StS57n2LUxPyx7TUd",
             "https://drive.google.com/uc?export=view&id=1_XKHLnDtzmZ1SoRXezOnmCbMFr1Ih5Rh",
             "https://drive.google.com/uc?export=view&id=1_Q6WIxmXw4e2vuGPrq0QRrsls1zVeyZ_",
-            "https://drive.google.com/uc?export=view&id=1_CMGOEm6jRW7tfDmdDEzHm3mDiyE3bGU",
             "https://drive.google.com/uc?export=view&id=1_q1uiIxW1qxX2OC7o4FvgLDmzIrECCEj",
             "https://drive.google.com/uc?export=view&id=1_HD8E9DbC85037Ls2pBmjR9-7QW5NW5t",
             "https://drive.google.com/uc?export=view&id=1a5V5p0lRxBrNF3aquqaaM3oSjAHRNu6z",
@@ -631,17 +630,6 @@ elif menu == "Departemen MIKFES":
                 "sosmed": "@rafadhlillahh13",
                 "kesan": "Keliatan tegas dan mandiri",  
                 "pesan":"Semangat terus bang"
-            },
-            {
-                "nama": "Annisa Novatika",
-                "nim": "121450005",
-                "umur": "21",
-                "asal":"Lampung Utara",
-                "alamat": "Jl.Pulau Sebesi, Sukarame",
-                "hobbi": "baca novel",
-                "sosmed": "@annovavona",
-                "kesan": "kakak cantik banget",  
-                "pesan":"Semanat terus kak jangan lupa istirahat"
             },
 
             {
@@ -811,7 +799,7 @@ elif menu == "Departemen MIKFES":
                 "kesan": "Abangnya pendiam sekali",  
                 "pesan":"Semangat terus bang"
             },
-
+            
             {
                 "nama": "Randa Andriana Putra",
                 "nim": "122450083",
@@ -834,7 +822,6 @@ elif menu == "Departemen Eksternal":
             "https://drive.google.com/uc?export=view&id=1bN6FYl833xd3nUWt9gUzkUVtIfBntVos",  
             "https://drive.google.com/uc?export=view&id=1b_khpFWneZv5ltztlxqgOa0hmikLcCuB",
             "https://drive.google.com/uc?export=view&id=1bV6TfE9OvS3qGNBTXsFBARTJHIeCR37c",
-            "https://drive.google.com/uc?export=view&id=1b_hu_02r3Gbah6HLEEUreb2Zu2JjAnfn",
             "https://drive.google.com/uc?export=view&id=1bO9tzWCoMeS1D84N5rLNXdMhrP9di30z",
             "https://drive.google.com/uc?export=view&id=1bZpYFS3IOkFSMUz_j7Eu9w2WTk_DKb72",
             "https://drive.google.com/uc?export=view&id=1cAnW0aYniMW0Ns_RgrpeaLaAnARcJ_rF",
@@ -1021,10 +1008,10 @@ elif menu == "Departemen Internal":
     def internal():
         gambar_urls = [
             "https://drive.google.com/uc?export=view&id=1fN8bV0t4IpK5Lo7NKX0ABdT30dr2KKkx",#1
-            "https://drive.google.com/uc?export=view&id=1ehnRl8y4MUCdLw691jhKjQnLuvi-E8e8k",#3
+            "https://drive.google.com/uc?export=view&id=1ehnRl8y4MUCdLw691jhKjQnLuvi-E8e8",#3
             "https://drive.google.com/uc?export=view&id=1fXsyz7iSITf8buA2zFRRc52uN2T-96MI",#4
             "https://drive.google.com/uc?export=view&id=1erTnz01TysSwDa3mggQgsf7y9bJKoojc",#5
-            "https://drive.google.com/uc?export=view&id= 1eqhThAQTaKKwz0wSMLtP-_0blYUCsv9p",#6
+            "https://drive.google.com/uc?export=view&id=1eqhThAQTaKKwz0wSMLtP-_0blYUCsv9p",#6
             "https://drive.google.com/uc?export=view&id=1fSGbb_K3BzmnmVsSjRFhJkxMSPacaHPE",#7
             "https://drive.google.com/uc?export=view&id=1feIU6Aib19EfUpSZNvdEmcUlnDqx_Xst",#8
             "https://drive.google.com/uc?export=view&id=1evMH_usIPQwd74SERUnK1Di9B-RVov3A",#9
