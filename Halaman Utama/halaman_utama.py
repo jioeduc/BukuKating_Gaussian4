@@ -169,8 +169,8 @@ elif menu == "About Us":
                 "nama": "Lidia Natasyah marpaung",
                 "sebagai": "Anggota",
                 "nim": "123450015",
-                "fun_fact": "Tidur harus peluk guling",
-                "motto_hidup": "Hidup untuk bernafas",
+                "fun_fact": "Ga bisa nonton film horor, tapi kalau thriller bolehh",
+                "motto_hidup": "Amsal 4:23",
             },
             {
                 "nama": "Zahra Putri Salsabilla",
