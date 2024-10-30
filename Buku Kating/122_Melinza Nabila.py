@@ -313,7 +313,8 @@ elif menu == "Baleg":
                 "kesan": "Kakak ini asik sekali dan ramah",  
                 "pesan":"semangat terus kuliahnya kakak!"
             },
-            ]    display_images_with_data(gambar_urls, data_list)
+            ]    
+        display_images_with_data(gambar_urls, data_list)
     baleg()
 
 elif menu == "Senator":
@@ -1233,7 +1234,7 @@ elif menu == "Departemen Medkraf":
                 "alamat": "Bandar Lampung",
                 "hobbi": "Ngegym",
                 "sosmed": "@cyhntiabella18",
-                "kesan": "Kakak keliatan pintar dan postif vibes "
+                "kesan": "Kakak keliatan pintar dan postif vibes",
                 "pesan":"semangat kak buat kuliahnya"
             },
             {
@@ -1245,7 +1246,7 @@ elif menu == "Departemen Medkraf":
                 "hobbi": "Cubit Orang",
                 "sosmed": "@Patriciadiajeng",
                 "kesan": "Bang jeremy asik dan suka bercanda",  
-                "pesan":"semangat bang ngejar cita - cita nya"# 1
+                "pesan":"semangat bang ngejar cita - cita nya"
             },
             {
                 "nama": "Rahma Neliyana",
