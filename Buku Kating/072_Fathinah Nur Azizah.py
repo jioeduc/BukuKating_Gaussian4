@@ -1452,9 +1452,9 @@ elif menu == "Departemen SSD":
                 "nama": "Farrel Julio Akbar",
                 "nim": "122450110",
                 "umur": "20",
-                "asal":"Salatiga",
-                "alamat": "Bogor",
-                "hobbi": "Jl.lapas",
+                "asal":"Bogor",
+                "alamat": "Jl.lapas",
+                "hobbi": "Supporteran",
                 "sosmed": "@farrel__julio",
                 "kesan": "menyala capo Sains Data!",  
                 "pesan":"semangat terus bang jadi capo"
