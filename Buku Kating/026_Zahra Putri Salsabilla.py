@@ -1457,9 +1457,9 @@ elif menu == "Departemen SSD":
             {
                 "nama": "Farrel Julio Akbar",
                 "nim": "122450110",
-                "umur": "20",
-                "asal":"Salatiga",
-                "alamat": "Bogor",
+                "asal":"Bogor",
+                "alamat": "Jl.lapas",
+                "hobbi": "Supporteran",
                 "hobbi": "Jl.lapas",
                 "sosmed": "@farrel__julio",
                 "kesan": "",  
