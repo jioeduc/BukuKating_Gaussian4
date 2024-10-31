@@ -186,10 +186,11 @@ elif menu == "Baleg":
             "https://drive.google.com/uc?export=view&id=19N3_m-ro4FeFi6qFw3FsccAgvhpKjHgp",
             "https://drive.google.com/uc?export=view&id=1EWIVkoPtDxnzDZApzhLHkZAWG8UzQHum",
             "https://drive.google.com/uc?export=view&id=1PGkmSM77Nl_JDo-xrKATgCRcmAiakU5t",
-            "https://drive.google.com/uc?export=view&id=1y9RRg3fCIZlS2Y4ERe_EFpev1vEiv1hN",
+            "https://drive.google.com/uc?export=view&id=1gL3JR1rX2Nu9Uq6_yxM1l8d4n5e-1-Uc",
             "https://drive.google.com/uc?export=view&id=1a5ImtsHbYFD13jJwve5d9pBpM2vagPkn",
-            "https://drive.google.com/uc?export=view&id=1TNgVvFP16kJvn0N1Vdx5ncbOU4QlD-xF",
-             "https://drive.google.com/uc?export=view&id=1xFoFv3a9JT6ysXJ35JL_fNyNL9f3C0yI", 
+            "https://drive.google.com/uc?export=view&id=1xFoFv3a9JT6ysXJ35JL_fNyNL9f3C0yI", 
+            "https://drive.google.com/uc?export=view&id=1TNgVvFP16kJvn0N1Vdx5ncbOU4QlD-xF", 
+            
         ]
         data_list = [
             {
@@ -270,17 +271,6 @@ elif menu == "Baleg":
                 "pesan":"semoga bahagia dengan jalan yang dipilih bang"
             },
             {
-                "nama": "Berliana Enda Putri",
-                "nim": "122450065",
-                "umur": "21",
-                "asal":"BSD",
-                "alamat": "Teluk",
-                "hobbi": "Ngerjain tugas di dwar.io, suka ngeliat pekerjaan di linked in, puasa senin kamis",
-                "sosmed": "@berlyyanda",
-                "kesan": "Kakak menyenangkan dan asik pembawaannya",  
-                "pesan":"semangat terus kuliahnya kak"
-            },
-            {
                 "nama": "Annisa Cahyani Surya",
                 "nim": "121450114",
                 "umur": "21",
@@ -299,8 +289,8 @@ elif menu == "Baleg":
                 "alamat": "Teluk",
                 "hobbi": "Ngerjain tugas di dwar.io, suka ngeliat pekerjaan di linked in, puasa senin kamis",
                 "sosmed": "@berlyyanda",
-                "kesan": "Kakak ramah banget sumpah",  
-                "pesan":"Kakak bahagia terus yaaa"
+                "kesan": "Kakak ramah banget sih :D",  
+                "pesan":"Kakak aesthetic bgt vibesnya?"
             },
             {
                 "nama": "Anisa Dini Amalia",
