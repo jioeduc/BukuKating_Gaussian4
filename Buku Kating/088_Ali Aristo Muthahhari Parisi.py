@@ -1317,7 +1317,7 @@ elif menu == "Departemen Medkraf":
                 "alamat": "Nangka 3",
                 "hobbi": "Koleksi Parfum",
                 "sosmed": "@Arsalutama",
-                "kesan": "Abangyanya sangat seru dan asik sekali",  
+                "kesan": "Abangnya sangat seru dan asik sekali",  
                 "pesan":"semangat terus kak belajarnya!"
             },
             {
