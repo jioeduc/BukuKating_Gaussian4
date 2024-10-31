@@ -1492,8 +1492,8 @@ elif menu == "Departemen SSD":
                 "alamat": "Jl.Nangka sari",
                 "hobbi": "Olahraga",
                 "sosmed": "@dhavinrzqa13",
-                "kesan": "",  
-                "pesan":""
+                "kesan": "Bang Dhafin ramah dan kalem orangnya",  
+                "pesan":"Semangat terus bang dalam mengejar semua impianmu. Semoga sukses di perkuliahan dan di setiap langkah yang diambil."
             },
             {
                 "nama": "Elia Meylani Simanjuntak ",
@@ -1503,8 +1503,8 @@ elif menu == "Departemen SSD":
                 "alamat": "Korpri",
                 "hobbi": "Nyanyi",
                 "sosmed": "@Meylaniellia",
-                "kesan": "",  
-                "pesan":""
+                "kesan": "Kak Elia orangnya ceria",  
+                "pesan":"Semangat terus kuliahnya kak dan sukses mengejar semua impiannya kak"
             }
         ]
         display_images_with_data(gambar_urls, data_list)
