@@ -479,7 +479,7 @@ elif menu == "Departemen PSDA":
                 "nama": " Deyvan Loxefall",  #10
                 "nim": " 121450148 ", 
                 "umur":  "21", 
-                "Asal":" Duri Riau  ", 
+                "asal":" Duri Riau  ", 
                 "alamat": "Khobam Pulau Damar", 
                 "hobbi": "Belajar", 
                 "sosmed": "@depanlo", 
@@ -572,7 +572,7 @@ elif menu == "Departemen PSDA":
                 "hobbi": "Berenang",
                 "sosmed": "@jaclinalcv_",
                 "kesan": "Kakanya kece bangett, menyala kakak daplok + kakak nim akuu!!!",  
-                "pesan":"semoga hari-hari kakak menyenangkan, soalnya ada nak-anak gauss;) !!"
+                "pesan":"semoga hari-hari kakak menyenangkan, soalnya ada nak-anak gauss !!"
             },
             {
                 "nama": "Rafly Prabu Darmawan", #19
@@ -1213,7 +1213,7 @@ elif menu == "Departemen Medkraf":
                 "asal":"Makkasar",
                 "alamat": "Sukarame",
                 "hobbi": "Nonton Netflix",
-                "sosmed": "",
+                "sosmed": "wayyulaja",
                 "kesan": "Abangnya baik banget, makasih!",  
                 "pesan":"semoga lulus tepat waktu bangg!"
             },
