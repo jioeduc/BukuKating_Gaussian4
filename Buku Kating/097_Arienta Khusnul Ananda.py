@@ -1034,7 +1034,7 @@ elif menu == "Departemen Internal":
         gambar_urls = [
             "https://drive.google.com/uc?export=view&id=14k7yOupFQ_UGV9A0mgd-jzUv6ozRNlWl",#1
             "https://drive.google.com/uc?export=view&id=1p1gHK2noGwnTU6vCBMGIfQw7u9JimwSf",#2
-            "https://drive.google.com/uc?export=view&id=UzdXb1QW-ddYP3UWXxiuBMRapBP_lvJS",#3
+            "https://drive.google.com/uc?export=view&id=1UzdXb1QW-ddYP3UWXxiuBMRapBP_lvJS",#3
             "https://drive.google.com/uc?export=view&id=1fBzRyIiNSDqTAJpbaElgKXZXgo9F0xb7",#4
             "https://drive.google.com/uc?export=view&id=1uSPLUzV4v6aCdiDIjjG_7_UniT3nIQKI",#5
             "https://drive.google.com/uc?export=view&id=1SgwB1uxQczoOQVdf-LnLpIH3jTDaf_EY",#6
@@ -1197,21 +1197,22 @@ elif menu == "Departemen Internal":
 elif menu == "Departemen Medkraf":
     def Medkraf():
         gambar_urls = [
-            "https://drive.google.com/uc?export=view&id=1VLEUP3SNpLStSxZGLuoI1RvPzmH80W1k",
-            "https://drive.google.com/uc?export=view&id=1UeXmcBIg-nL938IFIw20B20UxZAA0Wfz",
-            "https://drive.google.com/uc?export=view&id=1UnDi2sFYQibbkpMZDHUHCZAP8wviZpc9",
-            "https://drive.google.com/uc?export=view&id=1UeXmcBIg-nL938IFIw20B20UxZAA0Wfz",
-            "https://drive.google.com/uc?export=view&id=1UZkZyw88BrE7nNovaWG4e19_6nNQAHK0",
-            "https://drive.google.com/uc?export=view&id=1VJAI1GQeEuwMDXagns6uoY6ic7ETEtSd",
-            "https://drive.google.com/uc?export=view&id=1UdMO3bzCSxzObCELbjXoNegG6449UwRY",
-            "https://drive.google.com/uc?export=view&id=1Us4VBWB1nf9glpXVbmRu2rL35At6aIhj",
-            "https://drive.google.com/uc?export=view&id=1UdMO3bzCSxzObCELbjXoNegG6449UwRY",
-            "https://drive.google.com/uc?export=view&id=1VXAkQfuQSrx3a0luWVHoZeRuNViowbuh",
-            "https://drive.google.com/uc?export=view&id=1VXAkQfuQSrx3a0luWVHoZeRuNViowbuh",
-            "https://drive.google.com/uc?export=view&id=1VXAkQfuQSrx3a0luWVHoZeRuNViowbuh",
-            "https://drive.google.com/uc?export=view&id=1VXAkQfuQSrx3a0luWVHoZeRuNViowbuh",
-            "https://drive.google.com/uc?export=view&id=1VXAkQfuQSrx3a0luWVHoZeRuNViowbuh",
-            "https://drive.google.com/uc?export=view&id=1VXAkQfuQSrx3a0luWVHoZeRuNViowbuh",
+            "https://drive.google.com/uc?export=view&id=1lj_LGp6dk3pX45J99HYgyMVlkKXe8oKJ",
+            "https://drive.google.com/uc?export=view&id=1vTPLpz1MOD0M1tNq_dtDcHXJtoMISxi_",
+            "https://drive.google.com/uc?export=view&id=11J3i8A4pCsYooH4eXpi6NaRjIbFcFnd4",
+            "https://drive.google.com/uc?export=view&id=1zkGR0qhgPf4cuL6EujknxinRScYAttZ6",
+            "https://drive.google.com/uc?export=view&id=1yFoLK3Lsm23fv4WoR4_wvvh_YOmLWMa_",
+            "https://drive.google.com/uc?export=view&id=1AkQKXrkVNRk615AqZZOVOOIq_J0bQQFr",
+            "https://drive.google.com/uc?export=view&id=1pipb0-XYr1Sbvqe1dOUeuA0T5gajk3cL",
+            "https://drive.google.com/uc?export=view&id=1KU78iQB5U1eYQlj4CqmCcTm2Hq6ckZL9",
+            "https://drive.google.com/uc?export=view&id=1wnCSSBnKOZS5tmwtEIhAK-1HdcF2FdMR",
+            "https://drive.google.com/uc?export=view&id=1Bd9yNb3Kt5dynO9GaDUKwuWnw6dgdzBp",
+            "https://drive.google.com/uc?export=view&id=11MKn3sPAHOBzhf6h-A1e3WHtWwYApSOu",
+            "https://drive.google.com/uc?export=view&id=1-OQBdr4jiM2QfnVBXs18-KBX49h7SLCf",
+            "https://drive.google.com/uc?export=view&id=1w30R6ti-6H748QBTaqapQEqosxd0D_3k",
+            "https://drive.google.com/uc?export=view&id=1G3QGssyvM9efg_mx7NEie9cpUwhGA0Kq",
+            "https://drive.google.com/uc?export=view&id=19zkt_iOZfGpI0zGG8c4AozRO50X9EiTc",
+            "https://drive.google.com/uc?export=view&id=1qQJnpaWiNkUUj5wrXxSeBu4_AIzJG5HF",
         ]
 
         data_list = [
@@ -1406,6 +1407,7 @@ elif menu == "Departemen SSD":
             "https://drive.google.com/uc?export=view&id=14MAlXYl-nqMUqHb6TPF_pmJ3KyGcuPBq",
             "https://drive.google.com/uc?export=view&id=1w5FpuCBEn60aE6qkgrli0HqZB-EmKhjl",
             "https://drive.google.com/uc?export=view&id=1icx9se9iN6WECi_voFjxKjMccVff4VGM",
+            "https://drive.google.com/uc?export=view&id=1Vw4rlVBKWbpB9jjUB973R8h2WIXWCLDS",
             "https://drive.google.com/uc?export=view&id=13ldQjRhjNumFMkn7pHL81ZPUerYNQ6y4",
             "https://drive.google.com/uc?export=view&id=1Fjv0Mxy_eR6_xj478bIDy8ukppQ2UNG5"
         ] 
