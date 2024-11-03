@@ -1368,13 +1368,13 @@ elif menu == "Departemen SSD":
             "https://drive.google.com/uc?export=view&id=1alnR1cMoV52cksUfxKz67G6oDv4vq6Rf",
             "https://drive.google.com/uc?export=view&id=1aUwpSGkX5zFhVIPuriqdjqD36eZhPNKj",
             "https://drive.google.com/uc?export=view&id=1apNC9YApH1xahNyQ2S12eMNur83h-n_6",
-            "https://drive.google.com/uc?export=view&id=1lvlK_cL_0nxhEpJHsQhYCQsi3WxeEF6U",
+            "https://drive.google.com/uc?export=1mi6TZoIa6T-7y-u1sNb9Em0Zmk3qbv_i",
             "https://drive.google.com/uc?export=view&id=1jggLu0P8V8khpaAtI56cJ0SpsJr0aWKx",
             "https://drive.google.com/uc?export=view&id=1aa7uwKJZetEcrulDoxuuKI9bSahvM5Fb",
             "https://drive.google.com/uc?export=view&id=1aacBPqKJcpIpN-1GR0skS7GDtA0d2dEV",
-            "https://drive.google.com/uc?export=view&id= 1lj0PHsOAoNuO8ryoNJTcTIuYC0r6ynYL",
-            "https://drive.google.com/uc?export=view&id=1lZmo_EyIDAURN7OXnS2BL9_nw9IavGRB",
-            "https://drive.google.com/uc?export=view&id=1lt8julYfAhSFoSibMHYeHtdfcjK-Y44-",
+            "https://drive.google.com/uc?export=view&id=1mXYHrNXrskYVtdbpsamkIZsPHqCfxtHu",
+            "https://drive.google.com/uc?export=view&id=1maY9D7joacoVj7rFry0ipW-vDvF4O3qZ",
+            "https://drive.google.com/uc?export=view&id=1m79gEn4y1sSl49wVWM8nj-gODwBwrPUQ",
         ]
         data_list = [
             {
