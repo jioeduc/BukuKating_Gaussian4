@@ -444,7 +444,7 @@ elif menu == "Departemen PSDA":
             },
             {
                 "nama": "Ferdy Kevin Naibaho", #7
-                "nim": "121450107",
+                "nim": "122450107",
                 "umur": "20",
                 "asal":"Medan",
                 "alamat": "Senopati Raya",
@@ -455,7 +455,7 @@ elif menu == "Departemen PSDA":
             },
             {
                 "nama": "M. Deriansyah Okutra", #8
-                "nim": "121450101",
+                "nim": "122450101",
                 "umur": "19",
                 "asal":"Kayu Agung",
                 "alamat": "Jl. Pagar Alam Kedaton",
@@ -476,7 +476,7 @@ elif menu == "Departemen PSDA":
                 "pesan":"Semangat terus Kak kuliahnya dan sukses mengejar impiannya."
             },
             { 
-                "nama": " Deyvan Loxefall",  #10
+                "nama": " Deyvan Loxefal",  #10
                 "nim": " 121450148 ", 
                 "umur":  "21", 
                 "asal":" Duri Riau  ", 
@@ -850,7 +850,7 @@ elif menu == "Departemen Eksternal":
             },
             {
                 "nama": "Ramadhita Atifa Hendri", #2
-                "nim": "121400131",
+                "nim": "121450131",
                 "umur": "21",
                 "asal":"Bandar Lampung",
                 "alamat": "Rajabasa",
@@ -871,7 +871,7 @@ elif menu == "Departemen Eksternal":
                 "pesan":"semangat kuliahnya kak, semoga sehat selalu!!"
             },
             {
-                "nama": "Dea Mustia Risani",
+                "nama": "Dea Mutia Risani",
                 "nim": "122450099",
                 "umur": "20",
                 "asal":"Sumatera Barat",
@@ -981,7 +981,7 @@ elif menu == "Departemen Eksternal":
                 "pesan":"semangat kak menjalani perkuliahan ini"
             },
             {
-                "nama": "Assa Doa Uyi",
+                "nama": "Asa Do'a Uyi",
                 "nim": "122450005",
                 "umur": "20",
                 "asal":"Muara Ening",
@@ -1362,7 +1362,7 @@ elif menu == "Departemen Medkraf":
             },
             {
                 "nama": "Hermawan Manurung", #15
-                "nim": "121450069",
+                "nim": "122450069",
                 "umur": "20",
                 "asal":"Bogor",
                 "alamat": "Jalan Deket Tol",
@@ -1502,7 +1502,7 @@ elif menu == "Departemen SSD":
                 "pesan":"sehat selalu kakk, semoga bahagia!!"
             },
             {
-                "nama": "Dhafin Rezaqa Luthhfi", #10
+                "nama": "Dhafin Rezaqa Luthfi", #10
                 "nim": "122450133",
                 "umur": "20",
                 "asal":"Batam",
@@ -1514,7 +1514,7 @@ elif menu == "Departemen SSD":
             },
             {
                 "nama": "Elia Meylani Simanjuntak ", #11
-                "nim": "12145002",
+                "nim": "12245002",
                 "umur": "20",
                 "asal":"Bekasi",
                 "alamat": "Korpri",
