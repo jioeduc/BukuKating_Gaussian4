@@ -1374,7 +1374,7 @@ elif menu == "Departemen SSD":
             "https://drive.google.com/uc?export=view&id=1aacBPqKJcpIpN-1GR0skS7GDtA0d2dEV",
             "https://drive.google.com/uc?export=view&id=1mXYHrNXrskYVtdbpsamkIZsPHqCfxtHu",
             "https://drive.google.com/uc?export=view&id=1maY9D7joacoVj7rFry0ipW-vDvF4O3qZ",
-            "https://drive.google.com/uc?export=view&id=:1m79gEn4y1sSl49wVWM8nj-gODwBwrPUQ",
+            "https://drive.google.com/uc?export=view&id=1m79gEn4y1sSl49wVWM8nj-gODwBwrPUQ",
         ]
         data_list = [
             {
