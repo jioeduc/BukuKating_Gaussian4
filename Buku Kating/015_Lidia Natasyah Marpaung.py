@@ -443,7 +443,7 @@ elif menu == "Departemen PSDA":
                 "pesan":"Semoga sehat selalu kak, semangat belajarnya!!"
             },
             {
-                "nama": "Ferdy Kevin Naibaho", #7
+                "nama": "Ferdy Kevin Naibaho", #7#
                 "nim": "122450107",
                 "umur": "20",
                 "asal":"Medan",
