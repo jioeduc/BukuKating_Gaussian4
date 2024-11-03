@@ -357,7 +357,7 @@ elif menu == "Departemen PSDA":
           "https://drive.google.com/uc?export=view&id=1AFT426Io7b4JHmy9uwq8VN1NHtyxngdD",
           "https://drive.google.com/uc?export=view&id=1AGjpVwuxwAVy5rZ_SzMTSGk48xu4Zgcr",
           "https://drive.google.com/uc?export=view&id=19zf-7Tx0UPViwHTaicZ63lhQFkTY2W4F",
-          "https://drive.google.com/uc?export=view&id1DuKfHmaNIor4bfpPAAlhHgSpqJunPz76",
+          "https://drive.google.com/uc?export=view&id=1DuKfHmaNIor4bfpPAAlhHgSpqJunPz76",
           "https://drive.google.com/uc?export=view&id=1A9GWZRMVES3j1uPZNFGNYvH_Oypy18cJ",
           "https://drive.google.com/uc?export=view&id=1A25pNcYbfhmuVKOC0L3hdojFD1foDkX6",
           "https://drive.google.com/uc?export=view&id=1A9GWZRMVES3j1uPZNFGNYvH_Oypy18cJ",
