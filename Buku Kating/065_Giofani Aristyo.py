@@ -173,6 +173,7 @@ if menu == "Kesekjenan":
                 "kesan": "Kakak ini seru dan asik",  
                 "pesan":"semangat selalu kak kuliahnya, semoga bisa lulus tepat waktu!"
             }
+
         ]
         display_images_with_data(gambar_urls, data_list)
     kesekjenan()
@@ -1211,7 +1212,7 @@ elif menu == "Departemen Medkraf":
                 "asal":"Makkasar",
                 "alamat": "Sukarame",
                 "hobbi": "Nonton Netflix",
-                "sosmed": "@wayuraja",
+                "sosmed": "@wayyulaja",
                 "kesan": "abangnya sangat informatif dan asik",  
                 "pesan":"semangat terus bang kuliahnya semoga bisa lulus tepat waktu"
             },
@@ -1405,7 +1406,7 @@ elif menu == "Departemen SSD":
                 "nama": "Andrian Agustinus Lumban Gaol ",
                 "nim": "121450090",
                 "umur": "20",
-                "asal":"Cirikalang",
+                "asal":"Sidikalang",
                 "alamat": "Dekat penjara",
                 "hobbi": "Nyari hobi",
                 "sosmed": "@Andrianelgaol",
