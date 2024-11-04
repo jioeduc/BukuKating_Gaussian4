@@ -160,7 +160,7 @@ if menu == "Kesekjenan":
                 "hobbi": "Dengerin Bang Pandra gitaran",
                 "sosmed": "@ptrimaulidaaa_",
                 "kesan": "Senyuman kakaknya tulus banget ",  
-                "pesan":"Semanga terus di perjalanan kakak dan Semoga lulus tepat waktu"
+                "pesan":"Semangat terus di perjalanan kakak dan Semoga lulus tepat waktu"
             },
             {
                 "nama": "Nadilla Andhara Putri",
@@ -372,7 +372,7 @@ elif menu == "Departemen PSDA":
                 "alamat": "Khobam",
                 "hobbi": "Travelling",
                 "sosmed": "@ericsonchandra99",
-                "kesan": "Abangnya memiliki  kemampuan mengorganisir yang luar biasa",  
+                "kesan": "Abangnya memiliki kemampuan mengorganisir yang luar biasa",  
                 "pesan":"Jadilah sumber inspirasi bagi orang lain"
             },
             {
@@ -674,7 +674,7 @@ elif menu == "Departemen MIKFES":
                 "alamat": "Gg. Yudistira",
                 "hobbi": "Baca novel",
                 "sosmed": "@dkselsd_31",
-                "kesan": "Kakaknya perhatian banget daan sangat kalem",  
+                "kesan": "Kakaknya perhatian banget dan sangat kalem",  
                 "pesan":"Semangat terus kakak dan tetaplah jadi orang baik"
             },
             {
@@ -999,7 +999,7 @@ elif menu == "Departemen Eksternal":
                 "asal":"Bandar Lampung",
                 "alamat": "Teluk",
                 "hobbi": "Main Volly",
-                "sosmed": "@@izzalutfiaa",
+                "sosmed": "@izzalutfiaa",
                 "kesan": "Jiwa extrovet kakaknya kuat banget",  
                 "pesan":"Selalulah punya energi yaang full kak"
             }
