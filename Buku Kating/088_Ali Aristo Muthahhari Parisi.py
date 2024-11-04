@@ -1207,7 +1207,7 @@ elif menu == "Departemen Medkraf":
                 "asal":"Bandar Lampung",
                 "alamat": "Bandar Lampung",
                 "hobbi": "Ngedit",
-                "sosmed": "@Elokviola",
+                "sosmed": "@elokfiola",
                 "kesan": "Kak Elok ramah dan asik",  
                 "pesan":"Tetap fokus dan semangat mengejar mimpinya kak."
             },
@@ -1257,7 +1257,7 @@ elif menu == "Departemen Medkraf":
             },
             {
                 "nama": "Muhammad Kaisar Firdaus",
-                "nim": "122450135",
+                "nim": "121450135",
                 "umur": "21",
                 "asal":"Pesawaran",
                 "alamat": "Pulau Damar Way Kandis",
@@ -1301,7 +1301,7 @@ elif menu == "Departemen Medkraf":
             },
             {
                 "nama": "Priska Silvia Ferantiana",
-                "nim": "121450053",
+                "nim": "122450053",
                 "umur": "20",
                 "asal":"Palembang",
                 "alamat": "Jl. nangka 2",
@@ -1398,7 +1398,7 @@ elif menu == "Departemen SSD":
                 "pesan":"Semangat terus bang mengejar mimpinya dan nyari hobinya"
             },
             {
-                "nama": "Adisty Syawaida Ariyanto ",
+                "nama": "Adisty Syawalda Ariyanto ",
                 "nim": "121450136",
                 "umur": "22",
                 "asal":"Metro",
@@ -1409,7 +1409,7 @@ elif menu == "Departemen SSD":
                 "pesan":"Selalu semangat kuliahnya dan nonton filmnya kak"
             },        
             {
-                "nama": "Nabila azhari ",
+                "nama": "Nabila Azhari ",
                 "nim": "121450029",
                 "umur": "20",
                 "asal":"Simalumun",
@@ -1420,7 +1420,7 @@ elif menu == "Departemen SSD":
                 "pesan":"Semangat terus kuliahnya kak dan semoga hobinya ngitung duit bisa membawa rezeki berlimpah"
             },  
             {
-                "nama": "Ahmad Rizqi ",
+                "nama": "Ahmad Rizqi",
                 "nim": "122450138",
                 "umur": "20",
                 "asal":"bukit tinggi",
@@ -1431,7 +1431,7 @@ elif menu == "Departemen SSD":
                 "pesan":"Semangat terus mengejar cita-cita dan main badminnya bang"
             },
             {
-                "nama": "Danang hilal kurniawan",
+                "nama": "Danang Hilal Kurniawan",
                 "nim": "122450085",
                 "umur": "21",
                 "asal":"Batam",
@@ -1498,7 +1498,7 @@ elif menu == "Departemen SSD":
             },
             { 
                 "nama": "Elia Meylani Simanjuntak ",
-                "nim": "12145002",
+                "nim": "122450026",
                 "umur": "20",
                 "asal":"Bekasi",
                 "alamat": "Korpri",
