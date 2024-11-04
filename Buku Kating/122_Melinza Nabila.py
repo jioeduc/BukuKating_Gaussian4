@@ -180,13 +180,13 @@ if menu == "Kesekjenan":
 elif menu == "Baleg":
     def baleg():
         gambar_urls = [
-            "https://drive.google.com/uc?export=view&id=19a5O-e5hWKNqlWy5wGC825qQ_VoV-ent",
+            "https://drive.google.com/uc?export=view&id=1yk7XzCZeykUxajXkA0X9OMvD-oU_qFVl",
             "https://drive.google.com/uc?export=view&id=1psHVbV49vti97FDyUjtkqCPcZ9SduWo8",
             "https://drive.google.com/uc?export=view&id=1yknEZLwWGy6WTfxlEwbjCJaAt__rdBCy",
             "https://drive.google.com/uc?export=view&id=19N3_m-ro4FeFi6qFw3FsccAgvhpKjHgp",
             "https://drive.google.com/uc?export=view&id=1EWIVkoPtDxnzDZApzhLHkZAWG8UzQHum",
             "https://drive.google.com/uc?export=view&id=1PGkmSM77Nl_JDo-xrKATgCRcmAiakU5t",
-            "https://drive.google.com/uc?export=view&id=1gL3JR1rX2Nu9Uq6_yxM1l8d4n5e-1-Uc",
+            "https://drive.google.com/uc?export=view&id=1oCO_s5ArEXCK9gAkgkUtj0GfxuUK2Acm",
             "https://drive.google.com/uc?export=view&id=1a5ImtsHbYFD13jJwve5d9pBpM2vagPkn",
             "https://drive.google.com/uc?export=view&id=1xFoFv3a9JT6ysXJ35JL_fNyNL9f3C0yI", 
             "https://drive.google.com/uc?export=view&id=1TNgVvFP16kJvn0N1Vdx5ncbOU4QlD-xF", 
