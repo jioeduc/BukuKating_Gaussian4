@@ -114,18 +114,18 @@ if menu == "Kesekjenan":
                 "asal":"Palembang",
                 "alamat": "Pulau Damar",
                 "hobbi": "Dengerin musik",
-                "sosmed": "@amsirahk",
+                "sosmed": "@gumilangkharisma",
                 "kesan": "Abangnya asik dan seru",  
                 "pesan":"semangat ya bang kuliahnya dan terus menginspirasi"
             },
             {
                 "nama": "Pandra Insani Putra Azwar",
-                "nim": "121450077",
+                "nim": "1214500137",
                 "umur": "21",
                 "asal":"Lampung Utara",
                 "alamat": "Sukarame",
                 "hobbi": "Main gitar",
-                "sosmed": "@pndrinsnptr2",
+                "sosmed": "pndrinsni27",
                 "kesan": "Abang ini baik dan suka membantu",  
                 "pesan":"Semangat TA nya semoga bisa lulus tepat waktu bang"
             },
@@ -136,7 +136,7 @@ if menu == "Kesekjenan":
                 "asal":"Pagar Alam, Sumsel",
                 "alamat": "Kota Baru",
                 "hobbi": "Nonton drakor",
-                "sosmed": "@azilem",
+                "sosmed": "@wulandarimeliza",
                 "kesan": "Kakak ini lucu dan soft girl",  
                 "pesan":"Semangat ditunggu wisuda nya kak, jangan pantang menyerah kak"
             },
@@ -878,7 +878,7 @@ elif menu == "Departemen Eksternal":
                 "hobbi": "Tidur",
                 "sosmed": "@nvliaadinda",
                 "kesan": "kakaknya keren dan lucuu banget",  
-                "pesan":"semangat kak skripsinya dan ditunggu wisudanya"
+                "pesan":"semangat kak nanti skripsinya dan ditunggu wisudanya"
             },
             {
                 "nama": "Tobias David Manogari",
@@ -1271,7 +1271,7 @@ elif menu == "Departemen Medkraf":
             },
             {
                 "nama": "Gymnastiar Al-Khoarizmy",
-                "nim": "122450065",
+                "nim": "122450096",
                 "umur": "20",
                 "asal":"Serang",
                 "alamat": "Lapangan Golf",
@@ -1305,7 +1305,7 @@ elif menu == "Departemen Medkraf":
             {
                 "nama": "Muhammad Arsal Ranjana Utama",
                 "nim": "121450111",
-                "umur": "20",
+                "umur": "21",
                 "asal":"Depok",
                 "alamat": "Nangka 3",
                 "hobbi": "Koleksi Parfum",
@@ -1476,7 +1476,7 @@ elif menu == "Departemen SSD":
                 "pesan":"sukses terus kak apapun pilihan kakak"
             },
             {
-                "nama": "Dhafin Rezaqa Luthhfi",
+                "nama": "Dhafin Razaqa Luthfi",
                 "nim": "122450133",
                 "umur": "20",
                 "asal":"Batam",
@@ -1488,7 +1488,7 @@ elif menu == "Departemen SSD":
             },
             {
                 "nama": "Elia Meylani Simanjuntak ",
-                "nim": "12245002",
+                "nim": "122450026",
                 "umur": "20",
                 "asal":"Bekasi",
                 "alamat": "Korpri",
