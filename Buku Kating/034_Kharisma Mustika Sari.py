@@ -136,7 +136,7 @@ if menu == "Kesekjenan":
                 "asal":"Pagar Alam, Sumsel",
                 "alamat": "Kota Baru",
                 "hobbi": "Nonton drakor",
-                "sosmed": "@azilem",
+                "sosmed": "@wulandarimeliza",
                 "kesan": "asik kalo ngobrol",  
                 "pesan":"semangat kak melin buat menyusun TA dan semoga lulus tepat waktu"
             },
@@ -1521,7 +1521,7 @@ elif menu == "Departemen SSD":
                 "hobbi": "Nyanyi",
                 "sosmed": "@Meylaniellia",
                 "kesan": "kakaknyaa lucu banget, seru banget kak",  
-                "pesan":"semangat kuliahnya kak
+                "pesan":"semangat kuliahnya kak"
             }
         ]
         display_images_with_data(gambar_urls, data_list)

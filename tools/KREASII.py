@@ -60,7 +60,7 @@ data_divisi_gender.plot(kind='bar', stacked=True, ax=ax, color=["#3498db", "#e74
 plt.title("Distribusi Peserta Berdasarkan Divisi dan Gender")
 plt.xlabel("Divisi")
 plt.ylabel("Jumlah Peserta")
-plt.legend(["Perempuan", "Laki-laki"], title="Gender")
+plt.legend(["Laki-laki", "Perempuan"], title="Gender")
 st.pyplot(fig)
 
 # Insight: Gender Percentage in Each Division
@@ -78,7 +78,7 @@ gender_percentage.plot(kind='bar', stacked=True, ax=ax, color=["#3498db", "#e74c
 plt.title("Persentase Gender Berdasarkan Divisi")
 plt.xlabel("Divisi")
 plt.ylabel("Persentase (%)")
-plt.legend(["Perempuan", "Laki-laki"], title="Gender")
+plt.legend(["Laki-laki", "Perempuan"], title="Gender")
 st.pyplot(fig)
 
 # Explanation for Percentage Plot
