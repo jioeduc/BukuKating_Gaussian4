@@ -154,7 +154,7 @@ if menu == "Kesekjenan":
                 "asal":"Pagar Alam, Sumsel",
                 "alamat": "Kota Baru",
                 "hobbi": "Nonton drakor",
-                "sosmed": "@azilem",
+                "sosmed": "@wulandarimeliza",
                 "kesan": "Kak Meliza seru dan asik.",  
                 "pesan":"Terus semangat kuliahnya kak dan semoga sukses selalu dan bisa terus menonton drakor favoritnya."# 1
             },
@@ -823,13 +823,13 @@ elif menu == "Departemen Eksternal":
         ]
         data_list = [
             {
-                "nama": "Yogy Sae Tama",
+                "nama": "Yogy Sa'e Tama",
                 "nim": "121450041",
                 "umur": "21",
                 "asal":"Tanggerang",
                 "alamat": "Sukarame",
                 "hobbi": "Tidur",
-                "sosmed": "@Yogyyyyyyyyy_",
+                "sosmed": "@Yogyyyyyyy",
                 "kesan": "abangnya seru dan menyenagkan",  
                 "pesan":"Semangat Kuliahnya bang dan mengejar semua impiannya"
             },
@@ -900,7 +900,7 @@ elif menu == "Departemen Eksternal":
                 "pesan":"Terus kejar impian dan jaga kesehatan bang"
             },
             {
-                "nama": "Rizki Adrian Bennofry",
+                "nama": "Rizki Adrian Bennovry",
                 "nim": "121450073",
                 "umur": "21",
                 "asal":"Bekasi",
@@ -917,7 +917,7 @@ elif menu == "Departemen Eksternal":
                 "asal":"Depok",
                 "alamat": "Samping Warjo",
                 "hobbi": "Memasak",
-                "sosmed": "@rafiramadhanmaulan",
+                "sosmed": "@arafiramadhanmaulana",
                 "kesan": "abang ini asik dan menyenangkan",  
                 "pesan":"Semangat kuliahnya bang dan mengejar impiannya"
             },
@@ -928,7 +928,7 @@ elif menu == "Departemen Eksternal":
                 "asal":"Padang, Sumatera Utara",
                 "alamat": "Sukarame",
                 "hobbi": "Berbuat baik",
-                "sosmed": "@chlfawwwww",
+                "sosmed": "@chlfaw",
                 "kesan": "Kakak ini baik dan asik",  
                 "pesan":"Semangat kuliahnya kak dan jaga kesehatannya"
             },
@@ -1038,7 +1038,7 @@ elif menu == "Departemen Internal":
                 "asal":"Sumatera Utara",
                 "alamat": "Airan",
                 "hobbi": "Baca novel",
-                "sosmed": "@catherine.sinaga",
+                "sosmed": "@catherine.sinagaa",
                 "kesan": "Kakaknya baik,, positive vibes",  
                 "pesan":"semangat terus kuliahnya kak, semoga semua urusannya diperlancar!!"# 2
             },
@@ -1082,12 +1082,12 @@ elif menu == "Departemen Internal":
                 "asal":"Tangerang",
                 "alamat": "Kost Benawang",
                 "hobbi": "Nyanyi",
-                "sosmed": "@lexanderr",
+                "sosmed": "@rexanderr",
                 "kesan": "Abangnya memiliki kepribadian yang ramah dan menyenangkan.",  
                 "pesan":"semangat terus kuliahnya kak !!!"# 6
             },
             {
-                "nama": "Josua Panggabean",
+                "nama": "Josua Alfa Viando Panggabean",
                 "nim": "121450061",
                 "umur": "21",
                 "asal":"Pematang siantar",
@@ -1104,7 +1104,7 @@ elif menu == "Departemen Internal":
                 "asal":"Lampung Barat",
                 "alamat": "Labuhan dalam",
                 "hobbi": "Miara Dino",
-                "sosmed": "@akbar.resdika",
+                "sosmed": "@akbar_resdika",
                 "kesan": "Abangnya selalu berusaha menciptakan suasana yang menyenangkan.",  
                 "pesan":"Semoga semua usaha Kakak membuahkan hasil yang memuaskan!!"# 8
             },
@@ -1126,7 +1126,7 @@ elif menu == "Departemen Internal":
                 "asal":"Pesawaran",
                 "alamat": "Airan",
                 "hobbi": "Lihat cogan",
-                "sosmed": "@slafhn_",
+                "sosmed": "@slwafhn_694",
                 "kesan": "Kakaknya sangat bijaksana dan penuh pengalaman.",  
                 "pesan":"Semoga Kakak selalu berhasil dalam semua yang dilakukan!!"# 10
             },
