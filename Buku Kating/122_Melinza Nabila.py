@@ -114,13 +114,13 @@ if menu == "Kesekjenan":
                 "asal":"Palembang",
                 "alamat": "Pulau Damar",
                 "hobbi": "Dengerin musik",
-                "sosmed": "@amsirahk",
+                "sosmed": "@gumilangtkharisma",
                 "kesan": "Abangnya asik dan seru",  
                 "pesan":"semangat ya bang kuliahnya dan terus menginspirasi"
             },
             {
                 "nama": "Pandra Insani Putra Azwar",
-                "nim": "121450077",
+                "nim": "1214500147",
                 "umur": "21",
                 "asal":"Lampung Utara",
                 "alamat": "Sukarame",
@@ -164,7 +164,7 @@ if menu == "Kesekjenan":
             },
             {
                 "nama": "Nadilla Andhara Putri",
-                "nim": "121450003",
+                "nim": "121450030",
                 "umur": "21",
                 "asal":"Metro",
                 "alamat": "Kota Baru",
@@ -1271,7 +1271,7 @@ elif menu == "Departemen Medkraf":
             },
             {
                 "nama": "Gymnastiar Al-Khoarizmy",
-                "nim": "122450065",
+                "nim": "122450096",
                 "umur": "20",
                 "asal":"Serang",
                 "alamat": "Lapangan Golf",
