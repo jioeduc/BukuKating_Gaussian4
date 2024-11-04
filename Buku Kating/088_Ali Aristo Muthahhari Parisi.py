@@ -133,8 +133,8 @@ if menu == "Kesekjenan":
                 "alamat": "Pulau Damar",
                 "hobbi": "Dengerin musik",
                 "sosmed": "@amsirahk",
-                "kesan": "Abangnya keren dan asik.",  
-                "pesan":"Semangat terus Bang dan semoga apa yang dicita-citakan tercapai."# 1
+                "kesan": "Bang Gumilang baik dan banyak pengalaman seru.",  
+                "pesan":"Semangat terus bang, teruslah menemukan inspirasi dari musik dan semoga semua cita-citanya segera tercapai."# 1
             },
             {
                 "nama": "Pandra Insani Putra Azwar",
@@ -144,8 +144,8 @@ if menu == "Kesekjenan":
                 "alamat": "Sukarame",
                 "hobbi": "Main gitar",
                 "sosmed": "@pndrinsnptr2",
-                "kesan": "Abangnya seru dan gokil.",  
-                "pesan":"Semangat terus Bang kuliahnya dan terwujud buat semua impiannya."# 1
+                "kesan": "Bang Pandra seru dan keren.",  
+                "pesan":"Terus semangat main gitarnya bang. Semoga kuliahnya lancar dan impiannya tercapai."# 1
             },
             {
                 "nama": "Meliza Wulandari",
@@ -155,7 +155,7 @@ if menu == "Kesekjenan":
                 "alamat": "Kota Baru",
                 "hobbi": "Nonton drakor",
                 "sosmed": "@azilem",
-                "kesan": "Kakaknya seru dan asik.",  
+                "kesan": "Kak Meliza seru dan asik.",  
                 "pesan":"Terus semangat kuliahnya kak dan semoga sukses selalu dan bisa terus menonton drakor favoritnya."# 1
             },
             {
@@ -166,8 +166,8 @@ if menu == "Kesekjenan":
                 "alamat": "Pemda",
                 "hobbi": "Nyanyi",
                 "sosmed": "@hrtfdlh",
-                "kesan": "Kakaknya keren dan seru.",  
-                "pesan":"Semangat terus Kak dan sukses dalam segala hal."# 1
+                "kesan": "Kak Hartiti kalem dan keren.",  
+                "pesan":"Semangat terus nyanyinnya kak dan Semoga sukses selalu dalam perjalanan hidup dan kuliah."# 1
             },
             {
                 "nama": "Putri Maulida Chairani",
@@ -178,7 +178,7 @@ if menu == "Kesekjenan":
                 "hobbi": "Dengerin Bang Pandra gitaran",
                 "sosmed": "@ptrimaulidaaa_",
                 "kesan": "Kakaknya kece dan seru.",  
-                "pesan":"Terus semangat dan sukses dalam perjalanan kuliahnya Kak."# 1
+                "pesan":"Terus semangat dengerin Bang Pandra gitaran dan sukses dalam segala hal."# 1
             },
             {
                 "nama": "Nadilla Andhara Putri",
@@ -189,7 +189,7 @@ if menu == "Kesekjenan":
                 "hobbi": "Kura-kura",
                 "sosmed": "@azilem",
                 "kesan": "Kakaknya punya hobi menarik dan asik.",  
-                "pesan":"semangat kuliahnya Kak dan Semoga sukses selalu."# 1
+                "pesan":"Semangat ngerawat kura-kuranya dan Semoga semua yang diinginkan tercapai kak."# 1
             },
         ]
         display_images_with_data(gambar_urls, data_list)
