@@ -142,7 +142,7 @@ if menu == "Kesekjenan":
             },
             {
                 "nama": "Hartiti Fadhilah",
-                "nim": "12145031",
+                "nim": "121450031",
                 "umur": "21",
                 "asal":"Sumatera Selatan",
                 "alamat": "Pemda",
@@ -205,7 +205,7 @@ elif menu == "Baleg":
             },
             {
                 "nama": "Claudhea Angeliani",
-                "nim": "121400124",
+                "nim": "121450124",
                 "umur": "21",
                 "asal":"Salatiga",
                 "alamat": "Lampung Timur",
@@ -410,7 +410,7 @@ elif menu == "Departemen PSDA":
                 "pesan":"Semangat terus kuliahnya kak Allya."# 1
             },
             {
-                "nama": "Eksanty Febriana Sugma Islamiaty",
+                "nama": "Ekshanty Febriana Sugma Islamiaty",
                 "nim": "122450001",
                 "umur": "20",
                 "asal":"Lubuk Linggau",
@@ -663,14 +663,14 @@ elif menu == "Departemen MIKFES":
                 "asal":"Bukittinggi",
                 "alamat": "Kopri",
                 "hobbi": "Scroll tiktok",
-                "sosmed": "@rhmn_adityaa",
+                "sosmed": "@here.am.ai",
                 "kesan": "Abangnya asik banget",  
                 "pesan":"Semangat terus kuliahnya bang Anwar"
             },
 
             {
                 "nama": "Deva Anjani Khayyuninafsyah",
-                "nim": "121450014",
+                "nim": "122450014",
                 "umur": "21",
                 "asal":"Kemiling",
                 "alamat": "Bandar Lampung",
@@ -723,7 +723,7 @@ elif menu == "Departemen MIKFES":
                 "asal":"Metro",
                 "alamat": "Korpri",
                 "hobbi": "Main Game",
-                "sosmed": "@rhmn_adityaa",
+                "sosmed": "@rhm_adityaa",
                 "kesan": "Abangnya seru abis",  
                 "pesan":"Semangat terus kuliahnya bang Adit"
             },
@@ -759,7 +759,7 @@ elif menu == "Departemen MIKFES":
                 "asal":"Lampung Timur",
                 "alamat": "Karang Ayar",
                 "hobbi": "Main Game",
-                "sosmed": "@sudo.syahrulramadhan",
+                "sosmed": "@sudo.syahrulramadhannn",
                 "kesan": "Abangnya chill banget",  
                 "pesan":"Semangat terus kuliahnya bang "
             },
@@ -806,7 +806,7 @@ elif menu == "Departemen Eksternal":
                 "asal":"Tanggerang",
                 "alamat": "Sukarame",
                 "hobbi": "Tidur",
-                "sosmed": "@Yogyyyyyyyyy_",
+                "sosmed": "@Yogyyyyyy",
                 "kesan": "Bang Yogy asik dan chill parah",  
                 "pesan":"Semangat kuliahnya Bang Yogy"
             },
@@ -878,7 +878,7 @@ elif menu == "Departemen Eksternal":
 
             },
             {
-                "nama": "Rizki Adrian Bennofry",
+                "nama": "Rizki Andrian Bennovry",
                 "nim": "121450073",
                 "umur": "21",
                 "asal":"Bekasi",
@@ -895,7 +895,7 @@ elif menu == "Departemen Eksternal":
                 "asal":"Depok",
                 "alamat": "Samping Warjo",
                 "hobbi": "Memasak",
-                "sosmed": "@rafiramadhanmaulan",
+                "sosmed": "@arafiramadhanmaulana",
                 "kesan": "abang ini asik banget",  
                 "pesan":"semangat kuliahnya bang Arafi"
             },
@@ -906,7 +906,7 @@ elif menu == "Departemen Eksternal":
                 "asal":"Padang, Sumatera Utara",
                 "alamat": "Sukarame",
                 "hobbi": "Berbuat baik",
-                "sosmed": "@chlfawwwww",
+                "sosmed": "@chlfaw",
                 "kesan": "Kakak ini baik banget",  
                 "pesan":"semangat kuliahnya kakak Califia"
             },
@@ -1022,7 +1022,7 @@ elif menu == "Departemen Internal":
                 "asal":"Lampung Barat",
                 "alamat": "Labuhan dalam",
                 "hobbi": "Miara Dino",
-                "sosmed": "@akbar.resdika",
+                "sosmed": "@akbar_resdika",
                 "kesan": "Abang ini asik banget.",  
                 "pesan":"Semangat kuliahnya Bang Akbar"# 8
             },
@@ -1044,7 +1044,7 @@ elif menu == "Departemen Internal":
                 "asal":"Pesawaran",
                 "alamat": "Airan",
                 "hobbi": "Lihat cogan",
-                "sosmed": "@slafhn_",
+                "sosmed": "@slwafhn_694",
                 "kesan": "Kakak ini ramah banget.",  
                 "pesan":"Semangat kuliahnya Kak Salwa"# 10
             },
@@ -1114,7 +1114,7 @@ elif menu == "Departemen Medkraf":
                 "asal":"Bandar Lampung",
                 "alamat": "Bandar Lampung",
                 "hobbi": "Ngedit",
-                "sosmed": "@Elokviola",
+                "sosmed": "@Elokfiola",
                 "kesan": "kakak ramah sekali",  
                 "pesan":"semangat kuliahnya kak Elok"
             },
@@ -1164,7 +1164,7 @@ elif menu == "Departemen Medkraf":
             },
             {
                 "nama": "Muhammad Kaisar Firdaus",
-                "nim": "122450135",
+                "nim": "121450135",
                 "umur": "21",
                 "asal":"Pesawaran",
                 "alamat": "Pulau Damar Way Kandis",
@@ -1208,7 +1208,7 @@ elif menu == "Departemen Medkraf":
             },
             {
                 "nama": "Priska Silvia Ferantiana",
-                "nim": "121450053",
+                "nim": "122450053",
                 "umur": "20",
                 "asal":"Palembang",
                 "alamat": "Jl. nangka 2",
@@ -1305,7 +1305,7 @@ elif menu == "Departemen SSD":
                 "pesan":"Semangat kuliahnya Bang"
             },
             {
-                "nama": "Adisty Syawaida Ariyanto ",
+                "nama": "Adisty Syawalda Arianto ",
                 "nim": "121450136",
                 "umur": "22",
                 "asal":"Metro",
