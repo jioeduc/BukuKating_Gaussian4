@@ -562,7 +562,7 @@ elif menu == "Departemen PSDA":
                 "pesan":"Semangat terus bang kuliahnya dan semoga semua cita-citanya tercapai."
             },
             {
-                "nama": "Gede Moecommna",
+                "nama": "Gede Moena",
                 "nim": "121450014",
                 "umur": "21",
                 "asal":"Bekasi",
