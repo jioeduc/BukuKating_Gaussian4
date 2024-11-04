@@ -226,7 +226,7 @@ elif menu == "Baleg":
             },
             {#2
                 "nama": "Claudhea Angeliani",
-                "nim": "12140124",
+                "nim": "121450124",
                 "umur": "21",
                 "asal":"Salatiga",
                 "alamat": "Lampung Timur",
@@ -394,7 +394,7 @@ elif menu == "Departemen PSDA":
                 "hobbi": "Travelling",
                 "sosmed": "@ericsonchandra99",
                 "kesan": "Bang Ericson seru punya banyak pengalaman tetang organisasi",  
-                "pesan":"Semangat terus kuliahnya bang"
+                "pesan":"Semangat travellingnya bang sama rekomendasi tempat travelling dan semoga tercapai semua keinginannya."
             },
             {
                 "nama": "Elisabeth Claudia Simanjuntak",
@@ -404,8 +404,8 @@ elif menu == "Departemen PSDA":
                 "alamat": "Kemiling",
                 "hobbi": "Bernafas",
                 "sosmed": "@celisabethh_",
-                "kesan": "Kakaknya asik",  
-                "pesan":"Semangat terus kuliahnya kak"
+                "kesan": "Kak Elisabeth orangnya ceria dan keren",  
+                "pesan":"Semangat terus menjalani segala aktivitasnya kak dan sukses selalu dalam segala hal"
             },
             {
                 "nama": "Nisrina Nur Afifah",
@@ -415,8 +415,8 @@ elif menu == "Departemen PSDA":
                 "alamat": "Sukarame",
                 "hobbi": "Jail",
                 "sosmed": "@afifahhnsrn",
-                "kesan": "Kakaknya seru dan asik.",  
-                "pesan":"Terus semangat kuliahnya Kak dan semoga berhasil dan sukses meraih cita-cita."
+                "kesan": "Kak Afifah tegas orangnya.",  
+                "pesan":"Semoga dipermudah segala urusan dan tercapai semua mimpinya kak."
             },
             {
                 "nama": "Allya Nurul Islami Pasha",
@@ -426,8 +426,8 @@ elif menu == "Departemen PSDA":
                 "alamat": "Belwis",
                 "hobbi": "Ngukur lampu",
                 "sosmed": "@allyaislami_",
-                "kesan": "kakaknya seru dan asik",  
-                "pesan":"Semangat terus kuliahnya kak dan jaga kesehatan"
+                "kesan": "kak Allya serius orangnya.",  
+                "pesan":"Sehat selalu buat kak Allya dan semoga dipermudah dalam mewujudkan cita-citanya."
             },
             {
                 "nama": "Eksanty Febriana Sugma Islamiaty",
@@ -437,8 +437,8 @@ elif menu == "Departemen PSDA":
                 "alamat": "Rajabasa",
                 "hobbi": "Nitip sholat",
                 "sosmed": "@eksantyfebriana",
-                "kesan": "kakanya menyenangkan dan asik",  
-                "pesan":"Jaga kesehatan dan selalu semangat mengejar cita-citanya kak"
+                "kesan": "kak Eksanty orangnya asik dan tegas",  
+                "pesan":"Sukses terus buat kak Eksanty dan semoga tercapai semua keinginannya."
             },
             {
                 "nama": "Farahanum Afifah Ardiansyah",
@@ -448,8 +448,8 @@ elif menu == "Departemen PSDA":
                 "alamat": "Sukarame",
                 "hobbi": "Minum Kopi",
                 "sosmed": "@farahanumafifahh",
-                "kesan": "kakaknya seru dan asik",  
-                "pesan":"Semangat terus kuliahnya Bang dan semoga sukses mengejar impian."
+                "kesan": "kak Farahanum seru dan asik",  
+                "pesan":"Semoga sehat selalu kak dan minta rekomendasiin kopi yang enak."
             },
             {
                 "nama": "Ferdy Kevin Naibaho",
@@ -641,7 +641,7 @@ elif menu == "Departemen MIKFES":
                 "pesan":"Semangat terus bang"
             },
             {
-                "nama": "Annisa Novatika",
+                "nama": "Annisa Novantika",
                 "nim": "121450005",
                 "umur": "21",
                 "asal":"Lampung Utara",
