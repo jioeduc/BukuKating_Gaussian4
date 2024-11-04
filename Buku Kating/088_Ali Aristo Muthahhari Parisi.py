@@ -1218,7 +1218,7 @@ elif menu == "Departemen Medkraf":
                 "asal":"Teluk",
                 "alamat": "Bandar Lampung",
                 "hobbi": "Ngegym",
-                "sosmed": "@cyhntiabella18",
+                "sosmed": "@cintyabella28",
                 "kesan": "Kak Cintya keren dan ramah",  
                 "pesan":"Semangat terus ngegymnya kak. Keep pushing your limits!"
             },
@@ -1240,7 +1240,7 @@ elif menu == "Departemen Medkraf":
                 "asal":"Lampung",
                 "alamat": "Jl. Kembang 5 Sukarame",
                 "hobbi": "Makan Geprek",
-                "sosmed": "@Rahmaneliyana",
+                "sosmed": "@rahmanellyana",
                 "kesan": "Kak Rahma kalem dan ramah",  
                 "pesan":"Terus jalankan hobinya kak tapi jangan lupa jaga kesehatannya juga ya kak, terus semangat dan sukses kak."
             },
@@ -1284,7 +1284,7 @@ elif menu == "Departemen Medkraf":
                 "asal":"Serang",
                 "alamat": "Lapangan Golf",
                 "hobbi": "Nyari Tuyul Baskat",
-                "sosmed": "@aimnn.as",
+                "sosmed": "@gymnn.as",
                 "kesan": "Bang Gymnastiar asik dan seru keliatan dari hobinya",  
                 "pesan":"Terus semangat jalanin hobi uniknya bang dan semoga apa yang diimpikan terwujud bang"
             },
@@ -1313,11 +1313,11 @@ elif menu == "Departemen Medkraf":
             {
                 "nama": "Muhammad Arsal Ranjana Utama",
                 "nim": "121450111",
-                "umur": "-",
+                "umur": "21",
                 "asal":"Depok",
                 "alamat": "Nangka 3",
                 "hobbi": "Koleksi Parfum",
-                "sosmed": "@Arsalutama",
+                "sosmed": "@arsal.utama",
                 "kesan": "Bang Arsal seru dan ramah",  
                 "pesan":"Terus semangat koleksi parfumnya bang, siapa tau nanti bisa punya merk parfum sendiri dan sukses selalu bang."
             },
@@ -1339,7 +1339,7 @@ elif menu == "Departemen Medkraf":
                 "asal":"Bandar Lampung",
                 "alamat": "Perum Griya Sukarame",
                 "hobbi": "Tidur",
-                "sosmed": "@akmal.faiz",
+                "sosmed": "@_akmal.faiz",
                 "kesan": "Bang Akmal Menyenagkan dan baik",  
                 "pesan":"Semoga hobinya bisa memberi keseimbangan antara istirahat dan aktivitas bang. Sukses selalu mengejar mimpinya."
             },
@@ -1350,7 +1350,7 @@ elif menu == "Departemen Medkraf":
                 "asal":"Bogor",
                 "alamat": "Jalan Deket Tol",
                 "hobbi": "Bengong",
-                "sosmed": "@Hermanmanurung",
+                "sosmed": "@Hermanman.mnrng",
                 "kesan": "Bang Hermawan orangnya semangat terus dan baik",  
                 "pesan":"Bang Hermawan hobinya unik, tapi dari momen bengong bisa muncul hal-hal hebat. Semangat terus bang mengejar cita-citanya."
             },
@@ -1393,7 +1393,7 @@ elif menu == "Departemen SSD":
                 "asal":"Cirikalang",
                 "alamat": "Dekat penjara",
                 "hobbi": "Nyari hobi",
-                "sosmed": "@Andrianelgaol",
+                "sosmed": "@Andrianlgaol",
                 "kesan": "Bang Adrian seru dan banyak pengalamannya",  
                 "pesan":"Semangat terus bang mengejar mimpinya dan nyari hobinya"
             },
@@ -1404,7 +1404,7 @@ elif menu == "Departemen SSD":
                 "asal":"Metro",
                 "alamat": "sukarame",
                 "hobbi": "nonton film",
-                "sosmed": "@Adhistysa_",
+                "sosmed": "@Adistysa_",
                 "kesan": "Kakak Adisty asik dan seru",  
                 "pesan":"Selalu semangat kuliahnya dan nonton filmnya kak"
             },        
@@ -1426,7 +1426,7 @@ elif menu == "Departemen SSD":
                 "asal":"bukit tinggi",
                 "alamat": "airan",
                 "hobbi": "badminton",
-                "sosmed": "@Ahmda.riz45",
+                "sosmed": "@ahmad.riz45",
                 "kesan": "Bang Ahmad keren dan cool",  
                 "pesan":"Semangat terus mengejar cita-cita dan main badminnya bang"
             },
@@ -1459,7 +1459,7 @@ elif menu == "Departemen SSD":
                 "asal":"Sumatera Utara",
                 "alamat": "Pemda",
                 "hobbi": "Menulis",
-                "sosmed": "@Tesakaniaa",
+                "sosmed": "@tesakanias",
                 "kesan": "Kak Tessa orangnya kalem",  
                 "pesan":"Semangat terus kak dalam menulis dan kuliahnya"
             },
@@ -1470,7 +1470,7 @@ elif menu == "Departemen SSD":
                 "asal":"Bandar Lampung, kedaton",
                 "alamat": "Kedaton",
                 "hobbi": "Tidur",
-                "sosmed": "@Nabilahanfir",
+                "sosmed": "@Nabilahanftr",
                 "kesan": "Kak Nabilah orangnya asik dan hobinya yang unik",  
                 "pesan":"Semangat terus Kak. Semoga sukses di perkuliahan dan segala hal yang dijalani."
             },
@@ -1481,12 +1481,12 @@ elif menu == "Departemen SSD":
                 "asal":"Binjai",
                 "alamat": "Korpri",
                 "hobbi": "nonton",
-                "sosmed": "@Alfiagntng",
+                "sosmed": "@Alviagnting",
                 "kesan": "Kak Alvia orangnya seru",  
                 "pesan":"Semangat terus Kak, dalam menjalani perkuliahan dan segala aktivitas. Semoga sukses selalu dan tetap jaga semangat serta kesehatan."
             },
             {
-                "nama": "Dhafin Rezaqa Luthhfi",
+                "nama": "Dhafin Razaqa Luthfi",
                 "nim": "122450133",
                 "umur": "20",
                 "asal":"Batam",
