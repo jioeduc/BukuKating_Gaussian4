@@ -943,7 +943,7 @@ elif menu == "Departemen Eksternal":
                 "alamat": "Sukarame",
                 "hobbi": "Berbuat baik",
                 "sosmed": "@chlfawwwww",
-                "kesan": "asikk ketemu kakak nim, mantap sekali kak",  
+                "kesan": "Kakak ini baik dan asikk sekali",  
                 "pesan":"semangat kuliahnya kakak, sehat selalu kakak"
             },
             {

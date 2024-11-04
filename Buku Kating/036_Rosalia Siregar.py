@@ -1399,7 +1399,7 @@ elif menu == "Departemen SSD":
                 "asal":"Cirikalang",
                 "alamat": "Dekat penjara",
                 "hobbi": "Nyari hobi",
-                "sosmed": "@Andrianlgaol",
+                "sosmed": "@andrianlgaol",
                 "kesan": "Abangnya kayak orang sunda padahal batak",  
                 "pesan":"Teruslah bersinar dan menginspirasi bang"
             },
@@ -1492,6 +1492,7 @@ elif menu == "Departemen SSD":
                 "pesan":"Semangat terus kak dan selalulah bahagia"
             },
             {
+
                 "nama": "Dhafin Razaqa Luthfi",
                 "nim": "122450133",
                 "umur": "20",
