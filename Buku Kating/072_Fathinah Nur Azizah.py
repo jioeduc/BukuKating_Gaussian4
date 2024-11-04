@@ -416,7 +416,7 @@ elif menu == "Departemen PSDA":
                 "alamat": "Rajabasa",
                 "hobbi": "Nitip sholat",
                 "sosmed": "@eksantyfebriana",
-                "kesan": "Kak Eksanty tinggi benget, diriku harus jinjit dulu walaupun akhirnya gak setinggi Ka Eksanty juga sih",  
+                "kesan": "Kak Eksanty tinggi banget, diriku harus jinjit dulu walaupun akhirnya gak setinggi Ka Eksanty juga sih",  
                 "pesan":"Tetap jadi orang baik dan ramah kak"
             },
             {
@@ -494,7 +494,7 @@ elif menu == "Departemen PSDA":
                 "hobbi": "Ngasprak", 
                 "sosmed": "@johanneskrisjon", 
                 "kesan": "Bang Jo ramah bgt orangnya ",   
-                "pesan":"Semangat terus ngebasket, ngasprak, dana akademiknya bang" 
+                "pesan":"Semangat terus ngebasket, ngasprak, dan akademiknya bang" 
             },
             { 
                 "nama": "Kemas Veriandra Ramadhan", 
@@ -688,7 +688,7 @@ elif menu == "Departemen MIKFES":
                 "asal":"Bukittinggi",
                 "alamat": "Kopri",
                 "hobbi": "Scroll tiktok",
-                "sosmed": "@rhmn_adityaa",
+                "sosmed": "@here.am.ai",
                 "kesan": "Gak expect sama hobinya Bang Anwar TT",  
                 "pesan":"Maaf ya bang kalau dari kami waktu materi abang ada yg kurang merhatiin :("
             },
@@ -761,7 +761,7 @@ elif menu == "Departemen MIKFES":
                 "alamat": "Korpri",
                 "hobbi": "Main Game",
                 "sosmed": "@rhmn_adityaa",
-                "kesan": "Bang Adit tulisan tangannya rapi banget",  
+                "kesan": "Aku bertemu salah satu idola anak 23",  
                 "pesan":"Bang, abang punya banyak fans tau"
             },
 
@@ -1189,13 +1189,8 @@ elif menu == "Departemen Medkraf":
             "https://drive.google.com/uc?export=view&id=1ovugRMrzPiWlIyFv_jb-A3WHGBC0KM09",
             "https://drive.google.com/uc?export=view&id=1e4yISaSnTM250B3UYrOHbk07EoIS4izA",
             "https://drive.google.com/uc?export=view&id=1PQCCi95qZQeT-mC3wUv7DotBikZr6iv6",
-            "https://drive.google.com/uc?export=view&id=1QJDpAHVy9vjQoA3fDEyVvMEo4OsYPb5o",
-            "https://drive.google.com/uc?export=view&id=1PQCCi95qZQeT-mC3wUv7DotBikZr6iv6",
-            "https://drive.google.com/uc?export=view&id=1PQCCi95qZQeT-mC3wUv7DotBikZr6iv6",
-            "https://drive.google.com/uc?export=view&id=1PQCCi95qZQeT-mC3wUv7DotBikZr6iv6",
-            "https://drive.google.com/uc?export=view&id=1PQCCi95qZQeT-mC3wUv7DotBikZr6iv6"
+            "https://drive.google.com/uc?export=view&id=1QJDpAHVy9vjQoA3fDEyVvMEo4OsYPb5o"
         ]
-
         data_list = [
             {
                 "nama": "Wahyudianto",
