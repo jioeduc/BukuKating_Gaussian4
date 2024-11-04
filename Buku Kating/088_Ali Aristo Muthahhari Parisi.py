@@ -430,7 +430,7 @@ elif menu == "Departemen PSDA":
                 "pesan":"Semangat terus kuliahnya kak dan jaga kesehatan"
             },
             {
-                "nama": "Eksanty Febriana Sukma Islamiaty",
+                "nama": "Eksanty Febriana Sugma Islamiaty",
                 "nim": "122450001",
                 "umur": "20",
                 "asal":"Lubuk Linggau",
@@ -474,7 +474,7 @@ elif menu == "Departemen PSDA":
                 "pesan":"Semangat terus kuliahnya Kak dan jaga kesehatannya"
             },
             {
-                "nama": "Oktavia Nurwenda Puspita Sari",
+                "nama": "Oktavia Nurwinda Puspitasari",
                 "nim": "122450041",
                 "umur": "20",
                 "asal":"Lampung Timur",
@@ -562,7 +562,7 @@ elif menu == "Departemen PSDA":
                 "pesan":"Semangat terus bang kuliahnya dan semoga semua cita-citanya tercapai."
             },
             {
-                "nama": "Gede Moena",
+                "nama": "Gede Moecommna",
                 "nim": "121450014",
                 "umur": "21",
                 "asal":"Bekasi",
@@ -647,7 +647,7 @@ elif menu == "Departemen MIKFES":
                 "asal":"Lampung Utara",
                 "alamat": "Jl.Pulau Sebesi, Sukarame",
                 "hobbi": "baca novel",
-                "sosmed": "@annovavona",
+                "sosmed": "@anovavona",
                 "kesan": "Suka sama namanya, gak deng orangnya juga :D",  
                 "pesan":"Semanat terus kak jangan lupa istirahat"
             },
@@ -692,7 +692,7 @@ elif menu == "Departemen MIKFES":
 
             {
                 "nama": "Deva Anjani Khayyuninafsyah",
-                "nim": "121450014",
+                "nim": "122450014",
                 "umur": "21",
                 "asal":"Kemiling",
                 "alamat": "Bandar Lampung",
@@ -727,7 +727,7 @@ elif menu == "Departemen MIKFES":
             },
 
             {
-                "nama": "Syahdza Puspadari Azhar",
+                "nama": "Syadza Puspadari Azhar",
                 "nim": "122450072",
                 "umur": "20",
                 "asal":"Palembang",
@@ -745,7 +745,7 @@ elif menu == "Departemen MIKFES":
                 "asal":"Metro",
                 "alamat": "Korpri",
                 "hobbi": "Main Game",
-                "sosmed": "@rhmn_adityaa",
+                "sosmed": "@rhm_adityaa",
                 "kesan": "Abangnya seru abis",  
                 "pesan":"Semangat terus bang"
             },
@@ -781,7 +781,7 @@ elif menu == "Departemen MIKFES":
                 "asal":"Lampung Timur",
                 "alamat": "Karang Ayar",
                 "hobbi": "Main Game",
-                "sosmed": "@sudo.syahrulramadhan",
+                "sosmed": "@sudo.syahrulramadhannn",
                 "kesan": "Abangnya pendiem kah?",  
                 "pesan":"Semangat terus bang"
             },
