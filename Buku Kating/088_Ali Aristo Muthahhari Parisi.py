@@ -201,19 +201,19 @@ if menu == "Kesekjenan":
 elif menu == "Baleg":
     def baleg():
         gambar_urls = [
-            "https://drive.google.com/uc?export=view&id=14O4qO1l9TYSDk6xs-ZFbiTh0blNp_co-",
-            "https://drive.google.com/uc?ex/port=view&id=13p1uMYMMCQUERVd7NYvPYjOqS8_mO60i",
-            "https://drive.google.com/uc?export=view&id=14IZAAHaGCkSdybsk_SSq7jpH9yFvV1Bu",
-            "https://drive.google.com/uc?export=view&id=13qRSF7z4DtkjD23H0eA8gE3kqT95pLDQ",
-            "https://drive.google.com/uc?export=view&id=13r9FKQG_K3xfj9ItVML_g3ib9qpf9-I3",
-            "https://drive.google.com/uc?export=view&id=14T9y86d_B5DqghQvLpQW1ysB8gyjZMUL",
-            "https://drive.google.com/uc?export=view&id=14K_EGfL_ILNh5Rt4RGMRqFHOmPoTwTmG",
-            "https://drive.google.com/uc?export=view&id=13k9URuNPCXTzFOVFI8IHBnNQlHLFuRQg",
-            "https://drive.google.com/uc?export=view&id=144xD1Kbck9T_CIe2QdSP4NYP-aD6Dwvz",
-            "https://drive.google.com/uc?export=view&id=14LwQhnNTEj9yu-GvbVPxoBf-NiB0qffE",
+            "https://drive.google.com/uc?export=view&id=14O4qO1l9TYSDk6xs-ZFbiTh0blNp_co-",#1
+            "https://drive.google.com/uc?ex/port=view&id=13p1uMYMMCQUERVd7NYvPYjOqS8_mO60i",#2
+            "https://drive.google.com/uc?export=view&id=13k9URuNPCXTzFOVFI8IHBnNQlHLFuRQg",#3
+            "https://drive.google.com/uc?export=view&id=13qRSF7z4DtkjD23H0eA8gE3kqT95pLDQ",#4
+            "https://drive.google.com/uc?export=view&id=13r9FKQG_K3xfj9ItVML_g3ib9qpf9-I3",#5
+            "https://drive.google.com/uc?export=view&id=14T9y86d_B5DqghQvLpQW1ysB8gyjZMUL",#6
+            "https://drive.google.com/uc?export=view&id=14K_EGfL_ILNh5Rt4RGMRqFHOmPoTwTmG",#7
+            "https://drive.google.com/uc?export=view&id=14IZAAHaGCkSdybsk_SSq7jpH9yFvV1Bu",#8
+            "https://drive.google.com/uc?export=view&id=144xD1Kbck9T_CIe2QdSP4NYP-aD6Dwvz",#9
+            "https://drive.google.com/uc?export=view&id=14LwQhnNTEj9yu-GvbVPxoBf-NiB0qffE",#10
         ]
         data_list = [
-            {
+            {#1
                 "nama": "Tri Murniya Ningsih",
                 "nim": "121450038",
                 "umur": "21",
@@ -224,7 +224,7 @@ elif menu == "Baleg":
                 "kesan": "Kakaknya menyenangkan dan asik.",  
                 "pesan":"Semangat terus kuliahnya Kak dan semoga bisa lulus tepat waktu dan sukses dalam kariernya nanti."
             },
-            {
+            {#2
                 "nama": "Claudhea Angeliani",
                 "nim": "12140124",
                 "umur": "21",
@@ -235,7 +235,7 @@ elif menu == "Baleg":
                 "kesan": "Kakaknya baik dan menyenangkan.",  
                 "pesan":"Semangat terus kuliahnya kak dan semoga sukses dan bisa mencapai apa yang diimpikan."
             },
-            {
+            {#3
                 "nama": "Dhea Amelia Putri",
                 "nim": "122450004",
                 "umur": "20",
@@ -246,7 +246,7 @@ elif menu == "Baleg":
                 "kesan": "Kakaknya seru dan asik.",  
                 "pesan":"Terus semangat kuliahnya Kak dan semoga berhasil dan sukses meraih cita-cita."
             },
-            {
+            {#4
                 "nama": "Jeremia Susanto",
                 "nim": "122450022",
                 "umur": "20",
@@ -257,7 +257,7 @@ elif menu == "Baleg":
                 "kesan": "Abang ini asik dan seru diajak ngobrol.",  
                 "pesan":"semangat terus Bang kuliahnya dan sukses mencapai apa yang diinginkan."# 1
             },
-            {
+            {#5
                 "nama": "Feryadi Yulius",
                 "nim": "122450087",
                 "umur": "20",
@@ -268,7 +268,7 @@ elif menu == "Baleg":
                 "kesan": "Abangnya menyenangkan dan asik.",  
                 "pesan":"Semangat terus kuliahnya Bang dan semoga sukses dalam segala hal yang diusahakan."
             },
-            {
+            {#6
                 "nama": "Mirzan Yusuf Rabbani",
                 "nim": "122450118",
                 "umur": "20",
@@ -279,7 +279,7 @@ elif menu == "Baleg":
                 "kesan": "Abangnya seru dan asik",  
                 "pesan":"Semangat terus kuliahnya Bang dan semoga sukses mengejar impian."
             },
-            {
+            {#7
                 "nama": "Muhammad Fahrul Aditya",
                 "nim": "121450156",
                 "umur": "22",
@@ -290,7 +290,7 @@ elif menu == "Baleg":
                 "kesan": "Abangnya seru diajak ngobrol",  
                 "pesan":"Semangat Bang kuliahnya dan sukses mengejar impian."
             },
-            {
+            {#8
                 "nama": "Annisa Cahyani Surya",
                 "nim": "121450114",
                 "umur": "21",
@@ -301,7 +301,7 @@ elif menu == "Baleg":
                 "kesan": "Kakaknya asik dan menyenangkan",  
                 "pesan":"Semangat terus kuliahnya Kak dan sukses mengejar cita-citanya."
             },
-            {
+            {#9
                 "nama": "Berliana Enda Putri",
                 "nim": "122450065",
                 "umur": "21",
@@ -312,7 +312,7 @@ elif menu == "Baleg":
                 "kesan": "Kakak menyenangkan dan asik pembawaannya",  
                 "pesan":"Semangat terus Kak kuliahnya dan sukses mengejar impiannya."
             },
-            {
+            {#10
                 "nama": "Anisa Dini Amalia",
                 "nim": "121450081",
                 "umur": "21",
