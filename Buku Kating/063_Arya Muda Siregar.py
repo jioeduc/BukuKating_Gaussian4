@@ -114,7 +114,7 @@ if menu == "Kesekjenan":
                 "asal":"Palembang",
                 "alamat": "Pulau Damar",
                 "hobbi": "Dengerin musik",
-                "sosmed": "@amsirahk",
+                "sosmed": "@gumilangkharisma",
                 "kesan": "Kakak ini asik dan chill",  
                 "pesan":"Semangat kuliahnya bang."# 1
             },
@@ -321,7 +321,7 @@ elif menu == "Senator":
                 "asal":"Lampung Tengah",
                 "alamat": "Kos Putri Rahyu",
                 "hobbi": "Bernyanyi",
-                "sosmed": "@anissaluthfia_",
+                "sosmed": "@anissaluthfi_",
                 "kesan": "Kakak ini inspiratif sekali",  
                 "pesan":"Semangat kuliahnya kak Luthfi"
             },
@@ -471,7 +471,7 @@ elif menu == "Departemen PSDA":
                 "asal":" Duri Riau  ", 
                 "alamat": "Khobam Pulau Damar", 
                 "hobbi": "Belajar", 
-                "sosmed": "@depanlo", 
+                "sosmed": "@depanloo", 
                 "kesan": "Kakaknya asik dan seru banget.",   
                 "pesan":"Semangat terus kuliahnya bang de." 
             },
@@ -482,7 +482,7 @@ elif menu == "Departemen PSDA":
                 "asal":"Bekasi", 
                 "alamat": "Kota Baru", 
                 "hobbi": "Dengerin the adams", 
-                "sosmed": "@presiliamy", 
+                "sosmed": "@presiliamg", 
                 "kesan": "Kakaknya asik banget.",   
                 "pesan":"Semangat kuliahnya kak Presilia." 
             },
@@ -1125,7 +1125,7 @@ elif menu == "Departemen Medkraf":
                 "asal":"Teluk",
                 "alamat": "Bandar Lampung",
                 "hobbi": "Ngegym",
-                "sosmed": "@cyhntiabella18",
+                "sosmed": "@cintyabella28",
                 "kesan": "Kakak ini ramah banget",  
                 "pesan":"semangat kak cintya kuliahnya"
             },
@@ -1147,7 +1147,7 @@ elif menu == "Departemen Medkraf":
                 "asal":"Lampung",
                 "alamat": "Jl. Kembang 5 Sukarame",
                 "hobbi": "Makan Geprek",
-                "sosmed": "@Rahmaneliyana",
+                "sosmed": "@Rahmanellyana",
                 "kesan": "Kakak ini asik banget",  
                 "pesan":"semangat kuliahnya Kak Rahma"
             },
@@ -1191,7 +1191,7 @@ elif menu == "Departemen Medkraf":
                 "asal":"Serang",
                 "alamat": "Lapangan Golf",
                 "hobbi": "Nyari Tuyul Baskat",
-                "sosmed": "@aimnn.as",
+                "sosmed": "@gymnn.as",
                 "kesan": "Abang ini chill parah",  
                 "pesan":"semangat kuliahnya Bang"
             },
@@ -1220,11 +1220,11 @@ elif menu == "Departemen Medkraf":
             {
                 "nama": "Muhammad Arsal Ranjana Utama",
                 "nim": "121450111",
-                "umur": "-",
+                "umur": "21",
                 "asal":"Depok",
                 "alamat": "Nangka 3",
                 "hobbi": "Koleksi Parfum",
-                "sosmed": "@Arsalutama",
+                "sosmed": "@Arsal.utama",
                 "kesan": "Abang ini ramah banget",  
                 "pesan":"semangat terus kuliahnya kak"
             },
@@ -1246,7 +1246,7 @@ elif menu == "Departemen Medkraf":
                 "asal":"Bandar Lampung",
                 "alamat": "Perum Griya Sukarame",
                 "hobbi": "Tidur",
-                "sosmed": "@akmal.faiz",
+                "sosmed": "@_akmail_faiz",
                 "kesan": "Abang ini asik banget",  
                 "pesan":"Semangat kuliahnya bang Akmal"
             },
@@ -1257,7 +1257,7 @@ elif menu == "Departemen Medkraf":
                 "asal":"Bogor",
                 "alamat": "Jalan Deket Tol",
                 "hobbi": "Bengong",
-                "sosmed": "@Hermanmanurung",
+                "sosmed": "@Hermawan.mnrng",
                 "kesan": "Abang ini asik banget",  
                 "pesan":"semangat kuliahnya Bang"
             },
