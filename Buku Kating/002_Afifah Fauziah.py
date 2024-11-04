@@ -355,8 +355,6 @@ elif menu == "Departemen PSDA":
           "https://drive.google.com/uc?export=view&id=1AFT426Io7b4JHmy9uwq8VN1NHtyxngdD",
           "https://drive.google.com/uc?export=view&id=19zNvUIiHyRlWebzXs5U1Z5PgegAbq0az",
           "https://drive.google.com/uc?export=view&id=1ADET6vp_-GmgaEQ9iRWrXJL0pKwxZiqe",
-          "https://drive.google.com/uc?export=view&id=1AFT426Io7b4JHmy9uwq8VN1NHtyxngdD",
-          "https://drive.google.com/uc?export=view&id=1AGjpVwuxwAVy5rZ_SzMTSGk48xu4Zgcr",
           "https://drive.google.com/uc?export=view&id=19zf-7Tx0UPViwHTaicZ63lhQFkTY2W4F",
           "https://drive.google.com/uc?export=view&id=1AGjpVwuxwAVy5rZ_SzMTSGk48xu4Zgcr",
           "https://drive.google.com/uc?export=view&id=1A9GWZRMVES3j1uPZNFGNYvH_Oypy18cJ",
@@ -1022,7 +1020,7 @@ elif menu == "Departemen Internal":
                 "alamat": "Way Kandis (Kobam)",
                 "hobbi": "Manjat tower sutet",
                 "sosmed": "@dimzrky_",
-                "kesan": "Abang sangat menginspirasi keren bgt publik speakingnyaa",  
+                "kesan": "Abang Dimass menginspirasi dan keren banget publik speakingnyaa",  
                 "pesan":"semangat terus kuliahnya bang, semoga lulus tepat waktu yaa!"
             },
             {
@@ -1044,8 +1042,8 @@ elif menu == "Departemen Internal":
                 "alamat": "Labuhan batu",
                 "hobbi": "Olahraga",
                 "sosmed": "@ari.sigit17",
-                "kesan": "abang sangat membantu dan mudah diajak bicara.",  
-                "pesan":"Semoga lancar semua urusannya bang sukses terus!!"
+                "kesan": "abang tuh asik di ajak diskusi",  
+                "pesan":"lancar luncur semua urusannya bang sukses terus!!"
             },
             {
                 "nama": "Azizah Kusumah Putri",
@@ -1056,7 +1054,7 @@ elif menu == "Departemen Internal":
                 "hobbi": "Berkebun",
                 "sosmed": "@azizahksmh15",
                 "kesan": "Kakak sangat ramah.",  
-                "pesan":"Semoga Kakak sukses dalam setiap langkah ke depan!!"
+                "pesan":"Semoga Kakak sukses selalu ke depannya!"
             },
             {
                 "nama": "Meira Listyaningrum",
@@ -1066,8 +1064,8 @@ elif menu == "Departemen Internal":
                 "alamat": "Airan",
                 "hobbi": "Menghalu",
                 "sosmed": "@meiralsty_",
-                "kesan": "Kakak luar biasa dalam membimbing.",  
-                "pesan":"Semoga kebahagiaan selalu menyertai Kakak!"
+                "kesan": "Kakak tuh imut tauu.",  
+                "pesan":"Semoga bahagia dan happy happy aja yaa Kakak!"
             },
             {
                 "nama": "Rendi Alexander Hutagalung",
@@ -1077,8 +1075,8 @@ elif menu == "Departemen Internal":
                 "alamat": "Kost Benawang",
                 "hobbi": "Nyanyi",
                 "sosmed": "@lexanderr",
-                "kesan": "Kakak memiliki kepribadian yang ramah dan menyenangkan.",  
-                "pesan":"semangat terus kuliahnya kak !!!"
+                "kesan": "Aselii chill gitu lho abangnya dan memiliki kepribadian yang ramah dan menyenangkan.",  
+                "pesan":"semangat terus kuliahnya ya abangg!"
             },
             {
                 "nama": "Josua Panggabean",
@@ -1088,8 +1086,8 @@ elif menu == "Departemen Internal":
                 "alamat": "Gia kost Gerbang barat",
                 "hobbi": "Ngawinin cupang",
                 "sosmed": "@josuapanggabean16_",
-                "kesan": "Kakak sangat sabar dalam mengajarkan hal baru kepada kami.",  
-                "pesan":"Semoga Kakak selalu diberi kemudahan dalam setiap usaha!!"
+                "kesan": "abang kece badaii",  
+                "pesan":"Semoga abang selalu diberi kemudahan dalam setiap usaha!!"
             },
             {
                 "nama": "M. Akbar Resdika",
@@ -1099,8 +1097,8 @@ elif menu == "Departemen Internal":
                 "alamat": "Labuhan dalam",
                 "hobbi": "Miara Dino",
                 "sosmed": "@akbar.resdika",
-                "kesan": "Kakak selalu berusaha menciptakan suasana yang menyenangkan.",  
-                "pesan":"Semoga semua usaha Kakak membuahkan hasil yang memuaskan!"
+                "kesan": "Selalu menciptakan suasana yang asik abangnya",  
+                "pesan":"Semoga semua usaha abang membuahkan hasil yang memuaskan yaa!"
             },
             {
                 "nama": "Renta Siahaan",
