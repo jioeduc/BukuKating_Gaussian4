@@ -132,18 +132,18 @@ if menu == "Kesekjenan":
                 "asal":"Palembang",
                 "alamat": "Pulau Damar",
                 "hobbi": "Dengerin musik",
-                "sosmed": "@amsirahk",
+                "sosmed": "@gumilangkharisma",
                 "kesan": "Bang Gumilang baik dan banyak pengalaman seru.",  
                 "pesan":"Semangat terus bang, teruslah menemukan inspirasi dari musik dan semoga semua cita-citanya segera tercapai."# 1
             },
             {
                 "nama": "Pandra Insani Putra Azwar",
-                "nim": "121450077",
+                "nim": "121450137",
                 "umur": "21",
                 "asal":"Lampung Utara",
                 "alamat": "Sukarame",
                 "hobbi": "Main gitar",
-                "sosmed": "@pndrinsnptr2",
+                "sosmed": "@pndrinsni27",
                 "kesan": "Bang Pandra seru dan keren.",  
                 "pesan":"Terus semangat main gitarnya bang. Semoga kuliahnya lancar dan impiannya tercapai."# 1
             },
@@ -160,7 +160,7 @@ if menu == "Kesekjenan":
             },
             {
                 "nama": "Hartiti Fadilah",
-                "nim": "12145031",
+                "nim": "121450031",
                 "umur": "21",
                 "asal":"Sumatera Selatan",
                 "alamat": "Pemda",
@@ -177,7 +177,7 @@ if menu == "Kesekjenan":
                 "alamat": "Nangka 4",
                 "hobbi": "Dengerin Bang Pandra gitaran",
                 "sosmed": "@ptrimaulidaaa_",
-                "kesan": "Kakaknya kece dan seru.",  
+                "kesan": "Kak Putri kece dan seru.",  
                 "pesan":"Terus semangat dengerin Bang Pandra gitaran dan sukses dalam segala hal."# 1
             },
             {
@@ -187,8 +187,8 @@ if menu == "Kesekjenan":
                 "asal":"Metro",
                 "alamat": "Kota Baru",
                 "hobbi": "Kura-kura",
-                "sosmed": "@azilem",
-                "kesan": "Kakaknya punya hobi menarik dan asik.",  
+                "sosmed": "@nadillaandr26",
+                "kesan": "Kak Nadilla punya hobi menarik dan asik.",  
                 "pesan":"Semangat ngerawat kura-kuranya dan Semoga semua yang diinginkan tercapai kak."# 1
             },
         ]
@@ -203,7 +203,7 @@ elif menu == "Baleg":
         gambar_urls = [
             "https://drive.google.com/uc?export=view&id=14O4qO1l9TYSDk6xs-ZFbiTh0blNp_co-",
             "https://drive.google.com/uc?export=view&id=14IZAAHaGCkSdybsk_SSq7jpH9yFvV1Bu",
-            "https://drive.google.com/uc?export=view&id=13p1uMYMMCQUERVd7NYvPYjOqS8_mO60i",
+            "https://drive.google.com/uc?ex/port=view&id=13p1uMYMMCQUERVd7NYvPYjOqS8_mO60i",
             "https://drive.google.com/uc?export=view&id=13qRSF7z4DtkjD23H0eA8gE3kqT95pLDQ",
             "https://drive.google.com/uc?export=view&id=13r9FKQG_K3xfj9ItVML_g3ib9qpf9-I3",
             "https://drive.google.com/uc?export=view&id=14T9y86d_B5DqghQvLpQW1ysB8gyjZMUL",
@@ -226,7 +226,7 @@ elif menu == "Baleg":
             },
             {
                 "nama": "Claudhea Angeliani",
-                "nim": "121400124",
+                "nim": "12140124",
                 "umur": "21",
                 "asal":"Salatiga",
                 "alamat": "Lampung Timur",
@@ -341,7 +341,7 @@ elif menu == "Senator":
                 "asal":"Lampung Tengah",
                 "alamat": "Kos Putri Rahyu",
                 "hobbi": "Bernyanyi",
-                "sosmed": "@anissaluthfia_",
+                "sosmed": "@anissaluthfi_",
                 "kesan": "Kakaknya inspiratif",  
                 "pesan":"Semanagat terus kuliahnya kak"
             },
@@ -352,7 +352,7 @@ elif menu == "Senator":
                 "asal":"Palembang",
                 "alamat": "Kotabaru",
                 "hobbi": "Tidur",
-                "sosmed": "@Bintangtwinkle",
+                "sosmed": "@bintangtwinkle",
                 "kesan": "Bang bintang asik",  
                 "pesan":"Semangat terus dan jaga kesehataanya bang"
             }
@@ -425,7 +425,7 @@ elif menu == "Departemen PSDA":
                 "asal":"Sumatera Barat",
                 "alamat": "Belwis",
                 "hobbi": "Ngukur lampu",
-                "sosmed": "@allyaislami",
+                "sosmed": "@allyaislami_",
                 "kesan": "kakaknya seru dan asik",  
                 "pesan":"Semangat terus kuliahnya kak dan jaga kesehatan"
             },
@@ -485,13 +485,13 @@ elif menu == "Departemen PSDA":
                 "pesan":"Semangat terus Kak kuliahnya dan sukses mengejar impiannya."
             },
             { 
-                "nama": " Deyvan Loxefal", 
-                "nim": " 121450148 ", 
+                "nama": "Deyvan Loxefal", 
+                "nim": "121450148", 
                 "umur":  "21", 
                 "asal":" Duri Riau  ", 
                 "alamat": "Khobam Pulau Damar", 
                 "hobbi": "Belajar", 
-                "sosmed": "@depanlo", 
+                "sosmed": "@depanloo", 
                 "kesan": "Abangnya asik, seru, dan lucu",   
                 "pesan":"Semangat terus bang kuliahnya dan semangat mengejar cita-citanya" 
             },
@@ -502,7 +502,7 @@ elif menu == "Departemen PSDA":
                 "asal":"Bekasi", 
                 "alamat": "Kota Baru", 
                 "hobbi": "Dengerin the adams", 
-                "sosmed": "@presiliamy", 
+                "sosmed": "@presiliamg", 
                 "kesan": "Kakaknya asik dan seru.",   
                 "pesan":"Semangat terus Kak kuliahnya dan semoga semua cita-citanya tercapai." 
             },
@@ -513,7 +513,7 @@ elif menu == "Departemen PSDA":
                 "asal":"Tangerang", 
                 "alamat": "Jl. Lapas", 
                 "hobbi": "Ngasprak", 
-                "sosmed": "@johanneskrisjon", 
+                "sosmed": "@johanneskrisjnnn", 
                 "kesan": "Abangnya seru dan asik",   
                 "pesan":"Semangat terus bang kuiahnya dan semoga apa yang diimpikan tercapai" 
             },
@@ -562,7 +562,7 @@ elif menu == "Departemen PSDA":
                 "pesan":"Semangat terus bang kuliahnya dan semoga semua cita-citanya tercapai."
             },
             {
-                "nama": "Gede Moana",
+                "nama": "Gede Moena",
                 "nim": "121450014",
                 "umur": "21",
                 "asal":"Bekasi",
