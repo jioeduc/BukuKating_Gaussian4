@@ -1005,22 +1005,22 @@ elif menu == "Departemen Eksternal":
 elif menu == "Departemen Internal":
     def internal():
         gambar_urls = [
-            "https://drive.google.com/uc?export=view&id=10qmURTiRrdF3Bk2p-jQKvpHaY_YEG8BW",
+            "https://drive.google.com/uc?export=view&id=10qmURTiRrdF3Bk2p-jQKvpHaY_YEG8BW",#1
             "https://drive.google.com/uc?export=view&id=1DW2_3O-cYTIHtmTVNNGaleavw9-xDbOd",#2
             "https://drive.google.com/uc?export=view&id=1DrdTUWpYst7OGVXNv_kBdhSiTyx1R7YB",#3
             "https://drive.google.com/uc?export=view&id=1DMlD_Ae55CnzHNTNgJijgaV9422ffD7r",#4
             "https://drive.google.com/uc?export=view&id=1DMz7ij4GS-jO0yMA8vfP0mp0uckAykLf",#5
             "https://drive.google.com/uc?export=view&id=1DTxa58_reMyyLfFFLNPCziAbbyfCC8gA",#6
-            "https://drive.google.com/uc?export=view&id=1DWZNm-WwfxqGnqzlr_C_4IIyk6-j1PUT",#7
+            "https://drive.google.com/uc?export=view&id=10iODSCec1PtcGEM0MNbq_qqQ7kwKLtkk",#7
             "https://drive.google.com/uc?export=view&id=1DXOrglhKLVapVzvN2YqRp8gcGbNCSanD",#8
             "https://drive.google.com/uc?export=view&id=1Df6WT1KYo1kgaTWtRKV8MT4IDV3IFkJ6",#9
             "https://drive.google.com/uc?export=view&id=1Dlwt-3JB3G9pB18Ti0olnl9_kb5zfgIJ",#10
             "https://drive.google.com/uc?export=view&id=1DdHP9qED9cUGOpK7W5oe9Bol68hKr0kS",#11
             "https://drive.google.com/uc?export=view&id=1DKeDqfIXERlHbZXwMvlsCVvJH39CycH8",#12
-            "https://drive.google.com/uc?export=view&id=1DcNewIsJkPLHSLO1Uvl5a42V3Gf1lDcQ",#13
+            "https://drive.google.com/uc?export=view&id=1DcNewIsJkPLHSLO1Uvl5a42V3Gf1lDcQ",#
         ]
         data_list = [
-            {
+            {#1
                 "nama": "Dimas Rizky Ramadhani",
                 "nim": "121450027",
                 "umur": "20",
@@ -1031,7 +1031,7 @@ elif menu == "Departemen Internal":
                 "kesan": "Abangnya banyak pengalaman dan menginspirasi",  
                 "pesan":"Semangat terus bang dan semoga segala mimpi dan keinginan terwujud"
             },
-            {
+            {#2
                 "nama": "Catherine Firdhasari Maulina Sinaga",
                 "nim": "121450072",
                 "umur": "20",
@@ -1042,7 +1042,7 @@ elif menu == "Departemen Internal":
                 "kesan": "Kakaknya baik,, positive vibes",  
                 "pesan":"semangat terus kuliahnya kak, semoga semua urusannya diperlancar!!"# 2
             },
-            {
+            {#3
                 "nama": "Ari Sigit",
                 "nim": "121450069",
                 "umur": "23",
@@ -1053,7 +1053,7 @@ elif menu == "Departemen Internal":
                 "kesan": "Abangnya sangat membantu dan mudah diajak bicara.",  
                 "pesan":"Semoga lancar semua urusan Kakak, sukses terus!!"# 3
             },
-            {
+            {#4
                 "nama": "Azizah Kusumah Putri",
                 "nim": "122450068",
                 "umur": "21",
@@ -1064,7 +1064,7 @@ elif menu == "Departemen Internal":
                 "kesan": "Kakaknya sangat ramah.",  
                 "pesan":"Semoga Kakak sukses dalam setiap langkah ke depan!!"# 4
             },
-            {
+            {#5
                 "nama": "Meira Listyaningrum",
                 "nim": "122450011",
                 "umur": "20",
@@ -1075,7 +1075,7 @@ elif menu == "Departemen Internal":
                 "kesan": "Kakaknya luar biasa dalam membimbing.",  
                 "pesan":"Semoga kebahagiaan selalu menyertai Kakak!!"# 5
             },
-            {
+            {#6
                 "nama": "Rendi Alexander Hutagalung",
                 "nim": "122450057",
                 "umur": "20",
@@ -1086,7 +1086,7 @@ elif menu == "Departemen Internal":
                 "kesan": "Abangnya memiliki kepribadian yang ramah dan menyenangkan.",  
                 "pesan":"semangat terus kuliahnya kak !!!"# 6
             },
-            {
+            {#7
                 "nama": "Josua Alfa Viando Panggabean",
                 "nim": "121450061",
                 "umur": "21",
@@ -1097,7 +1097,7 @@ elif menu == "Departemen Internal":
                 "kesan": "Abangnya sangat sabar dalam mengajarkan hal baru kepada kami.",  
                 "pesan":"Semoga Kakak selalu diberi kemudahan dalam setiap usaha!!"# 7
             },
-            {
+            {#8
                 "nama": "M. Akbar Resdika",
                 "nim": "121450066",
                 "umur": "20",
