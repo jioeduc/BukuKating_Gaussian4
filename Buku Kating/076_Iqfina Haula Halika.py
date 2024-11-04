@@ -120,7 +120,7 @@ if menu == "Kesekjenan":
             },
             {
                 "nama": "Pandra Insani Putra Azwar",
-                "nim": "121450077",
+                "nim": "1214500137",
                 "umur": "21",
                 "asal":"Lampung Utara",
                 "alamat": "Sukarame",
@@ -1282,7 +1282,7 @@ elif menu == "Departemen Medkraf":
             },
             {
                 "nama": "Gymnastiar Al-Khoarizmy",
-                "nim": "122450065",
+                "nim": "122450096",
                 "umur": "20",
                 "asal":"Serang",
                 "alamat": "Lapangan Golf",
@@ -1316,7 +1316,7 @@ elif menu == "Departemen Medkraf":
             {
                 "nama": "Muhammad Arsal Ranjana Utama",
                 "nim": "121450111",
-                "umur": "-",
+                "umur": "21",
                 "asal":"Depok",
                 "alamat": "Nangka 3",
                 "hobbi": "Koleksi Parfum",
