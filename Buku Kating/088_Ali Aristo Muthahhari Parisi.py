@@ -830,8 +830,8 @@ elif menu == "Departemen Eksternal":
                 "alamat": "Sukarame",
                 "hobbi": "Tidur",
                 "sosmed": "@Yogyyyyyyy",
-                "kesan": "abangnya seru dan menyenagkan",  
-                "pesan":"Semangat Kuliahnya bang dan mengejar semua impiannya"
+                "kesan": "Bang Yogy banyak pengalaman seru dan asik",  
+                "pesan":"Selalu jaga kesehatan dan semoga terwujud segala keinginannya bang"
             },
             {
                 "nama": "Ramadhita Atifa Hendri",
@@ -841,8 +841,8 @@ elif menu == "Departemen Eksternal":
                 "alamat": "Rajabasa",
                 "hobbi": "Jalan-jalan",
                 "sosmed": "@ramadhitatifa",
-                "kesan": "Kakaknya Sangat seru",  
-                "pesan":"Semangat terus mewujudkan cita-citanya"
+                "kesan": "Kak Ramadhita baik dan asik",  
+                "pesan":"Selalu jaga kesehatannya kak biar lancar jalan-jalannya dan sukses selalu kak."
             },
             {
                 "nama": "Yohana Manik",
@@ -852,8 +852,8 @@ elif menu == "Departemen Eksternal":
                 "alamat": "Belwis",
                 "hobbi": "Membuat Jurnal",
                 "sosmed": "@yo_anamnk",
-                "kesan": "Kakaknya menyenangkan",  
-                "pesan":"Terus semangat kuliahnya kak dan jaga kesehatannya"
+                "kesan": "Kak Yohana seru dan menyenangkan",  
+                "pesan":"Semangat terus buat jurnalnya kak dan semoga tercapai semua mimpinya. Sukses selalu kak."
             },
             {
                 "nama": "Dea Mutia Risani",
@@ -863,8 +863,8 @@ elif menu == "Departemen Eksternal":
                 "alamat": "Korpri",
                 "hobbi": "Nerbitin Jurnal",
                 "sosmed": "@deaa.rsn",
-                "kesan": "kakak ini seru dan mengasikkan",  
-                "pesan":"Semangat terus kuliahnya dan jaga kesehatannya kak"
+                "kesan": "kak Dea seru dan keren",  
+                "pesan":"Jaga terus kesehatannya kak biar lancar nerbitin jurnalnya dan semoga selalu dipermudah jalan mewujudkan mimpinya."
             },
             {
                 "nama": "Novelia Adinda",
