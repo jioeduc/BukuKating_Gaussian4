@@ -661,7 +661,7 @@ elif menu == "Departemen MIKFES":
                 "hobbi": "Olahraga",
                 "sosmed": "@sahid22__",
                 "kesan": "Bang Sahid orangnya baik dan seru",  
-                "pesan":"Semangat terus olahraga dan semangat terus ngerawat anak gauss bang"
+                "pesan":"Semangat terus olahraga dan semangat terus ngerawat anak gauss bang. Semoga terwujug semua mimpinya."
             },
 
 
@@ -673,8 +673,8 @@ elif menu == "Departemen MIKFES":
                 "alamat": "Jl.Permadi Sukarame",
                 "hobbi": "Nyanyi",
                 "sosmed": "@mregiiii_",
-                "kesan": "Aura bintangnya ada banget",  
-                "pesan":"Semangat terus bang"
+                "kesan": "Bang Regi baik dan asik",  
+                "pesan":"Semangat kuliah sama ngaspraknya dan jaga kesehatannya. Sukses selalu bang."
             },
 
            
@@ -686,8 +686,8 @@ elif menu == "Departemen MIKFES":
                 "alamat": "Kopri",
                 "hobbi": "Scroll tiktok",
                 "sosmed": "@here.am.ai",
-                "kesan": "Abangnya keren banget?!",  
-                "pesan":"Semangat terus bang"
+                "kesan": "Bang Anwar orangnya baik dan kalem",  
+                "pesan":"Jaga kesehatannya dan semagat kuliahnya bang. Semoga terwujud semua keinginannya."
             },
 
             {
@@ -698,8 +698,8 @@ elif menu == "Departemen MIKFES":
                 "alamat": "Bandar Lampung",
                 "hobbi": "Nonton film",
                 "sosmed": "@anjaniiidev",
-                "kesan": "Suka banget sama kakaknya?!",  
-                "pesan":"Semangat terus kak"
+                "kesan": "Kak Deva ramah dan menyenangkan",  
+                "pesan":"Semangat terus nonton film dan kuliahnya kak dan semoga selalu dipermudah mewujudakan mimpinya."
             },
 
             {
@@ -710,8 +710,8 @@ elif menu == "Departemen MIKFES":
                 "alamat": "Jl. Lapas",
                 "hobbi": "Belajar",
                 "sosmed": "@dindanababan_",
-                "kesan": "Kakaknya ramah benget?!",  
-                "pesan":"Semangat terus kak"
+                "kesan": "Kak Dinda baik dan ramah",  
+                "pesan":"Semangat terus belajarnya kak dan semoga selalu dipermudah mewujudkan cita-citanya"
             },
 
             {
@@ -722,8 +722,8 @@ elif menu == "Departemen MIKFES":
                 "alamat": "Gg. Nangka 3",
                 "hobbi": "Main musik ",
                 "sosmed": "@marletacornelia",
-                "kesan": "Kak Marleta positive vibe banget",  
-                "pesan":"Semangat terus kak"
+                "kesan": "Kak Marleta positive vibe dan menyenangkan",  
+                "pesan":"Sukses selalu dan semangat terus main musiknya kak. Semoga dilancarkan dalam menggapai mimpinya."
             },
 
             {
@@ -734,8 +734,8 @@ elif menu == "Departemen MIKFES":
                 "alamat": "Belwis",
                 "hobbi": "Resume SG",
                 "sosmed": "@puspadrr",
-                "kesan": "Senangnya bertemu kakak NIM :D",  
-                "pesan":"Semangat terus kak"
+                "kesan": "Kak Puspa asik dan baik",  
+                "pesan":"Semangat kuliah dan ngeresumenya kak dan jaga kesehatannya selalu.  "
             },
 
             {
@@ -746,8 +746,8 @@ elif menu == "Departemen MIKFES":
                 "alamat": "Korpri",
                 "hobbi": "Main Game",
                 "sosmed": "@rhm_adityaa",
-                "kesan": "Abangnya seru abis",  
-                "pesan":"Semangat terus bang"
+                "kesan": "Abangnya baik, asik, dan cool",  
+                "pesan":"Semangat terus kuliahnya dan jaga kesehatannya bang. Sukses selalu."
             },
 
             {
@@ -758,8 +758,8 @@ elif menu == "Departemen MIKFES":
                 "alamat": "Kopri Jaya",
                 "hobbi": "Lari",
                 "sosmed": "@_egistr",
-                "kesan": "Gokil",  
-                "pesan":"Semangat terus bang"
+                "kesan": "Bang Eggi seru dan baik",  
+                "pesan":"Selalu jaga kesehatan bang biar hobinya jalan terus dan sukses selalu."
             },
 
             {
@@ -770,8 +770,8 @@ elif menu == "Departemen MIKFES":
                 "alamat": "Belwis",
                 "hobbi": "Nonton K-Drama",
                 "sosmed": "@pratiwifebiya",
-                "kesan": "Hobinya relate banget",  
-                "pesan":"Semangat terus kak"
+                "kesan": "Kak Febiya ramah dan kalem",  
+                "pesan":"Semangat terus kak nonton drakornya dan mewujudkan keinginannya."
             },
 
             {
@@ -782,8 +782,8 @@ elif menu == "Departemen MIKFES":
                 "alamat": "Karang Ayar",
                 "hobbi": "Main Game",
                 "sosmed": "@sudo.syahrulramadhannn",
-                "kesan": "Abangnya pendiem kah?",  
-                "pesan":"Semangat terus bang"
+                "kesan": "Bang Syahrul keren dan seru",  
+                "pesan":"Selalu jaga kesehatan dan terus semangat kuliahnya band. Semoga semua mimpinya terwujud"
             },
 
             {
@@ -794,8 +794,8 @@ elif menu == "Departemen MIKFES":
                 "alamat": "Sukarame",
                 "hobbi": "Berkembang dan tidur",
                 "sosmed": "@randaandriana_",
-                "kesan": "Bang Randa keren poll",  
-                "pesan":"Semangat membantu bocah-bocah Gauss"
+                "kesan": "Bang Randa keren, baik, dan jago ngoding",  
+                "pesan":"Semangat membantu bocah-bocah Gauss dan sehat selalu serta semoga terwujud semua keinginannya."
             }
         ]
         display_images_with_data(gambar_urls, data_list)
