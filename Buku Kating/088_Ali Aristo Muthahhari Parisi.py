@@ -459,8 +459,8 @@ elif menu == "Departemen PSDA":
                 "alamat": "Senopati Raya",
                 "hobbi": "Dengerin Musik",
                 "sosmed": "@ferdy_kevin",
-                "kesan": "Abangnya seru diajak ngobrol",  
-                "pesan":"Semangat Bang kuliahnya dan semoga sukses mengejar impian"
+                "kesan": "Bang ferdy orangnya serius",  
+                "pesan":"Semangat mewujudkan keinginan dan sehat selalu bang."
             },
             {
                 "nama": "M. Deriansyah Okutra",
@@ -470,8 +470,8 @@ elif menu == "Departemen PSDA":
                 "alamat": "Jl. Pagar Alam Kedaton",
                 "hobbi": "Nyari Angin Malam",
                 "sosmed": "@dransyh_",
-                "kesan": "abangnya asik dan menyenangkan",  
-                "pesan":"Semangat terus kuliahnya Kak dan jaga kesehatannya"
+                "kesan": "Bang Derianssyah orangnya asik dan menyenangkan",  
+                "pesan":"Jangan lupa jaga keshatannya bang biar bisa terus cari angin malam dan semoga terwujud semua mimpinya"
             },
             {
                 "nama": "Oktavia Nurwinda Puspitasari",
@@ -481,8 +481,8 @@ elif menu == "Departemen PSDA":
                 "alamat": "Way Huwi",
                 "hobbi": "Ngeliatin tingkah orang",
                 "sosmed": "@_oktavianrwnda_",
-                "kesan": "Kakaknya menyenangkan dan asik pembawaannya",  
-                "pesan":"Semangat terus Kak kuliahnya dan sukses mengejar impiannya."
+                "kesan": "Kak Oktavia orangnya asik dan menyenangkan",  
+                "pesan":"Sehat selalu dan Semoga dipermudah jalan mewujudkan mimpinya kak."
             },
             { 
                 "nama": "Deyvan Loxefal", 
